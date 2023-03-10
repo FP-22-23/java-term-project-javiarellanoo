@@ -7,7 +7,7 @@ import java.util.Objects;
 
 import utils.Checkers;
 
-public class Hero {
+public class Hero implements Comparable<Hero> {
 	private String name;
 	private Gender gender;
 	private Publisher publisher;
@@ -18,8 +18,8 @@ public class Hero {
 	private List<String> powers;
 	private LocalDate birth;
 	public Hero(String n, Gender g, Integer h, Integer w, boolean a, Complexion c, LocalDate birth, Publisher p) {
-		Checkers.check("The hero must have a name", n=="");
-		Checkers.check("Weight and height must be positive", h>0 || w>0);
+		Checkers.check("The hero must have a name", !n.isBlank());
+		Checkers.check("Weight and height must be positive", h>=0 && w>=0);
 		this.name = n;
 		this.gender = g;
 		this.height = h;
@@ -32,7 +32,7 @@ public class Hero {
 	}
 	
 	public Hero(String n, Gender g,boolean a, Complexion c) {
-		Checkers.check("The hero must have a name", n=="");
+		Checkers.check("The hero must have a name", !n.isBlank());
 		this.name = n;
 		this.gender = g;
 		this.affiliation =a;
@@ -90,10 +90,6 @@ public class Hero {
 		return powers;
 	}
 
-	public void setPowers(List<String> powers) {
-		this.powers = powers;
-	}
-
 	public LocalDate getBirth() {
 		return birth;
 	}
@@ -133,7 +129,7 @@ public class Hero {
 	@Override
 	public String toString() {
 		return "Hero [name=" + name + ", gender=" + gender + ", publisher=" + publisher + ", height=" + height
-				+ ", weight=" + weight + ", affiliation=" + affiliation + ", complexion=" + complexion + ", Number of powers="
+				+ ", weight=" + weight + ", is it a hero?=" + affiliation + ", Complexion(" + complexion.getShortFormat() +" )" + ", Number of powers="
 				+ getPowers().size() + ", Age=" + getAge() + "]";
 	}
 	
