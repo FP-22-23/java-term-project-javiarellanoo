@@ -61,8 +61,8 @@ Represents a comic hero
 
 **Equality and Ordenation**
 
-***Equality criterion***: Two heroes are equal if they have the same name, gender and publisher.
-***Natural order***: By name and gender.
+* ***Equality criterion***: Two heroes are equal if they have the same name, gender and publisher.
+* ***Natural order***: By name and gender.
 
 **Other operations**:
 
