@@ -58,6 +58,9 @@ Represents a comic hero
 - R1: The character needs to have a name, a string different than ""(empty string).
 - R2: The weight has to be greater than zero.
 - R3: The height has to be greater than zero.
+
+**Equality and Ordenation**
+
 ***Equality criterion***: Two heroes are equal if they have the same name, gender and publisher.
 ***Natural order***: By name and gender.
 
