@@ -123,7 +123,7 @@ public class Hero implements Comparable<Hero> {
 		if (getClass() != obj.getClass())
 			return false;
 		Hero other = (Hero) obj;
-		return Objects.equals(birth, other.birth) && Objects.equals(name, other.name) && publisher == other.publisher;
+		return Objects.equals(gender, other.gender) && Objects.equals(name, other.name) && publisher == other.publisher;
 	}
 
 	@Override
