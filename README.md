@@ -73,4 +73,4 @@ Represents a comic hero
 
 - Publisher, enumerated. Can take the values MARVEL, DC, DARK_HORSE, OTHER.
 - Gender, enumerated. Can take the vales MALE, FEMALE, NOT_AVAILABLE.
-- Complexion, class. Contains the skin colour, race, eye colour and hair colour of the character.
+- Complexion, record. Contains the skin colour, race, eye colour and hair colour of the character.
