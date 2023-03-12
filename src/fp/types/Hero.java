@@ -111,7 +111,7 @@ public class Hero implements Comparable<Hero> {
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(birth, name, publisher);
+		return Objects.hash(gender, name, publisher);
 	}
 
 	@Override
