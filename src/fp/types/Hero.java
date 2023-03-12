@@ -1,11 +1,11 @@
-package types;
+package fp.types;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-import utils.Checkers;
+import fp.utils.Checkers;
 
 public class Hero implements Comparable<Hero> {
 	private String name;

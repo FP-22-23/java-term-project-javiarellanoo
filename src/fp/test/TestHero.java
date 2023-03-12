@@ -1,9 +1,9 @@
-package test;
+package fp.test;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import types.*;
+import fp.types.*;
 public class TestHero {
 
 	public static void main(String[] args) {

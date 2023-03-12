@@ -1,4 +1,4 @@
-package types;
+package fp.types;
 
 public record Complexion(String race, String hairColour, String skin, String eyes){
 	public Complexion(String race, String hairColour, String skin, String eyes) {
