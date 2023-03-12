@@ -1,4 +1,4 @@
-package fp.test;
+package fp.types.test;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
