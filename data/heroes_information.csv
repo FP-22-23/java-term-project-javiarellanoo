@@ -1,735 +1,735 @@
-Column1;name;Gender;Eye color;Race;Hair color;Height ;Publisher;Skin color;Alignment;Weight;Birth Date
-0;A-Bomb;Male;yellow;Human;No Hair;203;Marvel Comics;-;good;441;29/07/2005
-1;Abe Sapien;Male;blue;Icthyo Sapien;No Hair;191;Dark Horse Comics;blue;good;65;03/01/2014
-2;Abin Sur;Male;blue;Ungaran;No Hair;185;DC Comics;red;good;90;02/06/2000
-3;Abomination;Male;green;Human / Radiation;No Hair;203;Marvel Comics;-;bad;441;19/01/1999
-4;Abraxas;Male;blue;Cosmic Entity;Black;Indefinite;Marvel Comics;-;bad;Indefinite;06/07/2003
-5;Absorbing Man;Male;blue;Human;No Hair;193;Marvel Comics;-;bad;122;28/08/2008
-6;Adam Monroe;Male;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;24/12/2013
-7;Adam Strange;Male;blue;Human;Blond;185;DC Comics;-;good;88;01/04/1995
-8;Agent 13;Female;blue;-;Blond;173;Marvel Comics;-;good;61;13/02/1996
-9;Agent Bob;Male;brown;Human;Brown;178;Marvel Comics;-;good;81;11/09/1999
-10;Agent Zero;Male;-;-;-;191;Marvel Comics;-;good;104;31/01/2000
-11;Air-Walker;Male;blue;-;White;188;Marvel Comics;-;bad;108;18/05/2001
-12;Ajax;Male;brown;Cyborg;Black;193;Marvel Comics;-;bad;90;05/08/1995
-13;Alan Scott;Male;blue;-;Blond;180;DC Comics;-;good;90;07/12/1997
-14;Alex Mercer;Male;-;Human;-;Indefinite;Wildstorm;-;bad;Indefinite;23/01/2003
-15;Alex Woolsly;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;03/10/1999
-16;Alfred Pennyworth;Male;blue;Human;Black;178;DC Comics;-;good;72;18/10/1997
-17;Alien;Male;-;Xenomorph XX121;No Hair;244;Dark Horse Comics;black;bad;169;01/02/2003
-18;Allan Quatermain;Male;-;-;-;Indefinite;Wildstorm;-;good;Indefinite;09/01/2013
-19;Amazo;Male;red;Android;-;257;DC Comics;-;bad;173;28/11/2002
-20;Ammo;Male;brown;Human;Black;188;Marvel Comics;-;bad;101;09/02/2010
-21;Ando Masahashi;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;15/02/2014
-22;Angel;Male;blue;-;Blond;183;Marvel Comics;-;good;68;11/05/2004
-23;Angel;Male;-;Vampire;-;Indefinite;Dark Horse Comics;-;good;Indefinite;21/11/2012
-24;Angel Dust;Female;yellow;Mutant;Black;165;Marvel Comics;-;good;57;04/06/1996
-25;Angel Salvadore;Female;brown;-;Black;163;Marvel Comics;-;good;54;18/01/1999
-26;Angela;Female;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;19/06/2001
-27;Animal Man;Male;blue;Human;Blond;183;DC Comics;-;good;83;10/02/1998
-28;Annihilus;Male;green;-;No Hair;180;Marvel Comics;-;bad;90;21/10/2012
-29;Ant-Man;Male;blue;Human;Blond;211;Marvel Comics;-;good;122;16/01/2014
-30;Ant-Man II;Male;blue;Human;Blond;183;Marvel Comics;-;good;86;06/07/1999
-31;Anti-Monitor;Male;yellow;God / Eternal;No Hair;61;DC Comics;-;bad;Indefinite;02/08/2002
-32;Anti-Spawn;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;15/06/2009
-33;Anti-Venom;Male;blue;Symbiote;Blond;229;Marvel Comics;-;-;358;16/08/2009
-34;Apocalypse;Male;red;Mutant;Black;213;Marvel Comics;grey;bad;135;19/07/2004
-35;Aquababy;Male;blue;-;Blond;Indefinite;DC Comics;-;good;Indefinite;16/04/1996
-36;Aqualad;Male;blue;Atlantean;Black;178;DC Comics;-;good;106;25/01/1998
-37;Aquaman;Male;blue;Atlantean;Blond;185;DC Comics;-;good;146;03/03/2005
-38;Arachne;Female;blue;Human;Blond;175;Marvel Comics;-;good;63;13/02/2014
-39;Archangel;Male;blue;Mutant;Blond;183;Marvel Comics;blue;good;68;29/08/2008
-40;Arclight;Female;violet;-;Purple;173;Marvel Comics;-;bad;57;24/04/1996
-41;Ardina;Female;white;Alien;Orange;193;Marvel Comics;gold;good;98;26/07/2009
-42;Ares;Male;brown;-;Brown;185;Marvel Comics;-;good;270;28/10/2001
-43;Ariel;Female;purple;-;Pink;165;Marvel Comics;-;good;59;11/07/2007
-44;Armor;Female;black;-;Black;163;Marvel Comics;-;good;50;07/10/2010
-45;Arsenal;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;09/09/2003
-46;Astro Boy;Male;brown;-;Black;Indefinite;;-;good;Indefinite;03/04/2008
-47;Atlas;Male;brown;Mutant;Red;183;Marvel Comics;-;good;101;12/09/2003
-48;Atlas;Male;blue;God / Eternal;Brown;198;DC Comics;-;bad;126;30/03/1996
-49;Atom;Male;blue;-;Red;178;DC Comics;-;good;68;09/04/2002
-50;Atom;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/06/2008
-51;Atom Girl;Female;black;-;Black;168;DC Comics;-;good;54;31/10/1998
-52;Atom II;Male;brown;Human;Auburn;183;DC Comics;-;good;81;25/02/2001
-53;Atom III;Male;-;-;Red;Indefinite;DC Comics;-;good;Indefinite;06/03/2008
-54;Atom IV;Male;brown;-;Black;Indefinite;DC Comics;-;good;72;20/10/2000
-55;Aurora;Female;blue;Mutant;Black;180;Marvel Comics;-;good;63;04/11/2008
-56;Azazel;Male;yellow;Neyaphem;Black;183;Marvel Comics;red;bad;67;07/03/2009
-57;Azrael;Male;brown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;02/11/2004
-58;Aztar;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;25/04/2002
-59;Bane;Male;-;Human;-;203;DC Comics;-;bad;180;21/08/1998
-60;Banshee;Male;green;Human;Strawberry Blond;183;Marvel Comics;-;good;77;12/02/1996
-61;Bantam;Male;brown;-;Black;165;Marvel Comics;-;good;54;30/12/1998
-62;Batgirl;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/08/1996
-63;Batgirl;Female;green;Human;Red;170;DC Comics;-;good;57;06/10/1999
-64;Batgirl III;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;27/08/2007
-65;Batgirl IV;Female;green;Human;Black;165;DC Comics;-;good;52;04/09/1997
-66;Batgirl V;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;11/04/2003
-67;Batgirl VI;Female;blue;-;Blond;168;DC Comics;-;good;61;22/05/2005
-68;Batman;Male;blue;Human;black;188;DC Comics;-;good;95;05/12/2002
-69;Batman;Male;blue;Human;Black;178;DC Comics;-;good;77;01/09/2010
-70;Batman II;Male;blue;Human;Black;178;DC Comics;-;good;79;22/06/2005
-71;Battlestar;Male;brown;-;Black;198;Marvel Comics;-;good;133;06/12/2003
-72;Batwoman V;Female;green;Human;Red;178;DC Comics;-;good;Indefinite;28/06/1995
-73;Beak;Male;black;-;White;175;Marvel Comics;-;good;63;03/11/2007
-74;Beast;Male;blue;Mutant;Blue;180;Marvel Comics;blue;good;181;19/03/2005
-75;Beast Boy;Male;green;Human;Green;173;DC Comics;green;good;68;20/12/2000
-76;Beetle;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;19/05/2011
-77;Ben 10;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;07/05/2009
-78;Beta Ray Bill;Male;-;-;No Hair;201;Marvel Comics;-;good;216;13/02/1995
-79;Beyonder;Male;-;God / Eternal;-;Indefinite;Marvel Comics;-;good;Indefinite;01/07/2005
-80;Big Barda;Female;blue;New God;Black;188;DC Comics;-;bad;135;09/07/2003
-81;Big Daddy;Male;-;-;-;Indefinite;Icon Comics;-;good;Indefinite;23/08/2005
-82;Big Man;Male;blue;-;Brown;165;Marvel Comics;-;bad;71;07/05/2011
-83;Bill Harken;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;19/02/2001
-84;Billy Kincaid;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;24/10/2003
-85;Binary;Female;blue;-;Blond;180;Marvel Comics;-;good;54;29/11/2000
-86;Bionic Woman;Female;blue;Cyborg;Black;Indefinite;;-;good;Indefinite;29/07/2003
-87;Bird-Brain;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;24/03/2000
-88;Bird-Man;Male;-;Human;-;Indefinite;Marvel Comics;-;bad;Indefinite;07/11/2001
-89;Bird-Man II;Male;-;Human;-;Indefinite;Marvel Comics;-;bad;Indefinite;27/03/1997
-90;Birdman;Male;-;God / Eternal;-;Indefinite;Hanna-Barbera;-;good;Indefinite;01/02/2004
-91;Bishop;Male;brown;Mutant;No Hair;198;Marvel Comics;-;good;124;14/06/2007
-92;Bizarro;Male;black;Bizarro;Black;191;DC Comics;white;neutral;155;09/07/2000
-93;Black Abbott;Male;red;-;Black;Indefinite;Marvel Comics;-;bad;Indefinite;18/06/2001
-94;Black Adam;Male;brown;-;Black;191;DC Comics;-;bad;113;24/07/2002
-95;Black Bolt;Male;blue;Inhuman;Black;188;Marvel Comics;-;good;95;05/11/2000
-96;Black Canary;Female;blue;Human;Blond;165;DC Comics;-;good;58;22/05/2000
-97;Black Canary;Female;blue;Metahuman;Blond;170;DC Comics;-;good;59;20/08/2000
-98;Black Cat;Female;green;Human;Blond;178;Marvel Comics;-;good;54;18/08/2001
-99;Black Flash;Male;-;God / Eternal;-;Indefinite;DC Comics;-;neutral;Indefinite;06/09/2003
-100;Black Goliath;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;07/07/2007
-101;Black Knight III;Male;brown;Human;Brown;183;Marvel Comics;-;good;86;04/05/2002
-102;Black Lightning;Male;brown;-;No Hair;185;DC Comics;-;good;90;16/12/2002
-103;Black Mamba;Female;green;-;Black;170;Marvel Comics;-;bad;52;15/02/2000
-104;Black Manta;Male;black;Human;No Hair;188;DC Comics;-;bad;92;03/07/1997
-105;Black Panther;Male;brown;Human;Black;183;Marvel Comics;-;good;90;17/07/2000
-106;Black Widow;Female;green;Human;Auburn;170;Marvel Comics;-;good;59;15/03/1996
-107;Black Widow II;Female;blue;-;Blond;170;Marvel Comics;-;good;61;12/03/2006
-108;Blackout;Male;red;Demon;White;191;Marvel Comics;white;bad;104;04/03/1998
-109;Blackwing;Male;blue;-;Black;185;Marvel Comics;-;bad;86;08/05/2007
-110;Blackwulf;Male;red;Alien;White;188;Marvel Comics;-;-;88;14/04/1997
-111;Blade;Male;brown;Vampire;Black;188;Marvel Comics;-;good;97;29/08/1999
-112;Blaquesmith;-;black;-;No Hair;Indefinite;Marvel Comics;-;good;Indefinite;02/01/2013
-113;Bling!;Female;-;-;-;168;Marvel Comics;-;good;68;13/07/2012
-114;Blink;Female;green;Mutant;Magenta;165;Marvel Comics;pink;good;56;14/07/2012
-115;Blizzard;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;29/10/2003
-116;Blizzard;Male;-;-;Brown;Indefinite;Marvel Comics;-;bad;Indefinite;06/07/1999
-117;Blizzard II;Male;brown;-;Brown;175;Marvel Comics;-;bad;77;01/06/2003
-118;Blob;Male;brown;-;Brown;178;Marvel Comics;-;bad;230;12/07/1999
-119;Bloodaxe;Female;blue;Human;Brown;218;Marvel Comics;-;bad;495;16/12/1999
-120;Bloodhawk;Male;black;Mutant;No Hair;Indefinite;Marvel Comics;-;good;Indefinite;13/11/1997
-121;Bloodwraith;Male;white;-;No Hair;30,5;Marvel Comics;-;bad;Indefinite;13/06/2003
-122;Blue Beetle;Male;blue;-;Brown;Indefinite;DC Comics;-;good;Indefinite;16/08/1999
-123;Blue Beetle;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;20/05/2010
-124;Blue Beetle II;Male;blue;-;Brown;183;DC Comics;-;good;86;18/12/1997
-125;Blue Beetle III;Male;brown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;30/06/2005
-126;Boba Fett;Male;brown;Human / Clone;Black;183;George Lucas;-;bad;Indefinite;08/02/2007
-127;Bolt;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;20/02/2004
-128;Bomb Queen;Female;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;07/12/1996
-129;Boom-Boom;Female;blue;Mutant;Blond;165;Marvel Comics;-;good;55;27/01/2007
-130;Boomer;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;09/01/2001
-131;Booster Gold;Male;blue;Human;Blond;196;DC Comics;-;good;97;10/01/2006
-132;Box;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;27/09/2003
-133;Box III;-;blue;-;Blond;193;Marvel Comics;-;good;110;23/12/2010
-134;Box IV;-;brown;-;Brown / Black;Indefinite;Marvel Comics;-;good;Indefinite;04/01/2004
-135;Brainiac;Male;green;Android;No Hair;198;DC Comics;green;bad;135;20/04/1995
-136;Brainiac 5;Male;green;-;Blond;170;DC Comics;-;good;61;23/03/2008
-137;Brother Voodoo;Male;brown;Human;Brown / White;183;Marvel Comics;-;good;99;11/06/1998
-138;Brundlefly;Male;-;Mutant;-;193;;-;-;Indefinite;14/10/2012
-139;Buffy;Female;green;Human;Blond;157;Dark Horse Comics;-;good;52;11/02/2006
-140;Bullseye;Male;blue;Human;blond;183;Marvel Comics;-;bad;90;30/12/2010
-141;Bumblebee;Female;brown;Human;Black;170;DC Comics;-;good;59;17/12/2009
-142;Bumbleboy;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;02/02/2006
-143;Bushido;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;18/10/1999
-144;Cable;Male;blue;Mutant;White;203;Marvel Comics;-;good;158;18/01/2004
-145;Callisto;Female;blue;-;Black;175;Marvel Comics;-;bad;74;01/04/2009
-146;Cameron Hicks;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;19/06/1995
-147;Cannonball;Male;blue;-;Blond;183;Marvel Comics;-;good;81;14/11/2000
-148;Captain America;Male;blue;Human;blond;188;Marvel Comics;-;good;108;04/01/2007
-149;Captain Atom;Male;blue;Human / Radiation;Silver;193;DC Comics;silver;good;90;05/01/2004
-150;Captain Britain;Male;blue;Human;Blond;198;Marvel Comics;-;good;116;07/07/1997
-151;Captain Cold;Male;brown;Human;Brown;Indefinite;DC Comics;-;neutral;Indefinite;23/12/2013
-152;Captain Epic;Male;blue;-;Brown;188;Team Epic TV;-;good;Indefinite;08/06/2011
-153;Captain Hindsight;Male;-;Human;Black;Indefinite;South Park;-;good;Indefinite;02/02/1996
-154;Captain Mar-vell;Male;blue;-;Blond;188;Marvel Comics;-;good;108;09/01/2003
-155;Captain Marvel;Female;blue;Human-Kree;Blond;180;Marvel Comics;-;good;74;18/11/2010
-156;Captain Marvel;Male;blue;Human;Black;193;DC Comics;-;good;101;19/02/1995
-157;Captain Marvel II;Male;blue;Human;Black;175;DC Comics;-;good;74;16/07/2012
-158;Captain Midnight;Male;-;Human;-;Indefinite;Dark Horse Comics;-;good;Indefinite;19/11/1999
-159;Captain Planet;Male;red;God / Eternal;Green;Indefinite;Marvel Comics;-;good;Indefinite;16/11/2009
-160;Captain Universe;-;-;God / Eternal;-;Indefinite;Marvel Comics;-;good;Indefinite;04/02/2011
-161;Carnage;Male;green;Symbiote;Red;185;Marvel Comics;-;bad;86;05/10/1999
-162;Cat;Female;blue;-;Blond;173;Marvel Comics;-;good;61;24/01/2008
-163;Cat II;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;30/11/2009
-164;Catwoman;Female;green;Human;Black;175;DC Comics;-;good;61;15/05/2012
-165;Cecilia Reyes;-;brown;-;Brown;170;Marvel Comics;-;good;62;13/10/2005
-166;Century;Male;white;Alien;White;201;Marvel Comics;grey;good;97;06/09/1995
-167;Cerebra;Female;-;Mutant;-;Indefinite;Marvel Comics;-;good;Indefinite;07/04/1998
-168;Chamber;Male;brown;Mutant;Brown;175;Marvel Comics;-;good;63;07/04/1999
-169;Chameleon;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;27/03/2010
-170;Changeling;Male;brown;-;Black;180;Marvel Comics;-;bad;81;02/05/2006
-171;Cheetah;Female;green;Human;Blond;163;DC Comics;-;bad;50;05/11/2009
-172;Cheetah II;Female;green;Human;Brown;170;DC Comics;-;bad;55;16/09/2003
-173;Cheetah III;Female;brown;Human;Brown;175;DC Comics;-;bad;54;14/11/1999
-174;Chromos;Male;brown;-;Red / Grey;185;Team Epic TV;-;bad;86;30/10/2009
-175;Chuck Norris;Male;-;-;-;178;;-;good;Indefinite;18/03/1997
-176;Citizen Steel;Male;green;Human;Red;183;DC Comics;-;good;170;06/11/2004
-177;Claire Bennet;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;10/06/1995
-178;Clea;-;-;-;White;Indefinite;Marvel Comics;-;good;Indefinite;24/02/2013
-179;Cloak;Male;brown;-;black;226;Marvel Comics;-;good;70;02/07/2011
-180;Clock King;Male;blue;Human;Black;178;DC Comics;-;bad;78;28/03/2008
-181;Cogliostro;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;04/03/2009
-182;Colin Wagner;Male;grey;-;Brown;Indefinite;HarperCollins;-;good;Indefinite;12/06/2013
-183;Colossal Boy;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/01/2012
-184;Colossus;Male;silver;Mutant;Black;226;Marvel Comics;-;good;225;06/04/2004
-185;Copycat;Female;red;Mutant;White;183;Marvel Comics;blue;neutral;67;19/10/2004
-186;Corsair;Male;brown;-;Brown;191;Marvel Comics;-;good;79;04/08/2007
-187;Cottonmouth;Male;brown;Human;Black;183;Marvel Comics;-;bad;99;27/09/2001
-188;Crimson Crusader;Male;blue;-;Strawberry Blond;Indefinite;Marvel Comics;-;good;Indefinite;29/03/2003
-189;Crimson Dynamo;Male;brown;-;No Hair;180;Marvel Comics;-;good;104;30/10/2007
-190;Crystal;Female;green;Inhuman;Red;168;Marvel Comics;-;good;50;20/11/2006
-191;Curse;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;13/04/1995
-192;Cy-Gor;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;08/03/2012
-193;Cyborg;Male;brown;Cyborg;Black;198;DC Comics;-;good;173;27/11/2000
-194;Cyborg Superman;Male;blue;Cyborg;Black;Indefinite;DC Comics;-;bad;Indefinite;23/02/2004
-195;Cyclops;Male;brown;Mutant;Brown;191;Marvel Comics;-;good;88;17/03/2002
-196;Cypher;-;blue;-;Blond;175;Marvel Comics;-;good;68;23/02/2009
-197;Dagger;Female;blue;-;Blond;165;Marvel Comics;-;good;52;09/03/2011
-198;Danny Cooper;Male;brown;-;Blond;Indefinite;HarperCollins;-;good;Indefinite;24/03/2001
-199;Daphne Powell;Female;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;18/10/2009
-200;Daredevil;Male;blue;Human;Red;183;Marvel Comics;-;good;90;24/11/2011
-201;Darkhawk;Male;brown;Human;Brown;185;Marvel Comics;-;good;81;13/02/1999
-202;Darkman;Male;-;-;-;Indefinite;Universal Studios;-;good;Indefinite;23/03/2002
-203;Darkseid;Male;red;New God;No Hair;267;DC Comics;grey;bad;817;18/11/2000
-204;Darkside;-;-;-;-;Indefinite;;-;bad;Indefinite;17/10/2000
-205;Darkstar;Female;brown;Mutant;Blond;168;Marvel Comics;-;good;56;13/08/2012
-206;Darth Maul;Male;yellow / red;Dathomirian Zabrak;-;170;George Lucas;red / black;bad;Indefinite;07/01/2005
-207;Darth Vader;Male;yellow;Cyborg;No Hair;198;George Lucas;-;bad;135;06/04/2000
-208;Dash;Male;blue;Human;Blond;122;Dark Horse Comics;-;good;27;30/01/1999
-209;Data;Male;yellow;Android;Brown;Indefinite;Star Trek;-;good;Indefinite;06/02/2010
-210;Dazzler;Female;blue;Mutant;Blond;173;Marvel Comics;-;good;52;15/01/1998
-211;Deadman;Male;blue;Human;Black;183;DC Comics;-;good;90;23/11/2013
-212;Deadpool;Male;brown;Mutant;No Hair;188;Marvel Comics;-;neutral;95;21/03/1999
-213;Deadshot;Male;brown;Human;Brown;185;DC Comics;-;bad;91;06/04/2000
-214;Deathlok;Male;brown;Cyborg;Grey;193;Marvel Comics;-;good;178;01/03/2004
-215;Deathstroke;Male;blue;Human;White;193;DC Comics;-;neutral;101;03/09/2004
-216;Demogoblin;Male;red;Demon;No Hair;185;Marvel Comics;-;bad;95;04/06/2011
-217;Destroyer;Male;-;-;-;188;Marvel Comics;-;bad;383;25/05/2009
-218;Diamondback;Male;brown;Human;Black;193;Marvel Comics;-;bad;90;06/03/2012
-219;DL Hawkins;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;31/05/2000
-220;Doc Samson;Male;blue;Human / Radiation;Green;198;Marvel Comics;-;good;171;12/05/2008
-221;Doctor Doom;Male;brown;Human;Brown;201;Marvel Comics;-;bad;187;01/03/1996
-222;Doctor Doom II;Male;brown;-;Brown;201;Marvel Comics;-;bad;132;30/11/2002
-223;Doctor Fate;Male;blue;Human;Blond;188;DC Comics;-;good;89;08/06/1999
-224;Doctor Octopus;Male;brown;Human;Brown;175;Marvel Comics;-;bad;110;22/04/2001
-225;Doctor Strange;Male;grey;Human;Black;188;Marvel Comics;-;good;81;04/07/2010
-226;Domino;Female;blue;Human;Black;173;Marvel Comics;white;good;54;10/11/2006
-227;Donatello;Male;green;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;13/09/2003
-228;Donna Troy;Female;blue;Amazon;Black;175;DC Comics;-;good;63;03/07/2003
-229;Doomsday;Male;red;Alien;White;244;DC Comics;-;bad;412;16/02/2005
-230;Doppelganger;Male;white;-;No Hair;196;Marvel Comics;-;bad;104;17/08/1996
-231;Dormammu;Male;yellow;-;No Hair;185;Marvel Comics;-;bad;Indefinite;14/02/2013
-232;Dr Manhattan;Male;white;Human / Cosmic;No Hair;Indefinite;DC Comics;blue;good;Indefinite;27/08/2012
-233;Drax the Destroyer;Male;red;Human / Altered;No Hair;193;Marvel Comics;green;good;306;27/06/1999
-234;Ego;-;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;14/04/1998
-235;Elastigirl;Female;brown;Human;Brown;168;Dark Horse Comics;-;good;56;06/02/1998
-236;Electro;Male;blue;Human;Auburn;180;Marvel Comics;-;bad;74;05/10/2013
-237;Elektra;Female;blue;Human;Black;175;Marvel Comics;-;good;59;04/02/1998
-238;Elle Bishop;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;bad;Indefinite;19/02/2006
-239;Elongated Man;Male;blue;-;Red;185;DC Comics;-;good;80;31/07/2013
-240;Emma Frost;Female;blue;-;Blond;178;Marvel Comics;-;good;65;29/01/2009
-241;Enchantress;Female;blue;Human;Blond;168;DC Comics;-;good;57;23/02/2005
-242;Energy;Female;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;22/12/2005
-243;ERG-1;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;31/05/2006
-244;Ethan Hunt;Male;brown;Human;Brown;168;;-;good;Indefinite;16/10/1995
-245;Etrigan;Male;red;Demon;No Hair;193;DC Comics;yellow;neutral;203;25/01/2009
-246;Evil Deadpool;Male;white;Mutant;Red;188;Marvel Comics;-;bad;95;28/06/1998
-247;Evilhawk;Male;red;Alien;Black;191;Marvel Comics;green;bad;106;21/06/1997
-248;Exodus;Male;blue;Mutant;Black;183;Marvel Comics;red;bad;88;12/09/2001
-249;Fabian Cortez;-;blue;-;Brown;196;Marvel Comics;-;bad;96;26/08/1997
-250;Falcon;Male;brown;Human;Black;188;Marvel Comics;-;good;108;17/05/2008
-251;Fallen One II;Male;black;-;Blue;Indefinite;Marvel Comics;-;bad;Indefinite;01/10/2006
-252;Faora;Female;-;Kryptonian;-;Indefinite;DC Comics;-;bad;Indefinite;18/11/2010
-253;Feral;-;yellow (without irises);-;Orange / White;175;Marvel Comics;-;good;50;23/01/2004
-254;Fighting Spirit;Female;-;-;Red;Indefinite;DC Comics;-;good;Indefinite;05/03/2000
-255;Fin Fang Foom;Male;red;Kakarantharaian;No Hair;975;Marvel Comics;green;good;18;04/02/2002
-256;Firebird;Female;brown;-;Black;165;Marvel Comics;-;good;56;01/01/1998
-257;Firelord;-;white;-;Yellow;193;Marvel Comics;-;good;99;09/07/2012
-258;Firestar;Female;green;Mutant;Red;173;Marvel Comics;-;good;56;06/10/2013
-259;Firestorm;Male;brown;-;Black;Indefinite;DC Comics;-;good;Indefinite;29/01/2010
-260;Firestorm;Male;blue;Human;Auburn;188;DC Comics;-;good;91;11/11/2002
-261;Fixer;-;red;-;No Hair;Indefinite;Marvel Comics;-;bad;Indefinite;27/03/1995
-262;Flash;Male;blue;Human;Brown / White;180;DC Comics;-;good;81;25/01/2014
-263;Flash Gordon;Male;-;-;-;Indefinite;;-;good;Indefinite;03/04/2001
-264;Flash II;Male;blue;Human;Blond;183;DC Comics;-;good;88;02/09/1997
-265;Flash III;Male;-;Human;-;183;DC Comics;-;good;86;24/05/2009
-266;Flash IV;Male;yellow;Human;Auburn;157;DC Comics;-;good;52;24/11/2007
-267;Forge;-;brown;-;Black;183;Marvel Comics;-;good;81;10/06/2002
-268;Franklin Richards;Male;blue;Mutant;Blond;142;Marvel Comics;-;good;45;28/12/1999
-269;Franklin Storm;-;blue;-;Grey;188;Marvel Comics;-;good;92;09/08/1996
-270;Frenzy;Female;brown;-;Black;211;Marvel Comics;-;bad;104;01/03/2013
-271;Frigga;Female;blue;-;White;180;Marvel Comics;-;good;167;12/09/2007
-272;Galactus;Male;black;Cosmic Entity;Black;876;Marvel Comics;-;neutral;16;27/12/2004
-273;Gambit;Male;red;Mutant;Brown;185;Marvel Comics;-;good;81;08/05/1997
-274;Gamora;Female;yellow;Zen-Whoberian;Black;183;Marvel Comics;green;good;77;02/09/2013
-275;Garbage Man;Male;-;Mutant;-;Indefinite;DC Comics;-;good;Indefinite;30/10/2001
-276;Gary Bell;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;25/01/1995
-277;General Zod;Male;black;Kryptonian;Black;Indefinite;DC Comics;-;bad;Indefinite;16/08/2002
-278;Genesis;Male;blue;-;Blond;185;Marvel Comics;-;good;86;18/06/2013
-279;Ghost Rider;Male;red;Demon;No Hair;188;Marvel Comics;-;good;99;18/07/2006
-280;Ghost Rider II;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;30/01/2004
-281;Giant-Man;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;06/10/2008
-282;Giant-Man II;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/11/2013
-283;Giganta;Female;green;-;Red;62,5;DC Comics;-;bad;630;24/05/2004
-284;Gladiator;Male;blue;Strontian;Blue;198;Marvel Comics;purple;neutral;268;12/03/2010
-285;Goblin Queen;Female;green;-;Red;168;Marvel Comics;-;bad;50;15/12/1995
-286;Godzilla;-;-;Kaiju;-;108;;grey;bad;0;26/08/2005
-287;Gog;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;19/05/2010
-288;Goku;Male;-;Saiyan;-;175;Shueisha;-;good;62;11/01/2010
-289;Goliath;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;17/04/2010
-290;Goliath;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;17/09/2008
-291;Goliath;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;05/10/2002
-292;Goliath IV;Male;brown;-;Black;183;Marvel Comics;-;good;90;07/07/2000
-293;Gorilla Grodd;Male;yellow;Gorilla;Black;198;DC Comics;-;bad;270;20/05/1995
-294;Granny Goodness;Female;blue;-;White;178;DC Comics;-;bad;115;23/09/2009
-295;Gravity;Male;blue;Human;Brown;178;Marvel Comics;-;good;79;25/06/2012
-296;Greedo;Male;purple;Rodian;-;170;George Lucas;green;bad;Indefinite;15/12/2008
-297;Green Arrow;Male;green;Human;Blond;188;DC Comics;-;good;88;08/10/2005
-298;Green Goblin;Male;blue;Human;Auburn;180;Marvel Comics;-;bad;83;31/01/2011
-299;Green Goblin II;Male;blue;-;Auburn;178;Marvel Comics;-;bad;77;06/01/1998
-300;Green Goblin III;Male;-;-;-;183;Marvel Comics;-;good;88;09/01/1995
-301;Green Goblin IV;Male;green;-;Brown;178;Marvel Comics;-;good;79;24/10/2000
-302;Groot;Male;yellow;Flora Colossus;-;701;Marvel Comics;-;good;4;04/11/2010
-303;Guardian;Male;brown;Human;Black;Indefinite;Marvel Comics;-;good;Indefinite;02/12/1996
-304;Guy Gardner;Male;blue;Human-Vuldarian;Red;188;DC Comics;-;good;95;31/08/2013
-305;Hal Jordan;Male;brown;Human;Brown;188;DC Comics;-;good;90;19/09/2008
-306;Han Solo;Male;brown;Human;Brown;183;George Lucas;-;good;79;04/10/2005
-307;Hancock;Male;brown;Human;Black;188;Sony Pictures;-;good;Indefinite;08/07/2011
-308;Harley Quinn;Female;blue;Human;Blond;170;DC Comics;-;bad;63;06/10/2004
-309;Harry Potter;Male;green;Human;Black;Indefinite;J. K. Rowling;-;good;Indefinite;22/06/2003
-310;Havok;Male;blue;Mutant;Blond;183;Marvel Comics;-;good;79;18/11/2001
-311;Hawk;Male;red;-;Brown;185;DC Comics;-;good;89;21/02/1998
-312;Hawkeye;Male;blue;Human;Blond;191;Marvel Comics;-;good;104;18/11/2007
-313;Hawkeye II;Female;blue;Human;Black;165;Marvel Comics;-;good;57;26/08/2013
-314;Hawkgirl;Female;green;-;Red;175;DC Comics;-;good;61;10/12/1997
-315;Hawkman;Male;blue;-;Brown;185;DC Comics;-;good;88;04/11/1999
-316;Hawkwoman;Female;green;-;Red;175;DC Comics;-;good;54;18/07/1998
-317;Hawkwoman II;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;17/04/2011
-318;Hawkwoman III;Female;blue;-;Red;170;DC Comics;-;good;65;22/11/2001
-319;Heat Wave;Male;blue;Human;No Hair;180;DC Comics;-;bad;81;15/04/2006
-320;Hela;Female;green;Asgardian;Black;213;Marvel Comics;-;bad;225;09/06/2000
-321;Hellboy;Male;gold;Demon;Black;259;Dark Horse Comics;-;good;158;29/03/1995
-322;Hellcat;Female;blue;Human;Red;173;Marvel Comics;-;good;61;10/01/2006
-323;Hellstorm;Male;red;-;Red;185;Marvel Comics;-;good;81;19/10/2011
-324;Hercules;Male;blue;Demi-God;Brown;196;Marvel Comics;-;good;146;14/11/2007
-325;Hiro Nakamura;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;16/12/2013
-326;Hit-Girl;Female;-;Human;-;Indefinite;Icon Comics;-;good;Indefinite;16/06/2002
-327;Hobgoblin;Male;blue;-;Grey;180;Marvel Comics;-;bad;83;15/08/2013
-328;Hollow;Female;blue;-;Red;170;Marvel Comics;-;good;Indefinite;26/04/1996
-329;Hope Summers;Female;green;-;Red;168;Marvel Comics;-;good;48;09/08/2008
-330;Howard the Duck;Male;brown;-;Yellow;79;Marvel Comics;-;good;18;06/12/1999
-331;Hulk;Male;green;Human / Radiation;Green;244;Marvel Comics;green;good;630;20/07/2005
-332;Human Torch;Male;blue;Human / Radiation;Blond;178;Marvel Comics;-;good;77;01/07/2012
-333;Huntress;Female;blue;-;Black;180;DC Comics;-;good;59;21/03/1998
-334;Husk;Female;blue;Mutant;Blond;170;Marvel Comics;-;good;58;16/01/2001
-335;Hybrid;Male;brown;Symbiote;Black;175;Marvel Comics;-;good;77;14/11/1999
-336;Hydro-Man;Male;brown;-;Brown;188;Marvel Comics;-;bad;119;17/06/2002
-337;Hyperion;Male;blue;Eternal;Red;183;Marvel Comics;-;good;207;21/07/2007
-338;Iceman;Male;brown;Mutant;Brown;173;Marvel Comics;-;good;65;12/09/1999
-339;Impulse;Male;yellow;Human;Auburn;170;DC Comics;-;good;65;25/01/2000
-340;Indiana Jones;Male;-;Human;-;183;George Lucas;-;good;79;11/01/2000
-341;Indigo;Female;-;Alien;Purple;Indefinite;DC Comics;-;neutral;Indefinite;02/08/2011
-342;Ink;Male;blue;Mutant;No Hair;180;Marvel Comics;-;good;81;03/05/2009
-343;Invisible Woman;Female;blue;Human / Radiation;Blond;168;Marvel Comics;-;good;54;29/08/2008
-344;Iron Fist;Male;blue;Human;Blond;180;Marvel Comics;-;good;79;12/10/1997
-345;Iron Man;Male;blue;Human;Black;198;Marvel Comics;-;good;191;27/02/2000
-346;Iron Monger;Male;blue;-;No Hair;Indefinite;Marvel Comics;-;bad;2;25/04/2008
-347;Isis;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;09/10/2006
-348;Jack Bauer;Male;-;-;-;Indefinite;;-;good;Indefinite;20/01/2005
-349;Jack of Hearts;Male;blue / white;Human;Brown;155;Marvel Comics;-;good;79;25/12/1995
-350;Jack-Jack;Male;blue;Human;Brown;71;Dark Horse Comics;-;good;14;07/06/1998
-351;James Bond;Male;blue;Human;Blond;183;Titan Books;-;good;Indefinite;28/03/2010
-352;James T. Kirk;Male;hazel;Human;Brown;178;Star Trek;-;good;77;28/04/2010
-353;Jar Jar Binks;Male;yellow;Gungan;-;193;George Lucas;orange / white;good;Indefinite;10/01/2014
-354;Jason Bourne;Male;-;Human;-;Indefinite;;-;good;Indefinite;25/04/1995
-355;Jean Grey;Female;green;Mutant;Red;168;Marvel Comics;-;good;52;10/04/1998
-356;Jean-Luc Picard;Male;-;Human;-;Indefinite;Star Trek;-;good;Indefinite;27/04/2006
-357;Jennifer Kale;Female;blue;-;Blond;168;Marvel Comics;-;good;55;23/05/2006
-358;Jesse Quick;Female;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;21/06/2003
-359;Jessica Cruz;Female;green;Human;Brown;Indefinite;DC Comics;-;good;Indefinite;25/07/2009
-360;Jessica Jones;Female;brown;Human;Brown;170;Marvel Comics;-;good;56;21/10/2012
-361;Jessica Sanders;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;01/05/1995
-362;Jigsaw;Male;blue;-;Black;188;Marvel Comics;-;bad;113;17/09/2010
-363;Jim Powell;Male;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;21/05/2007
-364;JJ Powell;Male;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;28/02/2005
-365;Johann Krauss;Male;-;-;-;Indefinite;Dark Horse Comics;-;good;Indefinite;25/05/2012
-366;John Constantine;Male;blue;Human;Blond;183;DC Comics;-;good;Indefinite;01/07/2003
-367;John Stewart;Male;green;Human;Black;185;DC Comics;-;good;90;21/08/1999
-368;John Wraith;Male;brown;-;Black;183;Marvel Comics;-;good;88;29/04/2001
-369;Joker;Male;green;Human;Green;196;DC Comics;white;bad;86;30/05/1997
-370;Jolt;Female;blue;-;Black;165;Marvel Comics;-;good;49;29/08/2012
-371;Jubilee;Female;red;Mutant;Black;165;Marvel Comics;-;good;52;23/08/2002
-372;Judge Dredd;Male;-;Human;-;188;Rebellion;-;good;Indefinite;15/12/2008
-373;Juggernaut;Male;blue;Human;Red;287;Marvel Comics;-;neutral;855;04/01/2008
-374;Junkpile;Male;-;Mutant;-;Indefinite;Marvel Comics;-;bad;Indefinite;11/03/2013
-375;Justice;Male;hazel;Human;Brown;178;Marvel Comics;-;good;81;26/01/1999
-376;Jyn Erso;Female;green;Human;Brown;Indefinite;George Lucas;-;good;Indefinite;15/12/1998
-377;K-2SO;Male;white;Android;No Hair;213;George Lucas;gray;good;Indefinite;10/08/2007
-378;Kang;Male;brown;-;Brown;191;Marvel Comics;-;bad;104;18/01/2008
-379;Karate Kid;Male;brown;Human;Brown;173;DC Comics;-;good;72;24/07/1998
-380;Kathryn Janeway;Female;-;Human;-;Indefinite;Star Trek;-;good;Indefinite;21/06/2011
-381;Katniss Everdeen;Female;-;Human;-;Indefinite;;-;good;Indefinite;02/01/2009
-382;Kevin 11;Male;-;Human;Black;Indefinite;DC Comics;-;good;Indefinite;16/02/2012
-383;Kick-Ass;Male;blue;Human;Blond;Indefinite;Icon Comics;-;good;Indefinite;20/12/2011
-384;Kid Flash;Male;green;Human;Red;Indefinite;DC Comics;-;good;Indefinite;15/10/2002
-385;Kid Flash II;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;05/07/1998
-386;Killer Croc;Male;red;Metahuman;No Hair;244;DC Comics;green;bad;356;15/12/2001
-387;Killer Frost;Female;blue;Human;Blond;Indefinite;DC Comics;blue;bad;Indefinite;20/07/1997
-388;Kilowog;Male;red;Bolovaxian;No Hair;234;DC Comics;pink;good;324;10/06/2009
-389;King Kong;Male;yellow;Animal;Black;30,5;;-;good;0;23/06/2001
-390;King Shark;Male;black;Animal;No Hair;Indefinite;DC Comics;-;bad;Indefinite;27/10/2007
-391;Kingpin;Male;blue;Human;No Hair;201;Marvel Comics;-;bad;203;14/11/2010
-392;Klaw;Male;red;Human;No Hair;188;Marvel Comics;red;bad;97;16/10/1999
-393;Kool-Aid Man;Male;black;-;No Hair;Indefinite;;red;good;Indefinite;29/12/2010
-394;Kraven II;Male;brown;Human;Black;191;Marvel Comics;-;bad;99;16/04/1997
-395;Kraven the Hunter;Male;brown;Human;Black;183;Marvel Comics;-;bad;106;12/06/2008
-396;Krypto;Male;blue;Kryptonian;White;64;DC Comics;-;good;18;22/05/2011
-397;Kyle Rayner;Male;green;Human;Black;180;DC Comics;-;good;79;25/09/2003
-398;Kylo Ren;Male;-;Human;-;Indefinite;George Lucas;-;bad;Indefinite;27/03/2003
-399;Lady Bullseye;Female;-;-;Black;Indefinite;Marvel Comics;-;bad;Indefinite;22/05/2004
-400;Lady Deathstrike;Female;brown;Cyborg;Black;175;Marvel Comics;-;bad;58;01/02/2011
-401;Leader;Male;green;-;No Hair;178;Marvel Comics;-;bad;63;02/03/1998
-402;Leech;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/10/2003
-403;Legion;Male;green / blue;Mutant;Black;175;Marvel Comics;-;good;59;18/03/2009
-404;Leonardo;Male;blue;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;12/05/1999
-405;Lex Luthor;Male;green;Human;No Hair;188;DC Comics;-;bad;95;02/04/2005
-406;Light Lass;Female;blue;-;Red;165;DC Comics;-;good;54;14/01/2010
-407;Lightning Lad;Male;blue;-;Red;155;DC Comics;-;good;65;15/03/2004
-408;Lightning Lord;Male;blue;-;Red;191;DC Comics;-;bad;95;21/04/2008
-409;Living Brain;-;yellow;-;-;198;Marvel Comics;-;bad;360;19/01/1996
-410;Living Tribunal;-;blue;Cosmic Entity;No Hair;Indefinite;Marvel Comics;gold;neutral;Indefinite;31/10/1997
-411;Liz Sherman;Female;-;-;-;Indefinite;Dark Horse Comics;-;good;Indefinite;08/07/2003
-412;Lizard;Male;red;Human;No Hair;203;Marvel Comics;-;bad;230;09/02/2014
-413;Lobo;Male;red;Czarnian;Black;229;DC Comics;blue-white;neutral;288;06/04/2003
-414;Loki;Male;green;Asgardian;Black;193;Marvel Comics;-;bad;236;18/03/1997
-415;Longshot;Male;blue;Human;Blond;188;Marvel Comics;-;good;36;03/03/2013
-416;Luke Cage;Male;brown;Human;Black;198;Marvel Comics;-;good;191;19/02/2003
-417;Luke Campbell;Male;-;-;-;Indefinite;NBC - Heroes;-;bad;Indefinite;08/09/2000
-418;Luke Skywalker;Male;blue;Human;Blond;168;George Lucas;-;good;77;21/06/1996
-419;Luna;Female;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;30/08/2008
-420;Lyja;Female;green;-;Green;Indefinite;Marvel Comics;-;good;Indefinite;06/09/1997
-421;Mach-IV;Male;brown;-;Brown;180;Marvel Comics;-;bad;79;28/01/2008
-422;Machine Man;-;red;-;Black;183;Marvel Comics;-;good;383;25/09/1997
-423;Magneto;Male;grey;Mutant;White;188;Marvel Comics;-;bad;86;08/11/2012
-424;Magog;Male;blue;-;Blond;Indefinite;DC Comics;-;good;Indefinite;16/07/2012
-425;Magus;Male;black;-;-;183;Marvel Comics;-;bad;Indefinite;25/07/2001
-426;Man of Miracles;-;blue;God / Eternal;Silver;Indefinite;Image Comics;-;-;Indefinite;16/12/2013
-427;Man-Bat;Male;brown;Human;Brown;Indefinite;DC Comics;-;neutral;Indefinite;04/05/2013
-428;Man-Thing;Male;red;-;No Hair;213;Marvel Comics;green;good;225;31/10/1995
-429;Man-Wolf;Male;brown;-;Auburn;188;Marvel Comics;-;good;90;20/01/2000
-430;Mandarin;Male;blue;Human;White;188;Marvel Comics;-;bad;97;06/06/2010
-431;Mantis;Female;green;Human-Kree;Black;168;Marvel Comics;green;good;52;25/06/2006
-432;Martian Manhunter;Male;red;Martian;No Hair;201;DC Comics;green;good;135;10/02/1997
-433;Marvel Girl;Female;green;-;Red;170;Marvel Comics;-;good;56;07/06/1998
-434;Master Brood;Male;blue;-;Black;183;Team Epic TV;-;good;81;29/05/2006
-435;Master Chief;Male;brown;Human / Altered;Brown;213;Microsoft;-;good;Indefinite;28/09/2002
-436;Match;Male;black;-;Black;Indefinite;DC Comics;-;bad;Indefinite;08/03/2000
-437;Matt Parkman;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;20/07/1995
-438;Maverick;Male;blue;-;Black;193;Marvel Comics;-;good;110;25/03/2003
-439;Maxima;Female;brown;-;Red;180;DC Comics;-;bad;72;24/11/2002
-440;Maya Herrera;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;09/10/2009
-441;Medusa;Female;green;Inhuman;Red;180;Marvel Comics;-;good;59;20/02/2011
-442;Meltdown;Female;blue;-;Blond;165;Marvel Comics;-;good;54;15/05/2006
-443;Mephisto;Male;white;-;Black;198;Marvel Comics;-;bad;140;10/12/1999
-444;Mera;Female;blue;Atlantean;Red;175;DC Comics;-;good;72;18/11/2000
-445;Metallo;Male;green;Android;Brown;196;DC Comics;-;bad;90;21/01/2004
-446;Metamorpho;Male;black;-;No Hair;185;DC Comics;-;good;90;11/05/1998
-447;Meteorite;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;29/06/2005
-448;Metron;Male;blue;-;Black;185;DC Comics;-;good;86;18/07/2013
-449;Micah Sanders;Male;brown;-;Black;Indefinite;NBC - Heroes;-;good;Indefinite;18/06/2011
-450;Michelangelo;Male;blue;Mutant;-;Indefinite;IDW Publishing;green;good;Indefinite;23/09/2010
-451;Micro Lad;Male;grey;-;Brown;183;DC Comics;-;good;77;16/05/1995
-452;Mimic;Male;brown;-;Brown;188;Marvel Comics;-;good;101;07/12/2000
-453;Minna Murray;Female;-;-;-;Indefinite;Wildstorm;-;good;Indefinite;13/07/2001
-454;Misfit;Female;blue;-;Red;Indefinite;DC Comics;-;good;Indefinite;25/03/2007
-455;Miss Martian;Female;red;-;Red;178;DC Comics;-;good;61;27/08/2013
-456;Mister Fantastic;Male;brown;Human / Radiation;Brown;185;Marvel Comics;-;good;81;07/11/2010
-457;Mister Freeze;Male;-;Human;-;183;DC Comics;-;bad;86;31/01/2002
-458;Mister Knife;Male;blue;Spartoi;Brown;Indefinite;Marvel Comics;-;bad;Indefinite;01/01/1999
-459;Mister Mxyzptlk;Male;-;God / Eternal;-;Indefinite;DC Comics;-;bad;Indefinite;10/06/2013
-460;Mister Sinister;Male;red;Human / Altered;Black;196;Marvel Comics;-;bad;128;06/07/2002
-461;Mister Zsasz;Male;blue;Human;Blond;Indefinite;DC Comics;-;bad;Indefinite;01/05/1999
-462;Mockingbird;Female;blue;Human;Blond;175;Marvel Comics;-;good;61;06/06/1999
-463;MODOK;Male;white;Cyborg;Brownn;366;Marvel Comics;-;bad;338;24/01/2011
-464;Mogo;Male;-;Planet;-;Indefinite;DC Comics;-;good;Indefinite;01/05/2009
-465;Mohinder Suresh;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;03/07/1997
-466;Moloch;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;10/11/2001
-467;Molten Man;Male;gold;-;Gold;196;Marvel Comics;-;bad;248;30/10/1998
-468;Monarch;Male;blue;-;White;193;DC Comics;-;good;90;17/01/1998
-469;Monica Dawson;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;20/04/1997
-470;Moon Knight;Male;brown;Human;Brown;188;Marvel Comics;-;good;101;05/08/2010
-471;Moonstone;Female;blue;-;Blond;180;Marvel Comics;-;bad;59;19/07/2002
-472;Morlun;Male;white / red;-;Black;188;Marvel Comics;-;bad;79;05/04/2005
-473;Morph;Male;white;-;No Hair;178;Marvel Comics;-;good;79;09/03/2012
-474;Moses Magnum;Male;brown;-;Black;175;Marvel Comics;-;bad;72;30/04/2012
-475;Mr Immortal;Male;blue;Mutant;Blond;188;Marvel Comics;-;good;70;31/03/2007
-476;Mr Incredible;Male;blue;Human;Blond;201;Dark Horse Comics;-;good;158;20/02/2003
-477;Ms Marvel II;Female;blue;-;Red;173;Marvel Comics;-;good;61;01/10/2009
-478;Multiple Man;Male;blue;-;Brown;180;Marvel Comics;-;good;70;14/08/1996
-479;Mysterio;Male;brown;Human;No Hair;180;Marvel Comics;-;bad;79;23/12/2005
-480;Mystique;Female;yellow (without irises);Mutant;Red / Orange;178;Marvel Comics;blue;bad;54;12/11/2008
-481;Namor;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;07/05/2002
-482;Namor;Male;grey;Atlantean;Black;188;Marvel Comics;-;good;125;16/10/2002
-483;Namora;Female;blue;-;Blond;180;Marvel Comics;-;good;85;18/11/2011
-484;Namorita;Female;blue;-;Blond;168;Marvel Comics;-;good;101;24/07/1995
-485;Naruto Uzumaki;Male;-;Human;-;168;Shueisha;-;good;54;18/07/2000
-486;Nathan Petrelli;Male;brown;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;02/06/2003
-487;Nebula;Female;blue;Luphomoid;No Hair;185;Marvel Comics;blue;bad;83;30/07/1999
-488;Negasonic Teenage Warhead;Female;black;Mutant;Black;Indefinite;Marvel Comics;-;good;Indefinite;14/02/1999
-489;Nick Fury;Male;brown;Human;Brown / White;185;Marvel Comics;-;good;99;22/01/2005
-490;Nightcrawler;Male;yellow;-;Indigo;175;Marvel Comics;-;good;88;19/02/2002
-491;Nightwing;Male;blue;Human;Black;178;DC Comics;-;good;79;05/08/2011
-492;Niki Sanders;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;27/06/2011
-493;Nina Theroux;Female;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;13/02/1996
-494;Nite Owl II;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;26/02/2002
-495;Northstar;Male;blue;-;Black;180;Marvel Comics;-;good;83;06/12/1997
-496;Nova;Male;brown;Human;Brown;185;Marvel Comics;-;good;86;17/12/1996
-497;Nova;Female;white;Human / Cosmic;Red;163;Marvel Comics;gold;good;59;26/12/2002
-498;Odin;Male;blue;God / Eternal;White;206;Marvel Comics;-;good;293;08/06/2006
-499;Offspring;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;28/09/1995
-500;Omega Red;Male;red;-;Blond;211;Marvel Comics;-;bad;191;10/04/2011
-501;Omniscient;Male;brown;-;Black;180;Team Epic TV;-;good;65;16/07/2011
-502;One Punch Man;Male;-;Human;No Hair;175;Shueisha;-;good;69;01/01/2005
-503;One Above All;-;-;Cosmic Entity;-;Indefinite;Marvel Comics;-;neutral;Indefinite;17/02/2012
-504;Onslaught;Male;red;Mutant;No Hair;305;Marvel Comics;-;bad;405;03/01/2013
-505;Oracle;Female;blue;Human;Red;178;DC Comics;-;good;59;29/02/1996
-506;Osiris;Male;brown;-;Brown;Indefinite;DC Comics;-;good;Indefinite;20/01/1998
-507;Overtkill;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;17/02/1998
-508;Ozymandias;Male;blue;Human;Blond;Indefinite;DC Comics;-;bad;Indefinite;08/03/2012
-509;Parademon;-;-;Parademon;-;Indefinite;DC Comics;-;bad;Indefinite;18/05/1997
-510;Paul Blart;Male;-;Human;-;170;Sony Pictures;-;good;117;30/10/1995
-511;Penance;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;25/07/1995
-512;Penance I;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;01/09/2006
-513;Penance II;Male;blue;-;Blond;183;Marvel Comics;-;good;89;31/10/2001
-514;Penguin;Male;blue;Human;Black;157;DC Comics;-;bad;79;23/04/2006
-515;Peter Petrelli;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;31/05/2013
-516;Phantom;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;02/07/2009
-517;Phantom Girl;Female;blue;-;Black;168;DC Comics;-;good;54;16/06/2005
-518;Phoenix;Female;green;Mutant;Red;168;Marvel Comics;-;good;52;16/08/2006
-519;Plantman;Male;green;Mutant;Grey;183;Marvel Comics;-;bad;87;19/07/2004
-520;Plastic Lad;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;02/09/2010
-521;Plastic Man;Male;blue;Human;Black;185;DC Comics;-;good;80;30/07/2013
-522;Plastique;Female;blue;-;Red;168;DC Comics;-;bad;55;01/01/1997
-523;Poison Ivy;Female;green;Human;Red;168;DC Comics;green;bad;50;09/03/1998
-524;Polaris;Female;green;Mutant;Green;170;Marvel Comics;-;good;52;19/03/2000
-525;Power Girl;Female;blue;Kryptonian;blond;180;DC Comics;-;good;81;31/05/1998
-526;Power Man;Male;-;Mutant;-;Indefinite;Marvel Comics;-;good;Indefinite;15/03/2005
-527;Predator;Male;-;Yautja;-;213;Dark Horse Comics;-;bad;234;30/05/2001
-528;Professor X;Male;blue;Mutant;No Hair;183;Marvel Comics;-;good;86;19/09/2004
-529;Professor Zoom;Male;blue;Human;Strawberry Blond;180;DC Comics;-;bad;81;28/11/1996
-530;Proto-Goblin;Male;green;-;Blond;Indefinite;Marvel Comics;-;bad;Indefinite;09/02/2003
-531;Psylocke;Female;blue;Mutant;Purple;180;Marvel Comics;-;good;70;08/03/1996
-532;Punisher;Male;blue;Human;Black;183;Marvel Comics;-;good;90;20/11/2010
-533;Purple Man;Male;purple;Human;Purple;180;Marvel Comics;purple;bad;74;06/07/2011
-534;Pyro;Male;blue;-;Blond;178;Marvel Comics;-;bad;68;22/03/2010
-535;Q;Male;-;God / Eternal;-;Indefinite;Star Trek;-;-;Indefinite;27/04/2004
-536;Quantum;Male;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;28/02/2005
-537;Question;Male;blue;Human;Blond;188;DC Comics;-;good;83;13/07/2008
-538;Quicksilver;Male;blue;Mutant;Silver;183;Marvel Comics;-;good;79;21/05/2012
-539;Quill;Male;brown;-;Brown;163;Marvel Comics;-;good;56;19/11/2004
-540;Ra's Al Ghul;Male;green;Human;Grey;193;DC Comics;-;bad;97;13/12/2008
-541;Rachel Pirzad;Female;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;01/06/2001
-542;Rambo;Male;brown;Human;Black;178;;-;good;83;11/04/2006
-543;Raphael;Male;-;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;12/02/2001
-544;Raven;Female;indigo;Human;Black;165;DC Comics;-;neutral;50;12/12/2007
-545;Ray;Male;green;Human;Red;178;DC Comics;-;good;70;26/11/2008
-546;Razor-Fist II;Male;blue;-;No Hair;191;Marvel Comics;-;bad;117;20/11/2009
-547;Red Arrow;Male;green;Human;Red;180;DC Comics;-;good;83;24/03/1999
-548;Red Hood;Male;blue;Human;Black;183;DC Comics;-;neutral;81;31/08/1998
-549;Red Hulk;Male;yellow;Human / Radiation;Black;213;Marvel Comics;red;neutral;630;10/03/2002
-550;Red Mist;Male;-;-;-;Indefinite;Icon Comics;-;bad;Indefinite;21/08/2002
-551;Red Robin;Male;blue;Human;Black;165;DC Comics;-;good;56;28/05/2012
-552;Red Skull;Male;blue;-;No Hair;188;Marvel Comics;-;bad;108;06/06/2004
-553;Red Tornado;Male;green;Android;No Hair;185;DC Comics;-;good;146;26/07/1996
-554;Redeemer II;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;01/12/2002
-555;Redeemer III;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;08/04/2011
-556;Renata Soliz;Female;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;23/02/2004
-557;Rey;Female;hazel;Human;Brown;297;George Lucas;-;good;Indefinite;19/06/2003
-558;Rhino;Male;brown;Human / Radiation;Brown;196;Marvel Comics;-;bad;320;07/09/2010
-559;Rick Flag;Male;blue;-;Brown;185;DC Comics;-;bad;85;22/02/2013
-560;Riddler;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;24/09/2001
-561;Rip Hunter;Male;blue;Human;Blond;Indefinite;DC Comics;-;good;Indefinite;02/04/2011
-562;Ripcord;Female;green;-;Black;180;Marvel Comics;-;good;72;23/06/2007
-563;Robin;Male;blue;Human;Black;178;DC Comics;-;good;79;13/09/2010
-564;Robin II;Male;blue;Human;Red;183;DC Comics;-;good;101;07/08/2011
-565;Robin III;Male;blue;Human;Black;165;DC Comics;-;good;56;04/10/1995
-566;Robin V;Male;blue;Human;Black;137;DC Comics;-;good;38;10/06/2010
-567;Robin VI;Female;green;Human;Red;Indefinite;DC Comics;-;neutral;Indefinite;12/07/2013
-568;Rocket Raccoon;Male;brown;Animal;Brown;122;Marvel Comics;-;good;25;08/12/1998
-569;Rogue;Female;green;-;Brown / White;173;Marvel Comics;-;good;54;08/03/1996
-570;Ronin;Male;blue;Human;Blond;191;Marvel Comics;-;good;104;30/06/2004
-571;Rorschach;Male;blue;Human;Red;168;DC Comics;-;good;63;02/05/2001
-572;Sabretooth;Male;amber;Mutant;Blond;198;Marvel Comics;-;bad;171;30/12/1996
-573;Sage;Female;blue;-;Black;170;Marvel Comics;-;good;61;22/05/2000
-574;Sandman;Male;brown;Human;Brown;185;Marvel Comics;-;neutral;203;24/10/2004
-575;Sasquatch;Male;red;-;Orange;305;Marvel Comics;-;good;900;09/02/2007
-576;Sauron;Male;-;Maiar;-;279;J. R. R. Tolkien;-;bad;Indefinite;07/12/1998
-577;Savage Dragon;Male;-;-;-;Indefinite;Image Comics;-;good;Indefinite;15/07/1997
-578;Scarecrow;Male;blue;Human;Brown;183;DC Comics;-;bad;63;05/02/2007
-579;Scarlet Spider;Male;blue;Human;Blond;178;Marvel Comics;-;good;74;07/10/2006
-580;Scarlet Spider II;Male;brown;Clone;Brown;193;Marvel Comics;-;good;113;04/05/2006
-581;Scarlet Witch;Female;blue;Mutant;Brown;170;Marvel Comics;-;bad;59;01/05/2007
-582;Scorpia;Female;green;-;Red;Indefinite;Marvel Comics;-;bad;Indefinite;18/08/2001
-583;Scorpion;Male;brown;Human;Brown;211;Marvel Comics;-;bad;310;26/10/2011
-584;Sebastian Shaw;Male;-;Mutant;-;Indefinite;Marvel Comics;-;bad;Indefinite;28/11/2009
-585;Sentry;Male;blue;Mutant;Blond;188;Marvel Comics;-;neutral;87;11/06/2003
-586;Shadow King;-;red;-;-;185;Marvel Comics;-;good;149;03/03/2001
-587;Shadow Lass;Female;black;Talokite;Black;173;DC Comics;blue;good;54;10/07/2005
-588;Shadowcat;Female;hazel;Mutant;Brown;168;Marvel Comics;-;good;50;24/02/2011
-589;Shang-Chi;Male;brown;Human;Black;178;Marvel Comics;-;good;79;30/03/2013
-590;Shatterstar;Male;brown;-;Red;191;Marvel Comics;-;good;88;09/09/2005
-591;She-Hulk;Female;green;Human;Green;201;Marvel Comics;-;good;315;09/03/2001
-592;She-Thing;Female;blue;Human / Radiation;No Hair;183;Marvel Comics;-;good;153;08/09/2011
-593;Shocker;Male;brown;Human;Brown;175;Marvel Comics;-;bad;79;08/05/1999
-594;Shriek;Female;yellow / blue;-;Black;173;Marvel Comics;-;good;52;02/03/2006
-595;Shrinking Violet;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;05/06/2012
-596;Sif;Female;blue;Asgardian;Black;188;Marvel Comics;-;good;191;18/05/1996
-597;Silk;Female;brown;Human;Black;Indefinite;Marvel Comics;-;good;Indefinite;17/06/1997
-598;Silk Spectre;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;09/07/2001
-599;Silk Spectre II;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;13/09/2007
-600;Silver Surfer;Male;white;Alien;No Hair;193;Marvel Comics;silver;good;101;13/07/1996
-601;Silverclaw;Female;brown;-;Black;157;Marvel Comics;-;good;50;19/01/2009
-602;Simon Baz;Male;bown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;05/08/2006
-603;Sinestro;Male;black;Korugaran;Black;201;DC Comics;red;neutral;92;04/01/1996
-604;Siren;Female;blue;Atlantean;Purple;175;DC Comics;-;bad;72;28/08/1999
-605;Siren II;Female;black;-;-;Indefinite;DC Comics;-;bad;Indefinite;25/02/2013
-606;Siryn;Female;blue;-;Strawberry Blond;168;Marvel Comics;-;bad;52;30/08/2013
-607;Skaar;Male;green;-;Black;198;Marvel Comics;-;good;180;14/03/2010
-608;Snake-Eyes;Male;-;Animal;-;Indefinite;Marvel Comics;-;bad;Indefinite;03/03/1998
-609;Snowbird;Female;white;-;Blond;178;Marvel Comics;-;good;49;30/11/1999
-610;Sobek;Male;white;-;No Hair;Indefinite;DC Comics;-;good;Indefinite;03/02/2005
-611;Solomon Grundy;Male;black;Zombie;White;279;DC Comics;-;bad;437;06/01/2001
-612;Songbird;Female;green;-;Red / White;165;Marvel Comics;-;good;65;25/06/1998
-613;Space Ghost;Male;-;Human;-;188;DC Comics;-;good;113;03/08/2009
-614;Spawn;Male;brown;Demon;Black;211;Image Comics;-;good;405;05/12/2010
-615;Spectre;Male;white;God / Eternal;No Hair;Indefinite;DC Comics;white;good;Indefinite;27/03/2000
-616;Speedball;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;02/02/2002
-617;Speedy;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;09/09/2007
-618;Speedy;Female;green;Human;Brown;Indefinite;DC Comics;-;good;Indefinite;12/01/1999
-619;Spider-Carnage;Male;-;Symbiote;-;Indefinite;Marvel Comics;-;bad;Indefinite;19/12/2009
-620;Spider-Girl;Female;blue;Human;Brown;170;Marvel Comics;-;good;54;28/06/1999
-621;Spider-Gwen;Female;blue;Human;Blond;165;Marvel Comics;-;good;56;09/01/2001
-622;Spider-Man;Male;hazel;Human;Brown;178;Marvel Comics;-;good;74;20/02/2003
-623;Spider-Man;-;red;Human;Brown;178;Marvel Comics;-;good;77;12/03/2001
-624;Spider-Man;Male;brown;Human;Black;157;Marvel Comics;-;good;56;10/07/2006
-625;Spider-Woman;Female;green;Human;Black;178;Marvel Comics;-;good;59;21/07/1995
-626;Spider-Woman II;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;14/07/1997
-627;Spider-Woman III;Female;brown;-;Brown;173;Marvel Comics;-;good;55;05/01/2010
-628;Spider-Woman IV;Female;red;-;White;178;Marvel Comics;-;bad;58;06/12/1996
-629;Spock;Male;brown;Human-Vulcan;Black;185;Star Trek;-;good;81;18/02/2011
-630;Spyke;Male;brown;Mutant;Blond;183;Marvel Comics;-;good;83;16/03/2006
-631;Stacy X;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;09/06/2008
-632;Star-Lord;Male;blue;Human-Spartoi;Blond;188;Marvel Comics;-;good;79;16/02/2014
-633;Stardust;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/06/2000
-634;Starfire;Female;green;Tamaranean;Auburn;193;DC Comics;orange;good;71;07/05/2007
-635;Stargirl;Female;blue;Human;Blond;165;DC Comics;-;good;62;14/09/1999
-636;Static;Male;brown;Mutant;Black;170;DC Comics;-;good;63;01/10/1998
-637;Steel;Male;brown;-;No Hair;201;DC Comics;-;good;131;05/09/2008
-638;Stephanie Powell;Female;-;-;Blond;Indefinite;ABC Studios;-;good;Indefinite;02/10/1998
-639;Steppenwolf;Male;red;New God;Black;183;DC Comics;white;bad;91;24/07/1996
-640;Storm;Female;blue;Mutant;White;180;Marvel Comics;-;good;57;12/10/2010
-641;Stormtrooper;Male;-;Human;-;183;George Lucas;-;bad;Indefinite;09/12/1998
-642;Sunspot;Male;brown;Mutant;black;173;Marvel Comics;-;good;77;15/03/2003
-643;Superboy;Male;blue;-;Black;170;DC Comics;-;good;68;03/01/1995
-644;Superboy-Prime;Male;blue;Kryptonian;Black / Blue;180;DC Comics;-;bad;77;18/11/2006
-645;Supergirl;Female;blue;Kryptonian;Blond;165;DC Comics;-;good;54;26/08/2005
-646;Superman;Male;blue;Kryptonian;Black;191;DC Comics;-;good;101;17/10/2002
-647;Swamp Thing;Male;red;God / Eternal;No Hair;Indefinite;DC Comics;green;bad;Indefinite;18/08/1996
-648;Swarm;Male;yellow;Mutant;No Hair;196;Marvel Comics;yellow;bad;47;14/07/2005
-649;Sylar;Male;-;-;-;Indefinite;NBC - Heroes;-;bad;Indefinite;25/02/2013
-650;Synch;Male;brown;-;Black;180;Marvel Comics;-;good;74;30/01/1999
-651;T-1000;Male;-;Android;-;183;Dark Horse Comics;silver;bad;146;28/09/2004
-652;T-800;Male;red;Cyborg;-;Indefinite;Dark Horse Comics;-;bad;176;26/08/2013
-653;T-850;Male;red;Cyborg;-;Indefinite;Dark Horse Comics;-;bad;198;11/10/2009
-654;T-X;Female;-;Cyborg;-;Indefinite;Dark Horse Comics;silver;bad;149;12/12/2010
-655;Taskmaster;Male;brown;Human;Brown;188;Marvel Comics;-;bad;99;19/09/2003
-656;Tempest;Female;brown;-;Black;163;Marvel Comics;-;good;54;23/02/2007
-657;Thanos;Male;red;Eternal;No Hair;201;Marvel Comics;purple;bad;443;28/10/2004
-658;The Cape;Male;-;-;-;Indefinite;;-;good;Indefinite;08/04/2003
-659;The Comedian;Male;brown;Human;Black;188;DC Comics;-;neutral;101;24/12/2011
-660;Thing;Male;blue;Human / Radiation;No Hair;183;Marvel Comics;-;good;225;19/05/2009
-661;Thor;Male;blue;Asgardian;Blond;198;Marvel Comics;-;good;288;07/09/2009
-662;Thor Girl;Female;blue;Asgardian;Blond;175;Marvel Comics;-;good;143;30/09/2006
-663;Thunderbird;Male;brown;-;Black;185;Marvel Comics;-;good;101;02/04/2008
-664;Thunderbird II;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;11/10/2010
-665;Thunderbird III;Male;brown;-;Black;175;Marvel Comics;-;good;74;07/01/2011
-666;Thunderstrike;Male;blue;-;Blond;198;Marvel Comics;-;good;288;21/07/1995
-667;Thundra;Female;green;-;Red;218;Marvel Comics;-;good;158;15/09/2004
-668;Tiger Shark;Male;grey;Human;No Hair;185;Marvel Comics;grey;bad;203;19/04/2005
-669;Tigra;Female;green;-;Auburn;178;Marvel Comics;-;good;81;11/08/2004
-670;Tinkerer;Male;brown;-;White;163;Marvel Comics;-;bad;54;16/11/2003
-671;Titan;Male;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;30/04/2011
-672;Toad;Male;black;Mutant;Brown;175;Marvel Comics;green;neutral;76;02/07/2010
-673;Toxin;Male;blue;Symbiote;Brown;188;Marvel Comics;-;good;97;28/03/1998
-674;Toxin;Male;black;Symbiote;Blond;191;Marvel Comics;-;good;117;24/11/2004
-675;Tracy Strauss;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;17/12/2013
-676;Trickster;Male;blue;Human;Blond;183;DC Comics;-;-;81;20/04/2008
-677;Trigon;Male;yellow;God / Eternal;Black;Indefinite;DC Comics;red;bad;Indefinite;10/07/2002
-678;Triplicate Girl;Female;purple;-;Brown;168;DC Comics;-;good;59;17/11/1997
-679;Triton;Male;green;Inhuman;No Hair;188;Marvel Comics;green;good;86;20/12/2013
-680;Two-Face;Male;-;-;-;183;DC Comics;-;bad;82;21/02/1996
-681;Ultragirl;Female;blue;-;Blond;168;Marvel Comics;-;good;105;24/10/2006
-682;Ultron;Male;red;Android;-;206;Marvel Comics;silver;bad;331;27/02/2011
-683;Utgard-Loki;Male;blue;Frost Giant;White;15,2;Marvel Comics;-;bad;58;26/04/2010
-684;Vagabond;Female;blue;-;Strawberry Blond;168;Marvel Comics;-;good;54;04/02/2001
-685;Valerie Hart;Female;hazel;-;Black;175;Team Epic TV;-;good;56;09/07/2013
-686;Valkyrie;Female;blue;-;Blond;191;Marvel Comics;-;good;214;05/01/2007
-687;Vanisher;Male;green;-;No Hair;165;Marvel Comics;-;bad;79;31/01/2006
-688;Vegeta;Male;-;Saiyan;Black;168;Shueisha;-;bad;73;22/09/1999
-689;Venom;Male;blue;Symbiote;Strawberry Blond;191;Marvel Comics;-;bad;117;01/03/2006
-690;Venom II;Male;brown;-;Black;175;Marvel Comics;-;bad;50;10/10/2002
-691;Venom III;Male;brown;Symbiote;Brown;229;Marvel Comics;-;bad;334;16/01/2004
-692;Venompool;Male;-;Symbiote;-;226;Marvel Comics;-;-;Indefinite;20/01/2014
-693;Vertigo II;Female;blue;-;Silver;168;Marvel Comics;-;good;52;22/02/2001
-694;Vibe;Male;brown;Human;Black;178;DC Comics;-;good;71;23/05/2011
-695;Vindicator;Female;green;Human;Red;165;Marvel Comics;-;good;54;21/05/2001
-696;Vindicator;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;21/08/2012
-697;Violator;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;04/10/2009
-698;Violet Parr;Female;violet;Human;Black;137;Dark Horse Comics;-;good;41;17/02/2013
-699;Vision;Male;gold;Android;No Hair;191;Marvel Comics;red;good;135;13/03/2008
-700;Vision II;-;red;-;No Hair;191;Marvel Comics;-;good;135;21/10/2010
-701;Vixen;Female;amber;Human;Black;175;DC Comics;-;good;63;20/09/1998
-702;Vulcan;Male;black;-;Black;Indefinite;Marvel Comics;-;good;Indefinite;27/02/1999
-703;Vulture;Male;brown;Human;No Hair;180;Marvel Comics;-;bad;79;25/07/1997
-704;Walrus;Male;blue;Human;Black;183;Marvel Comics;-;bad;162;28/05/2001
-705;War Machine;Male;brown;Human;Brown;185;Marvel Comics;-;good;95;04/05/2010
-706;Warbird;Female;blue;-;Blond;180;Marvel Comics;-;good;54;14/06/2008
-707;Warlock;Male;red;-;Blond;188;Marvel Comics;-;good;108;22/02/2005
-708;Warp;Male;brown;-;Black;173;DC Comics;-;bad;67;25/09/2011
-709;Warpath;Male;brown;Mutant;Black;218;Marvel Comics;-;good;158;09/08/2007
-710;Wasp;Female;blue;Human;Auburn;163;Marvel Comics;-;good;50;19/11/2013
-711;Watcher;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;01/08/2013
-712;Weapon XI;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;02/11/2000
-713;White Canary;Female;brown;Human;Black;Indefinite;DC Comics;-;bad;Indefinite;08/03/1996
-714;White Queen;Female;blue;-;Blond;178;Marvel Comics;-;good;65;29/03/1995
-715;Wildfire;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;29/09/2007
-716;Winter Soldier;Male;brown;Human;Brown;175;Marvel Comics;-;good;117;05/10/2008
-717;Wiz Kid;-;brown;-;Black;140;Marvel Comics;-;good;39;24/12/2011
-718;Wolfsbane;Female;green;-;Auburn;366;Marvel Comics;-;good;473;12/01/1999
-719;Wolverine;Male;blue;Mutant;Black;160;Marvel Comics;-;good;135;13/10/1996
-720;Wonder Girl;Female;blue;Demi-God;Blond;165;DC Comics;-;good;51;12/05/2008
-721;Wonder Man;Male;red;-;Black;188;Marvel Comics;-;good;171;14/10/2001
-722;Wonder Woman;Female;blue;Amazon;Black;183;DC Comics;-;good;74;19/04/1999
-723;Wondra;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;14/11/2009
-724;Wyatt Wingfoot;Male;brown;-;Black;196;Marvel Comics;-;good;117;05/11/1996
-725;X-23;Female;green;Mutant / Clone;Black;155;Marvel Comics;-;good;50;17/11/2003
-726;X-Man;Male;blue;-;Brown;175;Marvel Comics;-;good;61;24/03/2010
-727;Yellow Claw;Male;blue;-;No Hair;188;Marvel Comics;-;bad;95;30/05/2009
-728;Yellowjacket;Male;blue;Human;Blond;183;Marvel Comics;-;good;83;11/08/2011
-729;Yellowjacket II;Female;blue;Human;Strawberry Blond;165;Marvel Comics;-;good;52;15/10/1995
-730;Ymir;Male;white;Frost Giant;No Hair;304,8;Marvel Comics;white;good;Indefinite;06/11/1999
-731;Yoda;Male;brown;Yoda's species;White;66;George Lucas;green;good;17;06/02/2013
-732;Zatanna;Female;blue;Human;Black;170;DC Comics;-;good;57;13/10/2007
-733;Zoom;Male;red;-;Brown;185;DC Comics;-;bad;81;10/10/2004
+Column1;name;Gender;Eye color;Race;Hair color;Height ;Publisher;Skin color;Alignment;Weight;Birth Date;Powers
+0;A-Bomb;Male;yellow;Human;No Hair;203;Marvel Comics;-;good;441;29/07/2005;Agility,Super Strength,Stamina,Super Speed
+1;Abe Sapien;Male;blue;Icthyo Sapien;No Hair;191;Dark Horse Comics;blue;good;65;03/01/2014;Accelerated Healing,Durability,Longevity,Super Strength,Stamina
+2;Abin Sur;Male;blue;Ungaran;No Hair;185;DC Comics;red;good;90;02/06/2000;Agility,Accelerated Healing,Cold Resistance,Durability,Underwater breathing,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Telepathy,Stamina
+3;Abomination;Male;green;Human / Radiation;No Hair;203;Marvel Comics;-;bad;441;19/01/1999;Lantern Power Ring
+4;Abraxas;Male;blue;Cosmic Entity;Black;Indefinite;Marvel Comics;-;bad;Indefinite;06/07/2003;Accelerated Healing,Intelligence,Super Strength,Stamina,Super Speed
+5;Absorbing Man;Male;blue;Human;No Hair;193;Marvel Comics;-;bad;122;28/08/2008;Dimensional Awareness,Flight,Intelligence,Super Strength,Size Changing,Super Speed
+6;Adam Monroe;Male;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;24/12/2013;Cold Resistance,Durability,Energy Absorption,Super Strength
+7;Adam Strange;Male;blue;Human;Blond;185;DC Comics;-;good;88;01/04/1995;Accelerated Healing
+8;Agent 13;Female;blue;-;Blond;173;Marvel Comics;-;good;61;13/02/1996;Durability,Stealth,Flight,Marksmanship,Weapons Master,Intelligence,Super Speed
+9;Agent Bob;Male;brown;Human;Brown;178;Marvel Comics;-;good;81;11/09/1999;Stealth
+10;Agent Zero;Male;-;-;-;191;Marvel Comics;-;good;104;31/01/2000;Energy Absorption,Longevity,Super Strength,Energy Blasts
+11;Air-Walker;Male;blue;-;White;188;Marvel Comics;-;bad;108;18/05/2001;Flight,Super Strength,Super Speed
+12;Ajax;Male;brown;Cyborg;Black;193;Marvel Comics;-;bad;90;05/08/1995;Agility,Super Strength,Super Speed
+13;Alan Scott;Male;blue;-;Blond;180;DC Comics;-;good;90;07/12/1997;Flight,Danger Sense,Intelligence,Telepathy,Energy Blasts,Super Speed
+14;Alex Mercer;Male;-;Human;-;Indefinite;Wildstorm;-;bad;Indefinite;23/01/2003;Agility,Accelerated Healing,Stealth,Energy Absorption,Danger Sense,Marksmanship,Weapons Master,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed
+15;Alex Woolsly;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;03/10/1999;Underwater breathing
+16;Alfred Pennyworth;Male;blue;Human;Black;178;DC Comics;-;good;72;18/10/1997;Agility,Cold Resistance,Durability,Stealth,Super Strength,Super Speed
+17;Alien;Male;-;Xenomorph XX121;No Hair;244;Dark Horse Comics;black;bad;169;01/02/2003;Marksmanship
+18;Allan Quatermain;Male;-;-;-;Indefinite;Wildstorm;-;good;Indefinite;09/01/2013;Agility,Lantern Power Ring,Durability,Flight,Underwater breathing,Marksmanship,Power Augmentation,Longevity,Intelligence,Super Strength,Cryokinesis,Telepathy,Energy Blasts,Duplication,Size Changing,Stamina,Super Speed,Weapon-based Powers
+19;Amazo;Male;red;Android;-;257;DC Comics;-;bad;173;28/11/2002;Weapons Master
+20;Ammo;Male;brown;Human;Black;188;Marvel Comics;-;bad;101;09/02/2010;Power Augmentation
+21;Ando Masahashi;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;15/02/2014;Agility,Accelerated Healing,Durability,Stealth,Flight,Longevity,Super Strength,Stamina,Super Speed
+22;Angel;Male;blue;-;Blond;183;Marvel Comics;-;good;68;11/05/2004;Agility,Super Strength,Stamina,Super Speed
+23;Angel;Male;-;Vampire;-;Indefinite;Dark Horse Comics;-;good;Indefinite;21/11/2012;Flight,Animal Attributes,Animal Oriented Powers
+24;Angel Dust;Female;yellow;Mutant;Black;165;Marvel Comics;-;good;57;04/06/1996;Longevity
+25;Angel Salvadore;Female;brown;-;Black;163;Marvel Comics;-;good;54;18/01/1999;Animal Attributes,Telepathy,Energy Blasts,Animal Oriented Powers
+26;Angela;Female;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;19/06/2001;Agility,Durability,Flight,Super Strength,Stamina,Super Speed
+27;Animal Man;Male;blue;Human;Blond;183;DC Comics;-;good;83;10/02/1998;Intelligence,Size Changing
+28;Annihilus;Male;green;-;No Hair;180;Marvel Comics;-;bad;90;21/10/2012;Agility,Stealth,Intelligence,Super Strength,Telepathy,Size Changing,Stamina,Animal Oriented Powers
+29;Ant-Man;Male;blue;Human;Blond;211;Marvel Comics;-;good;122;16/01/2014;Accelerated Healing,Dimensional Awareness,Durability,Energy Absorption,Flight,Power Augmentation,Intelligence,Super Strength,Telepathy,Energy Blasts,Size Changing,Darkforce Manipulation
+30;Ant-Man II;Male;blue;Human;Blond;183;Marvel Comics;-;good;86;06/07/1999;Durability,Super Strength,Energy Blasts,Stamina
+31;Anti-Monitor;Male;yellow;God / Eternal;No Hair;61;DC Comics;-;bad;Indefinite;02/08/2002;Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina
+32;Anti-Spawn;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;15/06/2009;Agility,Accelerated Healing,Energy Absorption,Flight,Power Augmentation,Longevity,Super Strength,Telepathy,Energy Blasts,Size Changing,Stamina,Super Speed
+33;Anti-Venom;Male;blue;Symbiote;Blond;229;Marvel Comics;-;-;358;16/08/2009;Underwater breathing,Super Strength
+34;Apocalypse;Male;red;Mutant;Black;213;Marvel Comics;grey;bad;135;19/07/2004;Durability,Underwater breathing,Super Strength,Cryokinesis,Telepathy,Stamina,Super Speed
+35;Aquababy;Male;blue;-;Blond;Indefinite;DC Comics;-;good;Indefinite;16/04/1996;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Underwater breathing,Longevity,Intelligence,Super Strength,Telepathy,Stamina,Super Speed
+36;Aqualad;Male;blue;Atlantean;Black;178;DC Comics;-;good;106;25/01/1998;Agility,Accelerated Healing,Durability,Super Strength,Stamina,Super Speed
+37;Aquaman;Male;blue;Atlantean;Blond;185;DC Comics;-;good;146;03/03/2005;Agility,Accelerated Healing,Durability,Flight,Super Strength,Stamina
+38;Arachne;Female;blue;Human;Blond;175;Marvel Comics;-;good;63;13/02/2014;Durability,Super Strength,Stamina
+39;Archangel;Male;blue;Mutant;Blond;183;Marvel Comics;blue;good;68;29/08/2008;Agility,Accelerated Healing,Cold Resistance,Durability,Flight,Super Strength,Energy Blasts,Super Speed
+40;Arclight;Female;violet;-;Purple;173;Marvel Comics;-;bad;57;24/04/1996;Agility,Accelerated Healing,Durability,Super Strength,Stamina,Super Speed
+41;Ardina;Female;white;Alien;Orange;193;Marvel Comics;gold;good;98;26/07/2009;Telepathy
+42;Ares;Male;brown;-;Brown;185;Marvel Comics;-;good;270;28/10/2001;Super Strength,Energy Armor
+43;Ariel;Female;purple;-;Pink;165;Marvel Comics;-;good;59;11/07/2007;Flight,Super Strength,Energy Blasts,Super Speed,Weapon-based Powers
+44;Armor;Female;black;-;Black;163;Marvel Comics;-;good;50;07/10/2010;Durability,Stealth,Intelligence,Super Strength,Size Changing,Stamina,Super Speed
+45;Arsenal;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;09/09/2003;Longevity,Super Strength,Duplication,Stamina,Super Speed
+46;Astro Boy;Male;brown;-;Black;Indefinite;;-;good;Indefinite;03/04/2008;Size Changing
+47;Atlas;Male;brown;Mutant;Red;183;Marvel Comics;-;good;101;12/09/2003;Flight,Super Strength,Size Changing,Density Control
+48;Atlas;Male;blue;God / Eternal;Brown;198;DC Comics;-;bad;126;30/03/1996;Size Changing
+49;Atom;Male;blue;-;Red;178;DC Comics;-;good;68;09/04/2002;Intelligence
+50;Atom;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/06/2008;Accelerated Healing,Durability,Flight,Energy Blasts,Super Speed
+51;Atom Girl;Female;black;-;Black;168;DC Comics;-;good;54;31/10/1998;Accelerated Healing,Longevity
+52;Atom II;Male;brown;Human;Auburn;183;DC Comics;-;good;81;25/02/2001;Weapons Master,Super Strength,Stamina,Super Speed,Weapon-based Powers
+53;Atom III;Male;-;-;Red;Indefinite;DC Comics;-;good;Indefinite;06/03/2008;Flight,Super Strength,Telepathy,Stamina,Astral Travel,Super Speed
+54;Atom IV;Male;brown;-;Black;Indefinite;DC Comics;-;good;72;20/10/2000;Flight,Super Strength,Super Speed
+55;Aurora;Female;blue;Mutant;Black;180;Marvel Comics;-;good;63;04/11/2008;Durability,Super Strength,Stamina,Super Speed
+56;Azazel;Male;yellow;Neyaphem;Black;183;Marvel Comics;red;bad;67;07/03/2009;Flight,Audio Control
+57;Azrael;Male;brown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;02/11/2004;Durability,Super Strength,Stamina
+58;Aztar;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;25/04/2002;Stealth,Marksmanship,Weapons Master,Intelligence,Stamina,Weapon-based Powers
+59;Bane;Male;-;Human;-;203;DC Comics;-;bad;180;21/08/1998;Agility,Stealth,Weapons Master
+60;Banshee;Male;green;Human;Strawberry Blond;183;Marvel Comics;-;good;77;12/02/1996;Agility,Marksmanship,Stamina,Weapon-based Powers
+61;Bantam;Male;brown;-;Black;165;Marvel Comics;-;good;54;30/12/1998;Agility,Durability,Stealth,Underwater breathing,Marksmanship,Weapons Master,Intelligence,Super Strength,Stamina,Super Speed,Weapon-based Powers
+62;Batgirl;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/08/1996;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina,Weapon-based Powers
+63;Batgirl;Female;green;Human;Red;170;DC Comics;-;good;57;06/10/1999;Agility,Durability,Super Strength,Stamina,Super Speed
+64;Batgirl III;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;27/08/2007;Stealth,Marksmanship,Weapons Master,Intelligence,Stamina,Dexterity
+65;Batgirl IV;Female;green;Human;Black;165;DC Comics;-;good;52;04/09/1997;Flight
+66;Batgirl V;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;11/04/2003;Agility,Accelerated Healing,Animal Attributes,Intelligence,Super Strength,Stamina,Dexterity,Super Speed
+67;Batgirl VI;Female;blue;-;Blond;168;DC Comics;-;good;61;22/05/2005;Agility,Durability,Flight,Animal Attributes,Super Strength,Size Changing,Super Speed,Animal Oriented Powers
+68;Batman;Male;blue;Human;black;188;DC Comics;-;good;95;05/12/2002;Omnitrix
+69;Batman;Male;blue;Human;Black;178;DC Comics;-;good;77;01/09/2010;Accelerated Healing,Super Strength,Stamina,Super Speed
+70;Batman II;Male;blue;Human;Black;178;DC Comics;-;good;79;22/06/2005;Accelerated Healing,Dimensional Awareness,Energy Absorption,Flight,Super Strength,Telepathy,Energy Blasts,Size Changing,Super Speed
+71;Battlestar;Male;brown;-;Black;198;Marvel Comics;-;good;133;06/12/2003;Agility,Durability,Flight,Longevity,Super Strength,Stamina
+72;Batwoman V;Female;green;Human;Red;178;DC Comics;-;good;Indefinite;28/06/1995;Stamina
+73;Beak;Male;black;-;White;175;Marvel Comics;-;good;63;03/11/2007;Marksmanship
+74;Beast;Male;blue;Mutant;Blue;180;Marvel Comics;blue;good;181;19/03/2005;Super Strength,Super Speed
+75;Beast Boy;Male;green;Human;Green;173;DC Comics;green;good;68;20/12/2000;Possession
+76;Beetle;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;19/05/2011;Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Super Speed
+77;Ben 10;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;07/05/2009;Agility,Durability,Super Strength,Stamina,Super Speed
+78;Beta Ray Bill;Male;-;-;No Hair;201;Marvel Comics;-;good;216;13/02/1995;Flight,Animal Attributes
+79;Beyonder;Male;-;God / Eternal;-;Indefinite;Marvel Comics;-;good;Indefinite;01/07/2005;Flight,Super Strength,Animal Oriented Powers
+80;Big Barda;Female;blue;New God;Black;188;DC Comics;-;bad;135;09/07/2003;Flight
+81;Big Daddy;Male;-;-;-;Indefinite;Icon Comics;-;good;Indefinite;23/08/2005;Agility,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina
+82;Big Man;Male;blue;-;Brown;165;Marvel Comics;-;bad;71;07/05/2011;Accelerated Healing,Energy Absorption,Super Strength,Energy Blasts,Stamina
+83;Bill Harken;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;19/02/2001;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Marksmanship,Longevity,Super Strength,Cryokinesis,Stamina,Super Speed
+84;Billy Kincaid;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;24/10/2003;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Stamina,Super Speed
+85;Binary;Female;blue;-;Blond;180;Marvel Comics;-;good;54;29/11/2000;Telepathy,Energy Blasts
+86;Bionic Woman;Female;blue;Cyborg;Black;Indefinite;;-;good;Indefinite;29/07/2003;Accelerated Healing,Flight,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+87;Bird-Brain;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;24/03/2000;Agility,Durability,Energy Absorption,Flight,Longevity,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+88;Bird-Man;Male;-;Human;-;Indefinite;Marvel Comics;-;bad;Indefinite;07/11/2001;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina,Audio Control
+89;Bird-Man II;Male;-;Human;-;Indefinite;Marvel Comics;-;bad;Indefinite;27/03/1997;Agility,Super Strength,Stamina,Super Speed
+90;Birdman;Male;-;God / Eternal;-;Indefinite;Hanna-Barbera;-;good;Indefinite;01/02/2004;Agility,Stealth,Flight,Super Strength,Stamina,Super Speed
+91;Bishop;Male;brown;Mutant;No Hair;198;Marvel Comics;-;good;124;14/06/2007;Weapon-based Powers
+92;Bizarro;Male;black;Bizarro;Black;191;DC Comics;white;neutral;155;09/07/2000;Energy Absorption,Flight,Energy Blasts,Electrokinesis
+93;Black Abbott;Male;red;-;Black;Indefinite;Marvel Comics;-;bad;Indefinite;18/06/2001;Darkforce Manipulation
+94;Black Adam;Male;brown;-;Black;191;DC Comics;-;bad;113;24/07/2002;Agility,Cold Resistance,Durability,Stealth,Underwater breathing,Marksmanship,Weapons Master,Super Strength,Energy Blasts,Stamina,Super Speed
+95;Black Bolt;Male;blue;Inhuman;Black;188;Marvel Comics;-;good;95;05/11/2000;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+96;Black Canary;Female;blue;Human;Blond;165;DC Comics;-;good;58;22/05/2000;Flight,Super Speed,Electrokinesis
+97;Black Canary;Female;blue;Metahuman;Blond;170;DC Comics;-;good;59;20/08/2000;Agility,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Stamina
+98;Black Cat;Female;green;Human;Blond;178;Marvel Comics;-;good;54;18/08/2001;Agility,Accelerated Healing,Durability,Super Strength,Stamina,Super Speed
+99;Black Flash;Male;-;God / Eternal;-;Indefinite;DC Comics;-;neutral;Indefinite;06/09/2003;Flight,Telepathy
+100;Black Goliath;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;07/07/2007;Durability,Super Strength,Energy Blasts
+101;Black Knight III;Male;brown;Human;Brown;183;Marvel Comics;-;good;86;04/05/2002;Agility,Accelerated Healing,Weapons Master,Super Strength,Stamina,Super Speed
+102;Black Lightning;Male;brown;-;No Hair;185;DC Comics;-;good;90;16/12/2002;Durability
+103;Black Mamba;Female;green;-;Black;170;Marvel Comics;-;bad;52;15/02/2000;Cryokinesis,Weapon-based Powers
+104;Black Manta;Male;black;Human;No Hair;188;DC Comics;-;bad;92;03/07/1997;Cryokinesis
+105;Black Panther;Male;brown;Human;Black;183;Marvel Comics;-;good;90;17/07/2000;Durability,Super Strength
+106;Black Widow;Female;green;Human;Auburn;170;Marvel Comics;-;good;59;15/03/1996;Agility,Durability,Super Strength,Cryokinesis,Energy Blasts,Stamina,Super Speed,Weapon-based Powers
+107;Black Widow II;Female;blue;-;Blond;170;Marvel Comics;-;good;61;12/03/2006;Flight
+108;Blackout;Male;red;Demon;White;191;Marvel Comics;white;bad;104;04/03/1998;Energy Absorption,Weapons Master,Super Strength,Energy Blasts,Weapon-based Powers
+109;Blackwing;Male;blue;-;Black;185;Marvel Comics;-;bad;86;08/05/2007;Flight,Super Strength,Energy Blasts
+110;Blackwulf;Male;red;Alien;White;188;Marvel Comics;-;-;88;14/04/1997;Intelligence
+111;Blade;Male;brown;Vampire;Black;188;Marvel Comics;-;good;97;29/08/1999;Agility,Accelerated Healing,Cold Resistance,Flight,Super Strength,Energy Blasts
+112;Blaquesmith;-;black;-;No Hair;Indefinite;Marvel Comics;-;good;Indefinite;02/01/2013;Accelerated Healing,Super Speed
+113;Bling!;Female;-;-;-;168;Marvel Comics;-;good;68;13/07/2012;Agility,Stealth,Flight,Marksmanship,Weapons Master,Intelligence,Stamina
+114;Blink;Female;green;Mutant;Magenta;165;Marvel Comics;pink;good;56;14/07/2012;Accelerated Healing,Energy Blasts
+115;Blizzard;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;29/10/2003;Agility,Energy Absorption,Energy Blasts
+116;Blizzard;Male;-;-;Brown;Indefinite;Marvel Comics;-;bad;Indefinite;06/07/1999;Agility,Durability,Flight,Weapons Master,Longevity,Intelligence,Super Strength,Energy Blasts
+117;Blizzard II;Male;brown;-;Brown;175;Marvel Comics;-;bad;77;01/06/2003;Electrokinesis
+118;Blob;Male;brown;-;Brown;178;Marvel Comics;-;bad;230;12/07/1999;Durability,Flight,Longevity,Intelligence,Super Strength,Telepathy,Super Speed
+119;Bloodaxe;Female;blue;Human;Brown;218;Marvel Comics;-;bad;495;16/12/1999;Intelligence
+120;Bloodhawk;Male;black;Mutant;No Hair;Indefinite;Marvel Comics;-;good;Indefinite;13/11/1997;Agility,Stealth,Super Strength,Stamina
+121;Bloodwraith;Male;white;-;No Hair;30,5;Marvel Comics;-;bad;Indefinite;13/06/2003;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Super Strength,Stamina,Super Speed
+122;Blue Beetle;Male;blue;-;Brown;Indefinite;DC Comics;-;good;Indefinite;16/08/1999;Durability,Marksmanship,Weapons Master
+123;Blue Beetle;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;20/05/2010;Stealth,Flight,Intelligence,Super Strength,Energy Blasts,Size Changing,Stamina,Electrokinesis
+124;Blue Beetle II;Male;blue;-;Brown;183;DC Comics;-;good;86;18/12/1997;Flight,Telepathy
+125;Blue Beetle III;Male;brown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;30/06/2005;Agility,Weapons Master
+126;Boba Fett;Male;brown;Human / Clone;Black;183;George Lucas;-;bad;Indefinite;08/02/2007;Agility,Accelerated Healing,Durability,Stealth,Flight,Marksmanship,Weapons Master,Intelligence,Super Strength,Telepathy,Energy Blasts,Stamina,Dexterity,Super Speed
+127;Bolt;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;20/02/2004;Agility,Accelerated Healing,Super Strength
+128;Bomb Queen;Female;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;07/12/1996;Marksmanship
+129;Boom-Boom;Female;blue;Mutant;Blond;165;Marvel Comics;-;good;55;27/01/2007;Energy Absorption,Flight,Energy Armor,Super Speed
+130;Boomer;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;09/01/2001;Agility,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Stamina,Weapon-based Powers
+131;Booster Gold;Male;blue;Human;Blond;196;DC Comics;-;good;97;10/01/2006;Agility,Accelerated Healing,Energy Absorption,Flight,Weapons Master,Super Strength,Energy Blasts,Super Speed
+132;Box;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;27/09/2003;Agility,Durability,Stealth,Flight,Super Strength,Stamina,Super Speed
+133;Box III;-;blue;-;Blond;193;Marvel Comics;-;good;110;23/12/2010;Cryokinesis,Weapon-based Powers
+134;Box IV;-;brown;-;Brown / Black;Indefinite;Marvel Comics;-;good;Indefinite;04/01/2004;Super Strength,Super Speed
+135;Brainiac;Male;green;Android;No Hair;198;DC Comics;green;bad;135;20/04/1995;Flight,Super Speed
+136;Brainiac 5;Male;green;-;Blond;170;DC Comics;-;good;61;23/03/2008;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Flight,Danger Sense,Marksmanship,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+137;Brother Voodoo;Male;brown;Human;Brown / White;183;Marvel Comics;-;good;99;11/06/1998;Intelligence,Super Strength
+138;Brundlefly;Male;-;Mutant;-;193;;-;-;Indefinite;14/10/2012;Stealth,Flight,Marksmanship,Intelligence
+139;Buffy;Female;green;Human;Blond;157;Dark Horse Comics;-;good;52;11/02/2006;Flight,Super Strength,Cryokinesis,Telepathy,Energy Blasts,Stamina,Super Speed,Electrokinesis
+140;Bullseye;Male;blue;Human;blond;183;Marvel Comics;-;bad;90;30/12/2010;Cold Resistance,Flight,Power Augmentation,Energy Blasts
+141;Bumblebee;Female;brown;Human;Black;170;DC Comics;-;good;59;17/12/2009;Agility,Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina,Super Speed,Weapon-based Powers
+142;Bumbleboy;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;02/02/2006;Agility,Super Strength,Stamina
+143;Bushido;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;18/10/1999;Agility,Stealth,Marksmanship,Animal Attributes,Stamina,Dexterity
+144;Cable;Male;blue;Mutant;White;203;Marvel Comics;-;good;158;18/01/2004;Telepathy
+145;Callisto;Female;blue;-;Black;175;Marvel Comics;-;bad;74;01/04/2009;Telepathy
+146;Cameron Hicks;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;19/06/1995;Agility,Stealth,Stamina,Animal Oriented Powers
+147;Cannonball;Male;blue;-;Blond;183;Marvel Comics;-;good;81;14/11/2000;Agility,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+148;Captain America;Male;blue;Human;blond;188;Marvel Comics;-;good;108;04/01/2007;Agility,Durability,Stealth,Animal Attributes,Intelligence,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+149;Captain Atom;Male;blue;Human / Radiation;Silver;193;DC Comics;silver;good;90;05/01/2004;Agility,Super Strength,Energy Blasts,Stamina
+150;Captain Britain;Male;blue;Human;Blond;198;Marvel Comics;-;good;116;07/07/1997;Agility,Durability,Super Strength,Super Speed
+151;Captain Cold;Male;brown;Human;Brown;Indefinite;DC Comics;-;neutral;Indefinite;23/12/2013;Accelerated Healing
+152;Captain Epic;Male;blue;-;Brown;188;Team Epic TV;-;good;Indefinite;08/06/2011;Agility,Super Strength,Size Changing,Density Control,Stamina,Super Speed
+153;Captain Hindsight;Male;-;Human;Black;Indefinite;South Park;-;good;Indefinite;02/02/1996;Dimensional Awareness,Darkforce Manipulation
+154;Captain Mar-vell;Male;blue;-;Blond;188;Marvel Comics;-;good;108;09/01/2003;Cold Resistance,Durability,Super Strength,Stamina,Super Speed
+155;Captain Marvel;Female;blue;Human-Kree;Blond;180;Marvel Comics;-;good;74;18/11/2010;Super Strength,Stamina
+156;Captain Marvel;Male;blue;Human;Black;193;DC Comics;-;good;101;19/02/1995;Stealth,Weapons Master
+157;Captain Marvel II;Male;blue;Human;Black;175;DC Comics;-;good;74;16/07/2012;Super Strength
+158;Captain Midnight;Male;-;Human;-;Indefinite;Dark Horse Comics;-;good;Indefinite;19/11/1999;Flight,Longevity
+159;Captain Planet;Male;red;God / Eternal;Green;Indefinite;Marvel Comics;-;good;Indefinite;16/11/2009;Durability,Flight,Super Strength,Energy Blasts
+160;Captain Universe;-;-;God / Eternal;-;Indefinite;Marvel Comics;-;good;Indefinite;04/02/2011;Super Strength,Stamina,Super Speed
+161;Carnage;Male;green;Symbiote;Red;185;Marvel Comics;-;bad;86;05/10/1999;Intelligence,Energy Blasts
+162;Cat;Female;blue;-;Blond;173;Marvel Comics;-;good;61;24/01/2008;Animal Attributes,Super Strength,Stamina,Dexterity,Super Speed
+163;Cat II;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;30/11/2009;Durability,Flight,Super Strength,Stamina,Super Speed,Weapon-based Powers
+164;Catwoman;Female;green;Human;Black;175;DC Comics;-;good;61;15/05/2012;Durability,Energy Absorption,Flight,Super Strength,Stamina,Super Speed
+165;Cecilia Reyes;-;brown;-;Brown;170;Marvel Comics;-;good;62;13/10/2005;Agility,Energy Absorption,Marksmanship,Intelligence,Energy Blasts
+166;Century;Male;white;Alien;White;201;Marvel Comics;grey;good;97;06/09/1995;Energy Blasts
+167;Cerebra;Female;-;Mutant;-;Indefinite;Marvel Comics;-;good;Indefinite;07/04/1998;Telepathy
+168;Chamber;Male;brown;Mutant;Brown;175;Marvel Comics;-;good;63;07/04/1999;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Telepathy,Stamina
+169;Chameleon;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;27/03/2010;Durability,Flight,Energy Blasts,Weapon-based Powers
+170;Changeling;Male;brown;-;Black;180;Marvel Comics;-;bad;81;02/05/2006;Durability,Intelligence,Super Strength
+171;Cheetah;Female;green;Human;Blond;163;DC Comics;-;bad;50;05/11/2009;Agility,Accelerated Healing,Dimensional Awareness,Flight,Marksmanship,Intelligence,Super Strength,Telepathy,Energy Blasts,Size Changing,Stamina,Super Speed
+172;Cheetah II;Female;green;Human;Brown;170;DC Comics;-;bad;55;16/09/2003;Flight,Energy Blasts
+173;Cheetah III;Female;brown;Human;Brown;175;DC Comics;-;bad;54;14/11/1999;Agility,Durability,Stealth,Danger Sense,Marksmanship,Weapons Master,Super Strength,Telepathy,Stamina,Electrokinesis,Darkforce Manipulation
+174;Chromos;Male;brown;-;Red / Grey;185;Team Epic TV;-;bad;86;30/10/2009;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Weapons Master,Intelligence,Telepathy,Energy Blasts,Super Speed,Electrokinesis
+175;Chuck Norris;Male;-;-;-;178;;-;good;Indefinite;18/03/1997;Agility,Stamina,Super Speed
+176;Citizen Steel;Male;green;Human;Red;183;DC Comics;-;good;170;06/11/2004;Agility,Cold Resistance,Durability,Longevity,Intelligence,Super Strength,Super Speed
+177;Claire Bennet;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;10/06/1995;Agility,Energy Absorption,Marksmanship,Energy Blasts,Stamina,Audio Control
+178;Clea;-;-;-;White;Indefinite;Marvel Comics;-;good;Indefinite;24/02/2013;Agility,Lantern Power Ring,Flight,Stamina,Possession
+179;Cloak;Male;brown;-;black;226;Marvel Comics;-;good;70;02/07/2011;Agility,Accelerated Healing,Dimensional Awareness,Stealth,Marksmanship,Weapons Master,Longevity,Stamina,Weapon-based Powers
+180;Clock King;Male;blue;Human;Black;178;DC Comics;-;bad;78;28/03/2008;Stealth,Marksmanship,Weapons Master,Stamina
+181;Cogliostro;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;04/03/2009;Agility,Durability,Intelligence,Super Strength,Stamina,Super Speed
+182;Colin Wagner;Male;grey;-;Brown;Indefinite;HarperCollins;-;good;Indefinite;12/06/2013;Agility,Accelerated Healing,Durability,Weapons Master,Longevity,Super Strength,Super Speed,Weapon-based Powers
+183;Colossal Boy;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;12/01/2012;Agility,Super Strength
+184;Colossus;Male;silver;Mutant;Black;226;Marvel Comics;-;good;225;06/04/2004;Agility,Super Strength,Telepathy,Stamina,Super Speed
+185;Copycat;Female;red;Mutant;White;183;Marvel Comics;blue;neutral;67;19/10/2004;Super Strength,Energy Blasts,Size Changing
+186;Corsair;Male;brown;-;Brown;191;Marvel Comics;-;good;79;04/08/2007;Marksmanship,Weapons Master
+187;Cottonmouth;Male;brown;Human;Black;183;Marvel Comics;-;bad;99;27/09/2001;Durability,Super Strength,Stamina
+188;Crimson Crusader;Male;blue;-;Strawberry Blond;Indefinite;Marvel Comics;-;good;Indefinite;29/03/2003;Durability,Flight,Super Strength,Energy Blasts,Stamina,Astral Travel,Super Speed,Weapon-based Powers,Electrokinesis
+189;Crimson Dynamo;Male;brown;-;No Hair;180;Marvel Comics;-;good;104;30/10/2007;Flight,Super Strength,Energy Blasts
+190;Crystal;Female;green;Inhuman;Red;168;Marvel Comics;-;good;50;20/11/2006;Accelerated Healing,Dimensional Awareness,Flight,Longevity,Super Strength,Telepathy,Energy Blasts,Super Speed
+191;Curse;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;13/04/1995;Agility,Marksmanship,Intelligence,Super Strength,Stamina,Super Speed,Weapon-based Powers
+192;Cy-Gor;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;08/03/2012;Intelligence
+193;Cyborg;Male;brown;Cyborg;Black;198;DC Comics;-;good;173;27/11/2000;Dimensional Awareness,Flight,Longevity,Telepathy,Energy Blasts
+194;Cyborg Superman;Male;blue;Cyborg;Black;Indefinite;DC Comics;-;bad;Indefinite;23/02/2004;Agility,Marksmanship
+195;Cyclops;Male;brown;Mutant;Brown;191;Marvel Comics;-;good;88;17/03/2002;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Stamina
+196;Cypher;-;blue;-;Blond;175;Marvel Comics;-;good;68;23/02/2009;Flight,Super Strength,Super Speed
+197;Dagger;Female;blue;-;Blond;165;Marvel Comics;-;good;52;09/03/2011;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Super Strength,Stamina,Super Speed
+198;Danny Cooper;Male;brown;-;Blond;Indefinite;HarperCollins;-;good;Indefinite;24/03/2001;Agility,Accelerated Healing,Super Strength,Stamina,Super Speed
+199;Daphne Powell;Female;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;18/10/2009;Power Augmentation,Super Strength,Telepathy,Size Changing,Stamina,Super Speed,Darkforce Manipulation
+200;Daredevil;Male;blue;Human;Red;183;Marvel Comics;-;good;90;24/11/2011;Accelerated Healing,Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Energy Blasts,Duplication,Size Changing,Density Control,Super Speed
+201;Darkhawk;Male;brown;Human;Brown;185;Marvel Comics;-;good;81;13/02/1999;Agility,Accelerated Healing,Cold Resistance,Durability,Weapons Master,Super Strength,Stamina
+202;Darkman;Male;-;-;-;Indefinite;Universal Studios;-;good;Indefinite;23/03/2002;Energy Absorption,Super Strength,Super Speed
+203;Darkseid;Male;red;New God;No Hair;267;DC Comics;grey;bad;817;18/11/2000;Agility,Durability,Super Strength,Size Changing
+204;Darkside;-;-;-;-;Indefinite;;-;bad;Indefinite;17/10/2000;Super Speed,Electrokinesis
+205;Darkstar;Female;brown;Mutant;Blond;168;Marvel Comics;-;good;56;13/08/2012;Agility,Stealth,Danger Sense,Marksmanship,Weapons Master,Intelligence,Telepathy
+206;Darth Maul;Male;yellow / red;Dathomirian Zabrak;-;170;George Lucas;red / black;bad;Indefinite;07/01/2005;Electrokinesis
+207;Darth Vader;Male;yellow;Cyborg;No Hair;198;George Lucas;-;bad;135;06/04/2000;Agility,Durability,Size Changing
+208;Dash;Male;blue;Human;Blond;122;Dark Horse Comics;-;good;27;30/01/1999;Durability,Super Strength,Telepathy,Density Control,Stamina,Possession
+209;Data;Male;yellow;Android;Brown;Indefinite;Star Trek;-;good;Indefinite;06/02/2010;Accelerated Healing,Durability,Flight,Super Strength
+210;Dazzler;Female;blue;Mutant;Blond;173;Marvel Comics;-;good;52;15/01/1998;Flight,Electrokinesis
+211;Deadman;Male;blue;Human;Black;183;DC Comics;-;good;90;23/11/2013;Agility,Durability,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+212;Deadpool;Male;brown;Mutant;No Hair;188;Marvel Comics;-;neutral;95;21/03/1999;Accelerated Healing,Durability,Super Strength,Energy Blasts
+213;Deadshot;Male;brown;Human;Brown;185;DC Comics;-;bad;91;06/04/2000;Agility,Accelerated Healing,Dimensional Awareness,Stealth,Marksmanship,Weapons Master,Longevity,Stamina,Weapon-based Powers
+214;Deathlok;Male;brown;Cyborg;Grey;193;Marvel Comics;-;good;178;01/03/2004;Accelerated Healing,Durability,Flight,Super Strength,Energy Blasts,Weapon-based Powers
+215;Deathstroke;Male;blue;Human;White;193;DC Comics;-;neutral;101;03/09/2004;Accelerated Healing,Flight,Telepathy,Energy Blasts
+216;Demogoblin;Male;red;Demon;No Hair;185;Marvel Comics;-;bad;95;04/06/2011;Power Augmentation
+217;Destroyer;Male;-;-;-;188;Marvel Comics;-;bad;383;25/05/2009;Flight,Telepathy,Animal Oriented Powers
+218;Diamondback;Male;brown;Human;Black;193;Marvel Comics;-;bad;90;06/03/2012;Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Telepathy,Energy Blasts,Size Changing,Super Speed,Darkforce Manipulation
+219;DL Hawkins;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;31/05/2000;Accelerated Healing,Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+220;Doc Samson;Male;blue;Human / Radiation;Green;198;Marvel Comics;-;good;171;12/05/2008;Agility,Accelerated Healing,Super Strength,Super Speed,Animal Oriented Powers
+221;Doctor Doom;Male;brown;Human;Brown;201;Marvel Comics;-;bad;187;01/03/1996;Flight,Super Strength
+222;Doctor Doom II;Male;brown;-;Brown;201;Marvel Comics;-;bad;132;30/11/2002;Accelerated Healing,Durability,Flight,Longevity,Super Strength,Telepathy,Stamina,Possession
+223;Doctor Fate;Male;blue;Human;Blond;188;DC Comics;-;good;89;08/06/1999;Flight
+224;Doctor Octopus;Male;brown;Human;Brown;175;Marvel Comics;-;bad;110;22/04/2001;Flight,Energy Blasts
+225;Doctor Strange;Male;grey;Human;Black;188;Marvel Comics;-;good;81;04/07/2010;Durability,Flight,Energy Blasts
+226;Domino;Female;blue;Human;Black;173;Marvel Comics;white;good;54;10/11/2006;Flight,Energy Blasts
+227;Donatello;Male;green;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;13/09/2003;Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Density Control
+228;Donna Troy;Female;blue;Amazon;Black;175;DC Comics;-;good;63;03/07/2003;Accelerated Healing,Energy Absorption,Flight,Longevity,Stamina,Super Speed
+229;Doomsday;Male;red;Alien;White;244;DC Comics;-;bad;412;16/02/2005;Marksmanship
+230;Doppelganger;Male;white;-;No Hair;196;Marvel Comics;-;bad;104;17/08/1996;Agility,Accelerated Healing,Energy Absorption,Flight,Longevity,Energy Blasts,Stamina,Super Speed
+231;Dormammu;Male;yellow;-;No Hair;185;Marvel Comics;-;bad;Indefinite;14/02/2013;Accelerated Healing,Flight,Longevity,Super Strength,Stamina,Super Speed
+232;Dr Manhattan;Male;white;Human / Cosmic;No Hair;Indefinite;DC Comics;blue;good;Indefinite;27/08/2012;Accelerated Healing,Super Speed
+233;Drax the Destroyer;Male;red;Human / Altered;No Hair;193;Marvel Comics;green;good;306;27/06/1999;Intelligence
+234;Ego;-;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;14/04/1998;Agility,Dimensional Awareness,Durability,Flight,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Duplication,Stamina,Super Speed
+235;Elastigirl;Female;brown;Human;Brown;168;Dark Horse Comics;-;good;56;06/02/1998;Cold Resistance,Super Strength,Stamina
+236;Electro;Male;blue;Human;Auburn;180;Marvel Comics;-;bad;74;05/10/2013;Super Strength
+237;Elektra;Female;blue;Human;Black;175;Marvel Comics;-;good;59;04/02/1998;Accelerated Healing,Dimensional Awareness,Durability,Energy Absorption,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Size Changing,Stamina,Super Speed
+238;Elle Bishop;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;bad;Indefinite;19/02/2006;Agility
+239;Elongated Man;Male;blue;-;Red;185;DC Comics;-;good;80;31/07/2013;Agility,Accelerated Healing,Durability,Stealth,Marksmanship,Weapons Master,Intelligence,Super Strength,Stamina,Super Speed
+240;Emma Frost;Female;blue;-;Blond;178;Marvel Comics;-;good;65;29/01/2009;Accelerated Healing
+241;Enchantress;Female;blue;Human;Blond;168;DC Comics;-;good;57;23/02/2005;Intelligence
+242;Energy;Female;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;22/12/2005;Accelerated Healing,Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+243;ERG-1;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;31/05/2006;Agility,Accelerated Healing,Durability,Marksmanship,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed,Weapon-based Powers
+244;Ethan Hunt;Male;brown;Human;Brown;168;;-;good;Indefinite;16/10/1995;Durability,Super Strength
+245;Etrigan;Male;red;Demon;No Hair;193;DC Comics;yellow;neutral;203;25/01/2009;Durability,Intelligence,Super Strength,Size Changing
+246;Evil Deadpool;Male;white;Mutant;Red;188;Marvel Comics;-;bad;95;28/06/1998;Agility,Accelerated Healing,Flight,Longevity,Super Strength,Stamina,Super Speed
+247;Evilhawk;Male;red;Alien;Black;191;Marvel Comics;green;bad;106;21/06/1997;Telepathy
+248;Exodus;Male;blue;Mutant;Black;183;Marvel Comics;red;bad;88;12/09/2001;Agility,Durability,Energy Absorption,Danger Sense,Longevity,Super Strength,Energy Blasts,Stamina
+249;Fabian Cortez;-;blue;-;Brown;196;Marvel Comics;-;bad;96;26/08/1997;Agility,Super Strength
+250;Falcon;Male;brown;Human;Black;188;Marvel Comics;-;good;108;17/05/2008;Agility,Accelerated Healing,Flight,Danger Sense,Marksmanship,Weapons Master,Longevity,Super Strength,Telepathy,Energy Blasts,Duplication,Stamina,Super Speed,Electrokinesis
+251;Fallen One II;Male;black;-;Blue;Indefinite;Marvel Comics;-;bad;Indefinite;01/10/2006;Super Strength,Size Changing
+252;Faora;Female;-;Kryptonian;-;Indefinite;DC Comics;-;bad;Indefinite;18/11/2010;Agility,Durability,Animal Attributes,Intelligence,Super Strength,Telepathy,Energy Blasts
+253;Feral;-;yellow (without irises);-;Orange / White;175;Marvel Comics;-;good;50;23/01/2004;Durability,Super Strength
+254;Fighting Spirit;Female;-;-;Red;Indefinite;DC Comics;-;good;Indefinite;05/03/2000;Flight,Energy Blasts
+255;Fin Fang Foom;Male;red;Kakarantharaian;No Hair;975;Marvel Comics;green;good;18;04/02/2002;Weapons Master
+256;Firebird;Female;brown;-;Black;165;Marvel Comics;-;good;56;01/01/1998;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+257;Firelord;-;white;-;Yellow;193;Marvel Comics;-;good;99;09/07/2012;Agility,Accelerated Healing,Durability,Marksmanship,Intelligence,Super Strength,Stamina,Super Speed
+258;Firestar;Female;green;Mutant;Red;173;Marvel Comics;-;good;56;06/10/2013;Accelerated Healing,Durability,Intelligence,Super Strength,Stamina,Super Speed
+259;Firestorm;Male;brown;-;Black;Indefinite;DC Comics;-;good;Indefinite;29/01/2010;Durability,Super Strength
+260;Firestorm;Male;blue;Human;Auburn;188;DC Comics;-;good;91;11/11/2002;Durability,Super Strength
+261;Fixer;-;red;-;No Hair;Indefinite;Marvel Comics;-;bad;Indefinite;27/03/1995;Durability,Longevity,Intelligence,Super Strength,Duplication,Size Changing,Stamina
+262;Flash;Male;blue;Human;Brown / White;180;DC Comics;-;good;81;25/01/2014;Lantern Power Ring,Durability,Flight,Marksmanship,Super Strength,Energy Blasts,Stamina,Super Speed
+263;Flash Gordon;Male;-;-;-;Indefinite;;-;good;Indefinite;03/04/2001;Agility,Lantern Power Ring,Flight,Marksmanship,Weapons Master,Super Strength,Energy Armor,Energy Blasts,Stamina,Super Speed,Weapon-based Powers
+264;Flash II;Male;blue;Human;Blond;183;DC Comics;-;good;88;02/09/1997;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+265;Flash III;Male;-;Human;-;183;DC Comics;-;good;86;24/05/2009;Agility,Accelerated Healing,Durability,Flight,Super Strength,Stamina,Super Speed
+266;Flash IV;Male;yellow;Human;Auburn;157;DC Comics;-;good;52;24/11/2007;Agility,Accelerated Healing,Stealth,Marksmanship,Intelligence,Super Strength,Stamina
+267;Forge;-;brown;-;Black;183;Marvel Comics;-;good;81;10/06/2002;Agility,Accelerated Healing,Stealth,Intelligence,Telepathy,Energy Blasts,Stamina
+268;Franklin Richards;Male;blue;Mutant;Blond;142;Marvel Comics;-;good;45;28/12/1999;Energy Absorption,Flight,Energy Blasts
+269;Franklin Storm;-;blue;-;Grey;188;Marvel Comics;-;good;92;09/08/1996;Accelerated Healing,Flight,Super Strength,Stamina,Super Speed
+270;Frenzy;Female;brown;-;Black;211;Marvel Comics;-;bad;104;01/03/2013;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+271;Frigga;Female;blue;-;White;180;Marvel Comics;-;good;167;12/09/2007;Weapons Master,Stamina
+272;Galactus;Male;black;Cosmic Entity;Black;876;Marvel Comics;-;neutral;16;27/12/2004;Accelerated Healing,Cold Resistance,Durability,Flight,Super Strength
+273;Gambit;Male;red;Mutant;Brown;185;Marvel Comics;-;good;81;08/05/1997;Animal Oriented Powers
+274;Gamora;Female;yellow;Zen-Whoberian;Black;183;Marvel Comics;green;good;77;02/09/2013;Weapon-based Powers
+275;Garbage Man;Male;-;Mutant;-;Indefinite;DC Comics;-;good;Indefinite;30/10/2001;Agility,Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
+276;Gary Bell;Male;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;25/01/1995;Accelerated Healing,Durability,Weapons Master,Longevity,Super Strength,Stamina
+277;General Zod;Male;black;Kryptonian;Black;Indefinite;DC Comics;-;bad;Indefinite;16/08/2002;Agility,Danger Sense,Intelligence,Super Strength
+278;Genesis;Male;blue;-;Blond;185;Marvel Comics;-;good;86;18/06/2013;Durability,Animal Attributes,Super Strength,Animal Oriented Powers
+279;Ghost Rider;Male;red;Demon;No Hair;188;Marvel Comics;-;good;99;18/07/2006;Accelerated Healing,Flight,Energy Blasts
+280;Ghost Rider II;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;30/01/2004;Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
+281;Giant-Man;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;06/10/2008;Agility,Stealth,Intelligence,Stamina,Weapon-based Powers
+282;Giant-Man II;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/11/2013;Super Strength,Stamina,Super Speed
+283;Giganta;Female;green;-;Red;62,5;DC Comics;-;bad;630;24/05/2004;Durability
+284;Gladiator;Male;blue;Strontian;Blue;198;Marvel Comics;purple;neutral;268;12/03/2010;Energy Absorption,Telepathy,Energy Blasts
+285;Goblin Queen;Female;green;-;Red;168;Marvel Comics;-;bad;50;15/12/1995;Agility,Accelerated Healing,Cold Resistance,Durability,Longevity,Super Strength,Stamina,Super Speed
+286;Godzilla;-;-;Kaiju;-;108;;grey;bad;0;26/08/2005;Agility,Energy Absorption,Flight,Marksmanship,Energy Blasts,Super Speed
+287;Gog;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;19/05/2010;Marksmanship
+288;Goku;Male;-;Saiyan;-;175;Shueisha;-;good;62;11/01/2010;Durability,Super Strength,Density Control,Super Speed
+289;Goliath;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;17/04/2010;Agility,Accelerated Healing,Durability,Stealth,Flight,Danger Sense,Marksmanship,Super Strength,Stamina,Super Speed
+290;Goliath;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;17/09/2008;Underwater breathing,Size Changing
+291;Goliath;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;05/10/2002;Agility,Durability,Flight,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+292;Goliath IV;Male;brown;-;Black;183;Marvel Comics;-;good;90;07/07/2000;Agility,Accelerated Healing,Cold Resistance,Durability,Marksmanship,Super Strength,Cryokinesis,Energy Blasts,Duplication,Size Changing,Stamina
+293;Gorilla Grodd;Male;yellow;Gorilla;Black;198;DC Comics;-;bad;270;20/05/1995;Accelerated Healing,Flight,Longevity,Stamina,Super Speed
+294;Granny Goodness;Female;blue;-;White;178;DC Comics;-;bad;115;23/09/2009;Intelligence,Stamina
+295;Gravity;Male;blue;Human;Brown;178;Marvel Comics;-;good;79;25/06/2012;Lantern Power Ring,Flight,Intelligence
+296;Greedo;Male;purple;Rodian;-;170;George Lucas;green;bad;Indefinite;15/12/2008;Accelerated Healing,Flight,Super Strength,Telepathy
+297;Green Arrow;Male;green;Human;Blond;188;DC Comics;-;good;88;08/10/2005;Stealth,Intelligence
+298;Green Goblin;Male;blue;Human;Auburn;180;Marvel Comics;-;bad;83;31/01/2011;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Danger Sense,Weapons Master,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed
+299;Green Goblin II;Male;blue;-;Auburn;178;Marvel Comics;-;bad;77;06/01/1998;Accelerated Healing,Durability,Energy Absorption,Flight,Underwater breathing,Marksmanship,Super Strength,Energy Blasts,Stamina,Super Speed,Weapon-based Powers
+300;Green Goblin III;Male;-;-;-;183;Marvel Comics;-;good;88;09/01/1995;Durability,Flight,Intelligence,Super Strength
+301;Green Goblin IV;Male;green;-;Brown;178;Marvel Comics;-;good;79;24/10/2000;Accelerated Healing,Durability,Flight,Intelligence,Super Strength,Stamina,Super Speed
+302;Groot;Male;yellow;Flora Colossus;-;701;Marvel Comics;-;good;4;04/11/2010;Intelligence
+303;Guardian;Male;brown;Human;Black;Indefinite;Marvel Comics;-;good;Indefinite;02/12/1996;Accelerated Healing,Cold Resistance,Durability,Flight,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+304;Guy Gardner;Male;blue;Human-Vuldarian;Red;188;DC Comics;-;good;95;31/08/2013;Agility,Flight,Super Strength,Density Control,Super Speed
+305;Hal Jordan;Male;brown;Human;Brown;188;DC Comics;-;good;90;19/09/2008;Durability,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+306;Han Solo;Male;brown;Human;Brown;183;George Lucas;-;good;79;04/10/2005;Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+307;Hancock;Male;brown;Human;Black;188;Sony Pictures;-;good;Indefinite;08/07/2011;Agility,Stealth
+308;Harley Quinn;Female;blue;Human;Blond;170;DC Comics;-;bad;63;06/10/2004;Agility,Durability,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+309;Harry Potter;Male;green;Human;Black;Indefinite;J. K. Rowling;-;good;Indefinite;22/06/2003;Energy Absorption,Telepathy
+310;Havok;Male;blue;Mutant;Blond;183;Marvel Comics;-;good;79;18/11/2001;Marksmanship,Intelligence
+311;Hawk;Male;red;-;Brown;185;DC Comics;-;good;89;21/02/1998; None
+312;Hawkeye;Male;blue;Human;Blond;191;Marvel Comics;-;good;104;18/11/2007;Agility,Lantern Power Ring,Flight,Marksmanship,Super Strength,Energy Armor,Energy Blasts,Stamina,Super Speed
+313;Hawkeye II;Female;blue;Human;Black;165;Marvel Comics;-;good;57;26/08/2013;Durability,Flight,Super Strength,Super Speed
+314;Hawkgirl;Female;green;-;Red;175;DC Comics;-;good;61;10/12/1997;Durability,Super Strength
+315;Hawkman;Male;blue;-;Brown;185;DC Comics;-;good;88;04/11/1999;Telepathy
+316;Hawkwoman;Female;green;-;Red;175;DC Comics;-;good;54;18/07/1998;Accelerated Healing
+317;Hawkwoman II;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;17/04/2011;Lantern Power Ring,Durability,Flight,Marksmanship,Weapons Master,Intelligence,Super Strength,Energy Armor,Energy Blasts,Super Speed
+318;Hawkwoman III;Female;blue;-;Red;170;DC Comics;-;good;65;22/11/2001;Longevity
+319;Heat Wave;Male;blue;Human;No Hair;180;DC Comics;-;bad;81;15/04/2006;Durability,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+320;Hela;Female;green;Asgardian;Black;213;Marvel Comics;-;bad;225;09/06/2000;Super Strength,Energy Blasts,Super Speed
+321;Hellboy;Male;gold;Demon;Black;259;Dark Horse Comics;-;good;158;29/03/1995;Energy Absorption,Energy Blasts
+322;Hellcat;Female;blue;Human;Red;173;Marvel Comics;-;good;61;10/01/2006;Agility,Marksmanship,Weapons Master,Stamina,Weapon-based Powers
+323;Hellstorm;Male;red;-;Red;185;Marvel Comics;-;good;81;19/10/2011;Accelerated Healing,Durability,Super Strength,Stamina,Super Speed
+324;Hercules;Male;blue;Demi-God;Brown;196;Marvel Comics;-;good;146;14/11/2007;Durability,Super Strength,Stamina
+325;Hiro Nakamura;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;16/12/2013;Flight,Energy Blasts,Super Speed
+326;Hit-Girl;Female;-;Human;-;Indefinite;Icon Comics;-;good;Indefinite;16/06/2002;Durability,Marksmanship,Stamina
+327;Hobgoblin;Male;blue;-;Grey;180;Marvel Comics;-;bad;83;15/08/2013;Durability,Longevity,Super Strength,Energy Blasts,Electrokinesis
+328;Hollow;Female;blue;-;Red;170;Marvel Comics;-;good;Indefinite;26/04/1996;Agility,Stealth,Flight,Weapons Master,Intelligence,Super Strength,Super Speed
+329;Hope Summers;Female;green;-;Red;168;Marvel Comics;-;good;48;09/08/2008;Intelligence
+330;Howard the Duck;Male;brown;-;Yellow;79;Marvel Comics;-;good;18;06/12/1999;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+331;Hulk;Male;green;Human / Radiation;Green;244;Marvel Comics;green;good;630;20/07/2005;Agility,Accelerated Healing,Energy Absorption,Flight,Super Strength,Density Control,Stamina,Super Speed
+332;Human Torch;Male;blue;Human / Radiation;Blond;178;Marvel Comics;-;good;77;01/07/2012;Agility,Durability,Stamina,Weapon-based Powers
+333;Huntress;Female;blue;-;Black;180;DC Comics;-;good;59;21/03/1998;Accelerated Healing,Super Speed
+334;Husk;Female;blue;Mutant;Blond;170;Marvel Comics;-;good;58;16/01/2001;Agility,Accelerated Healing,Durability,Super Strength,Stamina,Super Speed
+335;Hybrid;Male;brown;Symbiote;Black;175;Marvel Comics;-;good;77;14/11/1999;Cold Resistance,Durability,Energy Absorption,Cryokinesis
+336;Hydro-Man;Male;brown;-;Brown;188;Marvel Comics;-;bad;119;17/06/2002;Accelerated Healing,Lantern Power Ring,Durability,Underwater breathing,Super Strength,Telepathy,Stamina
+337;Hyperion;Male;blue;Eternal;Red;183;Marvel Comics;-;good;207;21/07/2007;Agility,Durability,Stealth,Longevity,Super Strength,Stamina,Super Speed
+338;Iceman;Male;brown;Mutant;Brown;173;Marvel Comics;-;good;65;12/09/1999;Cold Resistance,Durability,Stealth,Underwater breathing,Animal Attributes,Longevity,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+339;Impulse;Male;yellow;Human;Auburn;170;DC Comics;-;good;65;25/01/2000;Durability,Super Strength,Energy Blasts,Audio Control
+340;Indiana Jones;Male;-;Human;-;183;George Lucas;-;good;79;11/01/2000;Durability
+341;Indigo;Female;-;Alien;Purple;Indefinite;DC Comics;-;neutral;Indefinite;02/08/2011;Agility,Accelerated Healing,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+342;Ink;Male;blue;Mutant;No Hair;180;Marvel Comics;-;good;81;03/05/2009;Agility,Longevity,Super Strength,Stamina,Super Speed
+343;Invisible Woman;Female;blue;Human / Radiation;Blond;168;Marvel Comics;-;good;54;29/08/2008;Accelerated Healing,Flight,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+344;Iron Fist;Male;blue;Human;Blond;180;Marvel Comics;-;good;79;12/10/1997;Lantern Power Ring,Flight,Marksmanship,Super Strength,Energy Blasts,Super Speed
+345;Iron Man;Male;blue;Human;Black;198;Marvel Comics;-;good;191;27/02/2000;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Weapons Master,Intelligence,Super Strength,Telepathy,Energy Blasts,Super Speed
+346;Iron Monger;Male;blue;-;No Hair;Indefinite;Marvel Comics;-;bad;2;25/04/2008;Marksmanship
+347;Isis;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;09/10/2006;Agility,Accelerated Healing,Durability,Stealth,Intelligence,Super Strength,Stamina,Super Speed
+348;Jack Bauer;Male;-;-;-;Indefinite;;-;good;Indefinite;20/01/2005;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+349;Jack of Hearts;Male;blue / white;Human;Brown;155;Marvel Comics;-;good;79;25/12/1995;Intelligence,Telepathy
+350;Jack-Jack;Male;blue;Human;Brown;71;Dark Horse Comics;-;good;14;07/06/1998; None
+351;James Bond;Male;blue;Human;Blond;183;Titan Books;-;good;Indefinite;28/03/2010;Agility,Accelerated Healing,Stealth,Flight,Super Strength,Telepathy,Duplication,Stamina,Super Speed,Animal Oriented Powers
+352;James T. Kirk;Male;hazel;Human;Brown;178;Star Trek;-;good;77;28/04/2010;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Stamina
+353;Jar Jar Binks;Male;yellow;Gungan;-;193;George Lucas;orange / white;good;Indefinite;10/01/2014;Durability,Flight,Weapons Master,Intelligence,Super Strength,Energy Blasts
+354;Jason Bourne;Male;-;Human;-;Indefinite;;-;good;Indefinite;25/04/1995;Flight,Electrokinesis
+355;Jean Grey;Female;green;Mutant;Red;168;Marvel Comics;-;good;52;10/04/1998;Electrokinesis
+356;Jean-Luc Picard;Male;-;Human;-;Indefinite;Star Trek;-;good;Indefinite;27/04/2006;Energy Absorption,Electrokinesis
+357;Jennifer Kale;Female;blue;-;Blond;168;Marvel Comics;-;good;55;23/05/2006;Super Speed
+358;Jesse Quick;Female;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;21/06/2003;Durability,Flight,Intelligence,Super Strength
+359;Jessica Cruz;Female;green;Human;Brown;Indefinite;DC Comics;-;good;Indefinite;25/07/2009;Agility,Accelerated Healing,Dimensional Awareness,Stealth,Energy Absorption,Flight,Intelligence,Super Strength,Telepathy,Energy Blasts,Size Changing,Super Speed
+360;Jessica Jones;Female;brown;Human;Brown;170;Marvel Comics;-;good;56;21/10/2012; None
+361;Jessica Sanders;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;01/05/1995;Durability,Animal Attributes,Super Strength,Telepathy,Stamina,Super Speed,Animal Oriented Powers
+362;Jigsaw;Male;blue;-;Black;188;Marvel Comics;-;bad;113;17/09/2010;Durability,Longevity,Intelligence,Super Strength,Duplication,Stamina
+363;Jim Powell;Male;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;21/05/2007;Accelerated Healing,Durability,Flight,Longevity,Intelligence,Super Strength,Stamina
+364;JJ Powell;Male;-;-;-;Indefinite;ABC Studios;-;good;Indefinite;28/02/2005;Agility,Telepathy,Stamina,Super Speed
+365;Johann Krauss;Male;-;-;-;Indefinite;Dark Horse Comics;-;good;Indefinite;25/05/2012;Accelerated Healing,Stealth,Flight,Intelligence,Telepathy,Energy Blasts,Possession,Darkforce Manipulation
+366;John Constantine;Male;blue;Human;Blond;183;DC Comics;-;good;Indefinite;01/07/2003;Accelerated Healing,Durability,Super Strength,Stamina
+367;John Stewart;Male;green;Human;Black;185;DC Comics;-;good;90;21/08/1999; None
+368;John Wraith;Male;brown;-;Black;183;Marvel Comics;-;good;88;29/04/2001;Agility,Accelerated Healing,Stealth,Danger Sense,Marksmanship,Weapons Master,Intelligence,Telepathy,Energy Blasts,Super Speed
+369;Joker;Male;green;Human;Green;196;DC Comics;white;bad;86;30/05/1997; None
+370;Jolt;Female;blue;-;Black;165;Marvel Comics;-;good;49;29/08/2012;Energy Blasts,Size Changing
+371;Jubilee;Female;red;Mutant;Black;165;Marvel Comics;-;good;52;23/08/2002;Agility,Flight,Weapons Master,Longevity,Intelligence,Telepathy,Energy Blasts
+372;Judge Dredd;Male;-;Human;-;188;Rebellion;-;good;Indefinite;15/12/2008;Durability,Flight,Super Strength,Super Speed,Weapon-based Powers
+373;Juggernaut;Male;blue;Human;Red;287;Marvel Comics;-;neutral;855;04/01/2008;Durability,Flight,Super Strength,Stamina,Weapon-based Powers
+374;Junkpile;Male;-;Mutant;-;Indefinite;Marvel Comics;-;bad;Indefinite;11/03/2013;Durability,Flight,Intelligence,Super Strength,Stamina
+375;Justice;Male;hazel;Human;Brown;178;Marvel Comics;-;good;81;26/01/1999;Durability,Super Strength,Energy Blasts
+376;Jyn Erso;Female;green;Human;Brown;Indefinite;George Lucas;-;good;Indefinite;15/12/1998;Energy Absorption,Flight,Super Strength,Size Changing,Electrokinesis
+377;K-2SO;Male;white;Android;No Hair;213;George Lucas;gray;good;Indefinite;10/08/2007;Accelerated Healing,Dimensional Awareness,Energy Absorption,Danger Sense,Longevity,Intelligence,Super Strength,Telepathy,Super Speed
+378;Kang;Male;brown;-;Brown;191;Marvel Comics;-;bad;104;18/01/2008;Agility,Flight,Animal Attributes,Super Strength,Super Speed,Animal Oriented Powers
+379;Karate Kid;Male;brown;Human;Brown;173;DC Comics;-;good;72;24/07/1998;Durability,Stealth,Underwater breathing,Super Strength
+380;Kathryn Janeway;Female;-;Human;-;Indefinite;Star Trek;-;good;Indefinite;21/06/2011;Agility,Accelerated Healing,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+381;Katniss Everdeen;Female;-;Human;-;Indefinite;;-;good;Indefinite;02/01/2009;Weapons Master,Intelligence,Cryokinesis,Energy Blasts,Weapon-based Powers,Electrokinesis
+382;Kevin 11;Male;-;Human;Black;Indefinite;DC Comics;-;good;Indefinite;16/02/2012;Accelerated Healing,Durability,Flight,Longevity,Intelligence,Telepathy
+383;Kick-Ass;Male;blue;Human;Blond;Indefinite;Icon Comics;-;good;Indefinite;20/12/2011;Agility,Durability,Stealth,Flight,Marksmanship,Intelligence,Super Strength,Telepathy,Size Changing,Stamina,Super Speed
+384;Kid Flash;Male;green;Human;Red;Indefinite;DC Comics;-;good;Indefinite;15/10/2002;Energy Absorption,Flight,Telepathy,Energy Blasts
+385;Kid Flash II;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;05/07/1998;Accelerated Healing,Longevity
+386;Killer Croc;Male;red;Metahuman;No Hair;244;DC Comics;green;bad;356;15/12/2001;Agility,Accelerated Healing,Durability,Marksmanship,Longevity,Stamina,Super Speed,Weapon-based Powers
+387;Killer Frost;Female;blue;Human;Blond;Indefinite;DC Comics;blue;bad;Indefinite;20/07/1997;Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Super Speed
+388;Kilowog;Male;red;Bolovaxian;No Hair;234;DC Comics;pink;good;324;10/06/2009;Telepathy
+389;King Kong;Male;yellow;Animal;Black;30,5;;-;good;0;23/06/2001;Electrokinesis
+390;King Shark;Male;black;Animal;No Hair;Indefinite;DC Comics;-;bad;Indefinite;27/10/2007;Durability,Flight,Super Strength,Stamina,Super Speed
+391;Kingpin;Male;blue;Human;No Hair;201;Marvel Comics;-;bad;203;14/11/2010; None
+392;Klaw;Male;red;Human;No Hair;188;Marvel Comics;red;bad;97;16/10/1999;Durability,Super Strength,Stamina,Super Speed
+393;Kool-Aid Man;Male;black;-;No Hair;Indefinite;;red;good;Indefinite;29/12/2010;Agility,Energy Absorption,Energy Blasts
+394;Kraven II;Male;brown;Human;Black;191;Marvel Comics;-;bad;99;16/04/1997;Accelerated Healing,Dimensional Awareness,Durability,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed
+395;Kraven the Hunter;Male;brown;Human;Black;183;Marvel Comics;-;bad;106;12/06/2008;Cold Resistance,Durability,Stealth,Underwater breathing,Super Strength,Telepathy,Super Speed
+396;Krypto;Male;blue;Kryptonian;White;64;DC Comics;-;good;18;22/05/2011;Durability,Super Strength,Size Changing,Stamina
+397;Kyle Rayner;Male;green;Human;Black;180;DC Comics;-;good;79;25/09/2003; None
+398;Kylo Ren;Male;-;Human;-;Indefinite;George Lucas;-;bad;Indefinite;27/03/2003;Flight,Longevity,Intelligence
+399;Lady Bullseye;Female;-;-;Black;Indefinite;Marvel Comics;-;bad;Indefinite;22/05/2004; None
+400;Lady Deathstrike;Female;brown;Cyborg;Black;175;Marvel Comics;-;bad;58;01/02/2011;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Stamina
+401;Leader;Male;green;-;No Hair;178;Marvel Comics;-;bad;63;02/03/1998;Size Changing
+402;Leech;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/10/2003;Durability,Flight,Super Strength,Cryokinesis,Telepathy,Energy Blasts
+403;Legion;Male;green / blue;Mutant;Black;175;Marvel Comics;-;good;59;18/03/2009;Durability,Super Strength,Super Speed
+404;Leonardo;Male;blue;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;12/05/1999;Accelerated Healing,Super Strength
+405;Lex Luthor;Male;green;Human;No Hair;188;DC Comics;-;bad;95;02/04/2005;Accelerated Healing,Flight,Super Strength,Telepathy,Energy Blasts,Size Changing,Density Control,Stamina,Super Speed
+406;Light Lass;Female;blue;-;Red;165;DC Comics;-;good;54;14/01/2010;Durability,Intelligence,Size Changing
+407;Lightning Lad;Male;blue;-;Red;155;DC Comics;-;good;65;15/03/2004;Cold Resistance,Durability,Longevity,Intelligence,Super Strength
+408;Lightning Lord;Male;blue;-;Red;191;DC Comics;-;bad;95;21/04/2008;Weapons Master,Intelligence
+409;Living Brain;-;yellow;-;-;198;Marvel Comics;-;bad;360;19/01/1996;Agility,Accelerated Healing,Dimensional Awareness,Flight,Longevity,Intelligence,Cryokinesis,Energy Blasts,Duplication,Density Control
+410;Living Tribunal;-;blue;Cosmic Entity;No Hair;Indefinite;Marvel Comics;gold;neutral;Indefinite;31/10/1997;Accelerated Healing,Durability,Flight,Animal Attributes,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Duplication,Size Changing,Stamina,Super Speed,Animal Oriented Powers
+411;Liz Sherman;Female;-;-;-;Indefinite;Dark Horse Comics;-;good;Indefinite;08/07/2003;Agility,Accelerated Healing,Durability,Stealth,Weapons Master,Longevity,Super Strength
+412;Lizard;Male;red;Human;No Hair;203;Marvel Comics;-;bad;230;09/02/2014;Super Strength
+413;Lobo;Male;red;Czarnian;Black;229;DC Comics;blue-white;neutral;288;06/04/2003;Durability,Super Strength
+414;Loki;Male;green;Asgardian;Black;193;Marvel Comics;-;bad;236;18/03/1997;Flight,Super Strength
+415;Longshot;Male;blue;Human;Blond;188;Marvel Comics;-;good;36;03/03/2013;Marksmanship,Weapons Master,Super Strength,Stamina
+416;Luke Cage;Male;brown;Human;Black;198;Marvel Comics;-;good;191;19/02/2003;Durability,Flight,Super Strength,Energy Blasts,Super Speed
+417;Luke Campbell;Male;-;-;-;Indefinite;NBC - Heroes;-;bad;Indefinite;08/09/2000;Agility,Durability,Super Strength,Stamina,Super Speed
+418;Luke Skywalker;Male;blue;Human;Blond;168;George Lucas;-;good;77;21/06/1996;Accelerated Healing,Longevity
+419;Luna;Female;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;30/08/2008;Durability,Super Strength,Stamina,Super Speed
+420;Lyja;Female;green;-;Green;Indefinite;Marvel Comics;-;good;Indefinite;06/09/1997;Durability,Super Strength
+421;Mach-IV;Male;brown;-;Brown;180;Marvel Comics;-;bad;79;28/01/2008;Duplication
+422;Machine Man;-;red;-;Black;183;Marvel Comics;-;good;383;25/09/1997;Weapons Master,Intelligence,Stamina,Weapon-based Powers
+423;Magneto;Male;grey;Mutant;White;188;Marvel Comics;-;bad;86;08/11/2012;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Stamina
+424;Magog;Male;blue;-;Blond;Indefinite;DC Comics;-;good;Indefinite;16/07/2012;Agility,Accelerated Healing,Cold Resistance,Durability,Flight,Underwater breathing,Longevity,Intelligence,Super Strength,Telepathy,Stamina,Super Speed
+425;Magus;Male;black;-;-;183;Marvel Comics;-;bad;Indefinite;25/07/2001;Accelerated Healing,Durability,Flight,Underwater breathing,Longevity,Super Strength,Telepathy,Stamina,Super Speed
+426;Man of Miracles;-;blue;God / Eternal;Silver;Indefinite;Image Comics;-;-;Indefinite;16/12/2013;Agility,Accelerated Healing,Durability,Flight,Longevity,Super Strength,Stamina,Super Speed
+427;Man-Bat;Male;brown;Human;Brown;Indefinite;DC Comics;-;neutral;Indefinite;04/05/2013;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Longevity,Super Strength,Duplication,Stamina,Super Speed
+428;Man-Thing;Male;red;-;No Hair;213;Marvel Comics;green;good;225;31/10/1995;Flight
+429;Man-Wolf;Male;brown;-;Auburn;188;Marvel Comics;-;good;90;20/01/2000;Durability,Marksmanship,Super Strength
+430;Mandarin;Male;blue;Human;White;188;Marvel Comics;-;bad;97;06/06/2010;Telepathy
+431;Mantis;Female;green;Human-Kree;Black;168;Marvel Comics;green;good;52;25/06/2006;Weapons Master,Longevity
+432;Martian Manhunter;Male;red;Martian;No Hair;201;DC Comics;green;good;135;10/02/1997;Agility,Stealth
+433;Marvel Girl;Female;green;-;Red;170;Marvel Comics;-;good;56;07/06/1998;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina,Weapon-based Powers
+434;Master Brood;Male;blue;-;Black;183;Team Epic TV;-;good;81;29/05/2006;Super Strength
+435;Master Chief;Male;brown;Human / Altered;Brown;213;Microsoft;-;good;Indefinite;28/09/2002;Durability,Super Speed
+436;Match;Male;black;-;Black;Indefinite;DC Comics;-;bad;Indefinite;08/03/2000;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Stamina,Super Speed
+437;Matt Parkman;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;20/07/1995;Agility,Accelerated Healing,Durability,Stealth,Energy Absorption,Longevity,Intelligence,Super Strength,Cryokinesis,Telepathy,Energy Blasts,Size Changing,Stamina,Super Speed
+438;Maverick;Male;blue;-;Black;193;Marvel Comics;-;good;110;25/03/2003;Cold Resistance,Size Changing,Density Control
+439;Maxima;Female;brown;-;Red;180;DC Comics;-;bad;72;24/11/2002;Intelligence,Telepathy
+440;Maya Herrera;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;09/10/2009;Agility,Danger Sense,Super Strength,Stamina,Super Speed
+441;Medusa;Female;green;Inhuman;Red;180;Marvel Comics;-;good;59;20/02/2011;Agility,Accelerated Healing,Dimensional Awareness,Durability,Energy Absorption,Flight,Intelligence,Super Strength,Size Changing,Super Speed
+442;Meltdown;Female;blue;-;Blond;165;Marvel Comics;-;good;54;15/05/2006;Dimensional Awareness,Flight,Intelligence,Super Strength,Telepathy,Size Changing,Astral Travel
+443;Mephisto;Male;white;-;Black;198;Marvel Comics;-;bad;140;10/12/1999;Intelligence
+444;Mera;Female;blue;Atlantean;Red;175;DC Comics;-;good;72;18/11/2000;Agility,Accelerated Healing,Durability,Stealth,Flight,Marksmanship,Weapons Master,Intelligence,Super Strength,Energy Blasts,Stamina
+445;Metallo;Male;green;Android;Brown;196;DC Comics;-;bad;90;21/01/2004;Durability,Flight,Intelligence,Super Strength,Stamina,Super Speed
+446;Metamorpho;Male;black;-;No Hair;185;DC Comics;-;good;90;11/05/1998;Super Strength,Super Speed
+447;Meteorite;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;29/06/2005;Agility,Stealth,Intelligence,Stamina
+448;Metron;Male;blue;-;Black;185;DC Comics;-;good;86;18/07/2013;Flight,Super Strength
+449;Micah Sanders;Male;brown;-;Black;Indefinite;NBC - Heroes;-;good;Indefinite;18/06/2011;Energy Blasts
+450;Michelangelo;Male;blue;Mutant;-;Indefinite;IDW Publishing;green;good;Indefinite;23/09/2010;Intelligence
+451;Micro Lad;Male;grey;-;Brown;183;DC Comics;-;good;77;16/05/1995;Marksmanship
+452;Mimic;Male;brown;-;Brown;188;Marvel Comics;-;good;101;07/12/2000;Agility,Energy Absorption,Telepathy
+453;Minna Murray;Female;-;-;-;Indefinite;Wildstorm;-;good;Indefinite;13/07/2001;Durability,Stealth,Super Strength
+454;Misfit;Female;blue;-;Red;Indefinite;DC Comics;-;good;Indefinite;25/03/2007;Agility,Accelerated Healing,Durability,Stealth,Super Strength,Size Changing,Density Control
+455;Miss Martian;Female;red;-;Red;178;DC Comics;-;good;61;27/08/2013;Energy Blasts
+456;Mister Fantastic;Male;brown;Human / Radiation;Brown;185;Marvel Comics;-;good;81;07/11/2010;Agility,Accelerated Healing,Marksmanship,Super Strength
+457;Mister Freeze;Male;-;Human;-;183;DC Comics;-;bad;86;31/01/2002;Energy Absorption,Flight,Intelligence
+458;Mister Knife;Male;blue;Spartoi;Brown;Indefinite;Marvel Comics;-;bad;Indefinite;01/01/1999;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Intelligence,Super Strength,Stamina,Super Speed
+459;Mister Mxyzptlk;Male;-;God / Eternal;-;Indefinite;DC Comics;-;bad;Indefinite;10/06/2013;Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Stamina
+460;Mister Sinister;Male;red;Human / Altered;Black;196;Marvel Comics;-;bad;128;06/07/2002;Intelligence,Telepathy,Possession
+461;Mister Zsasz;Male;blue;Human;Blond;Indefinite;DC Comics;-;bad;Indefinite;01/05/1999;Stamina,Super Speed
+462;Mockingbird;Female;blue;Human;Blond;175;Marvel Comics;-;good;61;06/06/1999;Agility,Durability,Super Strength
+463;MODOK;Male;white;Cyborg;Brownn;366;Marvel Comics;-;bad;338;24/01/2011;Agility,Stealth,Super Strength,Telepathy,Super Speed
+464;Mogo;Male;-;Planet;-;Indefinite;DC Comics;-;good;Indefinite;01/05/2009;Agility,Durability,Stealth,Marksmanship,Weapons Master,Stamina,Weapon-based Powers
+465;Mohinder Suresh;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;03/07/1997;Accelerated Healing,Telepathy
+466;Moloch;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;10/11/2001;Dimensional Awareness,Stealth,Intelligence
+467;Molten Man;Male;gold;-;Gold;196;Marvel Comics;-;bad;248;30/10/1998;Super Speed
+468;Monarch;Male;blue;-;White;193;DC Comics;-;good;90;17/01/1998;Agility,Durability,Intelligence,Super Strength,Stamina,Super Speed
+469;Monica Dawson;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;20/04/1997;Agility,Intelligence
+470;Moon Knight;Male;brown;Human;Brown;188;Marvel Comics;-;good;101;05/08/2010;Durability,Super Strength,Super Speed
+471;Moonstone;Female;blue;-;Blond;180;Marvel Comics;-;bad;59;19/07/2002;Weapon-based Powers
+472;Morlun;Male;white / red;-;Black;188;Marvel Comics;-;bad;79;05/04/2005;Agility,Durability,Longevity,Intelligence,Super Strength,Stamina,Super Speed,Weapon-based Powers
+473;Morph;Male;white;-;No Hair;178;Marvel Comics;-;good;79;09/03/2012;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+474;Moses Magnum;Male;brown;-;Black;175;Marvel Comics;-;bad;72;30/04/2012;Agility,Accelerated Healing,Stealth,Marksmanship,Weapons Master,Stamina
+475;Mr Immortal;Male;blue;Mutant;Blond;188;Marvel Comics;-;good;70;31/03/2007;Flight
+476;Mr Incredible;Male;blue;Human;Blond;201;Dark Horse Comics;-;good;158;20/02/2003;Accelerated Healing,Durability,Stealth,Energy Absorption,Flight,Stamina,Super Speed
+477;Ms Marvel II;Female;blue;-;Red;173;Marvel Comics;-;good;61;01/10/2009;Weapon-based Powers
+478;Multiple Man;Male;blue;-;Brown;180;Marvel Comics;-;good;70;14/08/1996;Energy Absorption
+479;Mysterio;Male;brown;Human;No Hair;180;Marvel Comics;-;bad;79;23/12/2005;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+480;Mystique;Female;yellow (without irises);Mutant;Red / Orange;178;Marvel Comics;blue;bad;54;12/11/2008;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+481;Namor;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;07/05/2002;Accelerated Healing,Durability,Energy Absorption,Longevity,Super Strength,Stamina,Super Speed
+482;Namor;Male;grey;Atlantean;Black;188;Marvel Comics;-;good;125;16/10/2002;Agility,Stamina
+483;Namora;Female;blue;-;Blond;180;Marvel Comics;-;good;85;18/11/2011;Agility,Stealth,Marksmanship,Weapons Master,Intelligence,Stamina
+484;Namorita;Female;blue;-;Blond;168;Marvel Comics;-;good;101;24/07/1995;Agility,Flight,Super Strength,Stamina,Audio Control,Super Speed
+485;Naruto Uzumaki;Male;-;Human;-;168;Shueisha;-;good;54;18/07/2000;Durability,Super Strength,Energy Blasts,Stamina
+486;Nathan Petrelli;Male;brown;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;02/06/2003;Durability,Flight,Super Strength,Stamina
+487;Nebula;Female;blue;Luphomoid;No Hair;185;Marvel Comics;blue;bad;83;30/07/1999;Agility,Stamina
+488;Negasonic Teenage Warhead;Female;black;Mutant;Black;Indefinite;Marvel Comics;-;good;Indefinite;14/02/1999;Cold Resistance,Durability,Super Strength,Stamina,Super Speed
+489;Nick Fury;Male;brown;Human;Brown / White;185;Marvel Comics;-;good;99;22/01/2005;Weapon-based Powers
+490;Nightcrawler;Male;yellow;-;Indigo;175;Marvel Comics;-;good;88;19/02/2002;Intelligence
+491;Nightwing;Male;blue;Human;Black;178;DC Comics;-;good;79;05/08/2011;Dimensional Awareness,Stealth,Weapons Master,Intelligence
+492;Niki Sanders;Female;blue;-;Blond;Indefinite;NBC - Heroes;-;good;Indefinite;27/06/2011;Weapon-based Powers
+493;Nina Theroux;Female;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;13/02/1996;Marksmanship,Weapons Master,Intelligence,Weapon-based Powers
+494;Nite Owl II;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;26/02/2002;Agility,Stealth,Marksmanship,Weapons Master,Stamina
+495;Northstar;Male;blue;-;Black;180;Marvel Comics;-;good;83;06/12/1997;Agility,Stealth,Marksmanship,Weapons Master,Stamina,Weapon-based Powers
+496;Nova;Male;brown;Human;Brown;185;Marvel Comics;-;good;86;17/12/1996;Agility,Stealth,Weapons Master,Longevity
+497;Nova;Female;white;Human / Cosmic;Red;163;Marvel Comics;gold;good;59;26/12/2002;Agility,Stealth,Stamina
+498;Odin;Male;blue;God / Eternal;White;206;Marvel Comics;-;good;293;08/06/2006;Agility,Cold Resistance,Marksmanship,Weapons Master,Animal Attributes,Animal Oriented Powers
+499;Offspring;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;28/09/1995;Energy Absorption
+500;Omega Red;Male;red;-;Blond;211;Marvel Comics;-;bad;191;10/04/2011;Agility,Stealth,Weapons Master,Intelligence,Stamina
+501;Omniscient;Male;brown;-;Black;180;Team Epic TV;-;good;65;16/07/2011;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+502;One Punch Man;Male;-;Human;No Hair;175;Shueisha;-;good;69;01/01/2005;Power Augmentation,Telepathy
+503;One Above All;-;-;Cosmic Entity;-;Indefinite;Marvel Comics;-;neutral;Indefinite;17/02/2012;Agility,Super Strength,Size Changing,Density Control
+504;Onslaught;Male;red;Mutant;No Hair;305;Marvel Comics;-;bad;405;03/01/2013;Agility,Durability,Super Strength,Stamina
+505;Oracle;Female;blue;Human;Red;178;DC Comics;-;good;59;29/02/1996;Accelerated Healing,Weapons Master,Longevity,Intelligence,Super Strength,Energy Blasts,Size Changing,Stamina,Super Speed,Darkforce Manipulation
+506;Osiris;Male;brown;-;Brown;Indefinite;DC Comics;-;good;Indefinite;20/01/1998;Accelerated Healing,Durability,Super Strength
+507;Overtkill;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;17/02/1998;Agility,Accelerated Healing,Durability,Danger Sense,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+508;Ozymandias;Male;blue;Human;Blond;Indefinite;DC Comics;-;bad;Indefinite;08/03/2012;Agility,Accelerated Healing,Durability,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+509;Parademon;-;-;Parademon;-;Indefinite;DC Comics;-;bad;Indefinite;18/05/1997;Agility,Dimensional Awareness,Flight,Longevity,Energy Blasts
+510;Paul Blart;Male;-;Human;-;170;Sony Pictures;-;good;117;30/10/1995;Super Strength,Energy Blasts,Super Speed,Weapon-based Powers
+511;Penance;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;25/07/1995;Agility,Durability,Danger Sense,Super Strength,Super Speed,Weapon-based Powers
+512;Penance I;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;01/09/2006;Agility,Durability,Energy Absorption,Super Strength
+513;Penance II;Male;blue;-;Blond;183;Marvel Comics;-;good;89;31/10/2001;Agility,Accelerated Healing,Flight,Intelligence,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+514;Penguin;Male;blue;Human;Black;157;DC Comics;-;bad;79;23/04/2006;Telepathy,Possession
+515;Peter Petrelli;Male;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;31/05/2013;Agility,Stealth,Flight,Intelligence,Super Speed,Darkforce Manipulation
+516;Phantom;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;02/07/2009;Stealth,Weapons Master,Intelligence
+517;Phantom Girl;Female;blue;-;Black;168;DC Comics;-;good;54;16/06/2005;Agility,Durability,Stealth,Stamina
+518;Phoenix;Female;green;Mutant;Red;168;Marvel Comics;-;good;52;16/08/2006;Agility,Accelerated Healing,Durability,Super Strength,Energy Blasts,Super Speed
+519;Plantman;Male;green;Mutant;Grey;183;Marvel Comics;-;bad;87;19/07/2004;Accelerated Healing,Durability,Longevity,Intelligence,Super Strength,Stamina
+520;Plastic Lad;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;02/09/2010;Cold Resistance,Durability,Super Strength
+521;Plastic Man;Male;blue;Human;Black;185;DC Comics;-;good;80;30/07/2013;Marksmanship,Weapons Master,Energy Blasts
+522;Plastique;Female;blue;-;Red;168;DC Comics;-;bad;55;01/01/1997;Flight,Energy Blasts,Audio Control
+523;Poison Ivy;Female;green;Human;Red;168;DC Comics;green;bad;50;09/03/1998;Agility,Accelerated Healing,Durability,Weapons Master,Longevity,Super Strength,Stamina,Super Speed
+524;Polaris;Female;green;Mutant;Green;170;Marvel Comics;-;good;52;19/03/2000;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+525;Power Girl;Female;blue;Kryptonian;blond;180;DC Comics;-;good;81;31/05/1998;Agility,Dimensional Awareness,Durability,Energy Absorption,Flight,Marksmanship,Super Strength,Energy Blasts,Stamina,Super Speed
+526;Power Man;Male;-;Mutant;-;Indefinite;Marvel Comics;-;good;Indefinite;15/03/2005;Agility,Flight,Super Strength,Super Speed,Animal Oriented Powers
+527;Predator;Male;-;Yautja;-;213;Dark Horse Comics;-;bad;234;30/05/2001;Agility,Accelerated Healing,Lantern Power Ring,Flight,Marksmanship,Super Strength,Energy Armor,Energy Blasts,Stamina,Super Speed
+528;Professor X;Male;blue;Mutant;No Hair;183;Marvel Comics;-;good;86;19/09/2004;Agility,Durability,Flight,Marksmanship,Super Strength,Energy Blasts,Super Speed
+529;Professor Zoom;Male;blue;Human;Strawberry Blond;180;DC Comics;-;bad;81;28/11/1996;Cold Resistance,Durability,Stealth,Underwater breathing,Super Strength,Telepathy,Super Speed
+530;Proto-Goblin;Male;green;-;Blond;Indefinite;Marvel Comics;-;bad;Indefinite;09/02/2003;Underwater breathing,Super Strength,Stamina
+531;Psylocke;Female;blue;Mutant;Purple;180;Marvel Comics;-;good;70;08/03/1996;Flight
+532;Punisher;Male;blue;Human;Black;183;Marvel Comics;-;good;90;20/11/2010;Accelerated Healing,Super Strength,Stamina
+533;Purple Man;Male;purple;Human;Purple;180;Marvel Comics;purple;bad;74;06/07/2011;Accelerated Healing,Flight,Animal Attributes,Super Strength,Stamina,Animal Oriented Powers
+534;Pyro;Male;blue;-;Blond;178;Marvel Comics;-;bad;68;22/03/2010;Durability,Super Strength
+535;Q;Male;-;God / Eternal;-;Indefinite;Star Trek;-;-;Indefinite;27/04/2004;Cold Resistance,Durability,Energy Absorption,Super Strength,Stamina
+536;Quantum;Male;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;28/02/2005;Agility,Durability,Flight,Super Strength,Stamina,Audio Control,Super Speed
+537;Question;Male;blue;Human;Blond;188;DC Comics;-;good;83;13/07/2008;Agility,Flight,Weapons Master,Intelligence,Super Strength,Energy Blasts,Stamina
+538;Quicksilver;Male;blue;Mutant;Silver;183;Marvel Comics;-;good;79;21/05/2012;Agility,Durability,Stealth,Flight,Weapons Master,Super Strength,Telepathy,Stamina,Super Speed
+539;Quill;Male;brown;-;Brown;163;Marvel Comics;-;good;56;19/11/2004;Agility,Accelerated Healing,Dimensional Awareness,Stealth,Energy Absorption,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Duplication,Size Changing,Density Control,Stamina,Super Speed,Possession,Electrokinesis,Darkforce Manipulation
+540;Ra's Al Ghul;Male;green;Human;Grey;193;DC Comics;-;bad;97;13/12/2008;Energy Absorption,Energy Armor
+541;Rachel Pirzad;Female;-;Alpha;-;Indefinite;SyFy;-;good;Indefinite;01/06/2001;Stealth,Marksmanship,Weapons Master,Stamina
+542;Rambo;Male;brown;Human;Black;178;;-;good;83;11/04/2006;Agility,Accelerated Healing,Stealth,Danger Sense,Intelligence,Super Strength,Stamina,Dexterity,Super Speed
+543;Raphael;Male;-;Mutant;No Hair;Indefinite;IDW Publishing;green;good;Indefinite;12/02/2001;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+544;Raven;Female;indigo;Human;Black;165;DC Comics;-;neutral;50;12/12/2007;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+545;Ray;Male;green;Human;Red;178;DC Comics;-;good;70;26/11/2008;Agility,Durability,Flight,Super Strength,Energy Blasts,Stamina,Super Speed
+546;Razor-Fist II;Male;blue;-;No Hair;191;Marvel Comics;-;bad;117;20/11/2009;Agility,Flight,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+547;Red Arrow;Male;green;Human;Red;180;DC Comics;-;good;83;24/03/1999;Agility,Flight,Super Strength,Telepathy,Energy Blasts,Super Speed
+548;Red Hood;Male;blue;Human;Black;183;DC Comics;-;neutral;81;31/08/1998;Stealth,Longevity,Intelligence,Super Strength,Telepathy,Stamina
+549;Red Hulk;Male;yellow;Human / Radiation;Black;213;Marvel Comics;red;neutral;630;10/03/2002;Accelerated Healing,Stamina
+550;Red Mist;Male;-;-;-;Indefinite;Icon Comics;-;bad;Indefinite;21/08/2002;Agility,Durability,Marksmanship,Weapons Master,Longevity,Intelligence,Stamina
+551;Red Robin;Male;blue;Human;Black;165;DC Comics;-;good;56;28/05/2012;Durability,Energy Absorption,Flight,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed
+552;Red Skull;Male;blue;-;No Hair;188;Marvel Comics;-;bad;108;06/06/2004;Durability,Energy Absorption,Flight,Super Strength,Energy Blasts
+553;Red Tornado;Male;green;Android;No Hair;185;DC Comics;-;good;146;26/07/1996;Agility,Durability,Energy Absorption,Super Strength,Energy Blasts,Stamina,Super Speed
+554;Redeemer II;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;01/12/2002;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Marksmanship,Intelligence,Energy Blasts,Electrokinesis
+555;Redeemer III;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;08/04/2011;Durability,Flight,Super Strength,Weapon-based Powers
+556;Renata Soliz;Female;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;23/02/2004;Accelerated Healing,Super Speed
+557;Rey;Female;hazel;Human;Brown;297;George Lucas;-;good;Indefinite;19/06/2003;Agility,Accelerated Healing,Stealth,Weapons Master,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+558;Rhino;Male;brown;Human / Radiation;Brown;196;Marvel Comics;-;bad;320;07/09/2010;Cold Resistance,Flight,Intelligence
+559;Rick Flag;Male;blue;-;Brown;185;DC Comics;-;bad;85;22/02/2013;Durability,Weapon-based Powers
+560;Riddler;Male;-;-;-;Indefinite;DC Comics;-;bad;Indefinite;24/09/2001;Durability,Size Changing
+561;Rip Hunter;Male;blue;Human;Blond;Indefinite;DC Comics;-;good;Indefinite;02/04/2011;Accelerated Healing,Flight,Super Strength,Energy Blasts,Stamina
+562;Ripcord;Female;green;-;Black;180;Marvel Comics;-;good;72;23/06/2007;Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Super Speed
+563;Robin;Male;blue;Human;Black;178;DC Comics;-;good;79;13/09/2010;Accelerated Healing,Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+564;Robin II;Male;blue;Human;Red;183;DC Comics;-;good;101;07/08/2011;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Flight,Intelligence,Super Strength,Stamina,Super Speed
+565;Robin III;Male;blue;Human;Black;165;DC Comics;-;good;56;04/10/1995;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+566;Robin V;Male;blue;Human;Black;137;DC Comics;-;good;38;10/06/2010;Stealth,Flight,Longevity,Intelligence,Super Strength,Duplication,Size Changing
+567;Robin VI;Female;green;Human;Red;Indefinite;DC Comics;-;neutral;Indefinite;12/07/2013;Durability,Flight,Longevity,Intelligence,Super Strength,Size Changing,Animal Oriented Powers
+568;Rocket Raccoon;Male;brown;Animal;Brown;122;Marvel Comics;-;good;25;08/12/1998;Cryokinesis
+569;Rogue;Female;green;-;Brown / White;173;Marvel Comics;-;good;54;08/03/1996;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Size Changing,Stamina,Super Speed
+570;Ronin;Male;blue;Human;Blond;191;Marvel Comics;-;good;104;30/06/2004;Cold Resistance,Durability,Stealth,Weapons Master,Longevity,Super Strength,Stamina
+571;Rorschach;Male;blue;Human;Red;168;DC Comics;-;good;63;02/05/2001;Accelerated Healing,Cold Resistance,Durability,Stealth,Weapons Master,Longevity,Super Strength,Stamina
+572;Sabretooth;Male;amber;Mutant;Blond;198;Marvel Comics;-;bad;171;30/12/1996;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+573;Sage;Female;blue;-;Black;170;Marvel Comics;-;good;61;22/05/2000;Agility,Stealth,Marksmanship,Weapons Master,Stamina,Super Speed,Weapon-based Powers
+574;Sandman;Male;brown;Human;Brown;185;Marvel Comics;-;neutral;203;24/10/2004;Flight,Cryokinesis
+575;Sasquatch;Male;red;-;Orange;305;Marvel Comics;-;good;900;09/02/2007;Agility,Accelerated Healing,Cold Resistance,Durability,Flight,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+576;Sauron;Male;-;Maiar;-;279;J. R. R. Tolkien;-;bad;Indefinite;07/12/1998;Weapon-based Powers
+577;Savage Dragon;Male;-;-;-;Indefinite;Image Comics;-;good;Indefinite;15/07/1997;Weapons Master
+578;Scarecrow;Male;blue;Human;Brown;183;DC Comics;-;bad;63;05/02/2007;Cold Resistance,Durability,Longevity,Super Strength,Stamina
+579;Scarlet Spider;Male;blue;Human;Blond;178;Marvel Comics;-;good;74;07/10/2006;Agility,Accelerated Healing,Durability,Flight,Longevity,Super Strength,Stamina,Super Speed,Weapon-based Powers
+580;Scarlet Spider II;Male;brown;Clone;Brown;193;Marvel Comics;-;good;113;04/05/2006;Durability,Super Strength,Stamina,Super Speed
+581;Scarlet Witch;Female;blue;Mutant;Brown;170;Marvel Comics;-;bad;59;01/05/2007;Durability,Super Strength,Stamina,Super Speed
+582;Scorpia;Female;green;-;Red;Indefinite;Marvel Comics;-;bad;Indefinite;18/08/2001;Energy Absorption,Flight,Energy Blasts
+583;Scorpion;Male;brown;Human;Brown;211;Marvel Comics;-;bad;310;26/10/2011;Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
+584;Sebastian Shaw;Male;-;Mutant;-;Indefinite;Marvel Comics;-;bad;Indefinite;28/11/2009;Agility,Super Strength,Stamina,Super Speed
+585;Sentry;Male;blue;Mutant;Blond;188;Marvel Comics;-;neutral;87;11/06/2003;Agility,Accelerated Healing,Cold Resistance,Durability,Underwater breathing,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+586;Shadow King;-;red;-;-;185;Marvel Comics;-;good;149;03/03/2001;Agility,Super Strength,Stamina,Super Speed
+587;Shadow Lass;Female;black;Talokite;Black;173;DC Comics;blue;good;54;10/07/2005;Intelligence
+588;Shadowcat;Female;hazel;Mutant;Brown;168;Marvel Comics;-;good;50;24/02/2011;Flight,Super Strength,Super Speed
+589;Shang-Chi;Male;brown;Human;Black;178;Marvel Comics;-;good;79;30/03/2013;Agility,Accelerated Healing,Durability,Animal Attributes,Super Strength,Stamina,Animal Oriented Powers
+590;Shatterstar;Male;brown;-;Red;191;Marvel Comics;-;good;88;09/09/2005;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Super Strength,Size Changing,Stamina,Super Speed,Weapon-based Powers
+591;She-Hulk;Female;green;Human;Green;201;Marvel Comics;-;good;315;09/03/2001;Cold Resistance,Cryokinesis
+592;She-Thing;Female;blue;Human / Radiation;No Hair;183;Marvel Comics;-;good;153;08/09/2011;Flight
+593;Shocker;Male;brown;Human;Brown;175;Marvel Comics;-;bad;79;08/05/1999;Accelerated Healing,Durability,Flight,Super Strength,Stamina
+594;Shriek;Female;yellow / blue;-;Black;173;Marvel Comics;-;good;52;02/03/2006;Flight,Duplication
+595;Shrinking Violet;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;05/06/2012;Agility,Cold Resistance,Durability,Underwater breathing,Super Strength,Stamina,Super Speed
+596;Sif;Female;blue;Asgardian;Black;188;Marvel Comics;-;good;191;18/05/1996;Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina
+597;Silk;Female;brown;Human;Black;Indefinite;Marvel Comics;-;good;Indefinite;17/06/1997;Durability,Flight,Super Strength,Stamina,Super Speed
+598;Silk Spectre;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;09/07/2001;Agility,Durability,Stealth,Energy Absorption,Flight,Super Strength,Energy Armor,Energy Blasts,Stamina,Super Speed
+599;Silk Spectre II;Female;-;-;-;Indefinite;DC Comics;-;good;Indefinite;13/09/2007;Durability,Longevity,Super Strength,Stamina
+600;Silver Surfer;Male;white;Alien;No Hair;193;Marvel Comics;silver;good;101;13/07/1996;Agility,Super Strength,Weapon-based Powers
+601;Silverclaw;Female;brown;-;Black;157;Marvel Comics;-;good;50;19/01/2009;Durability,Super Strength,Stamina
+602;Simon Baz;Male;bown;Human;Black;Indefinite;DC Comics;-;good;Indefinite;05/08/2006;Agility,Accelerated Healing,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+603;Sinestro;Male;black;Korugaran;Black;201;DC Comics;red;neutral;92;04/01/1996;Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina,Super Speed,Weapon-based Powers
+604;Siren;Female;blue;Atlantean;Purple;175;DC Comics;-;bad;72;28/08/1999;Agility,Durability,Super Strength,Super Speed,Animal Oriented Powers
+605;Siren II;Female;black;-;-;Indefinite;DC Comics;-;bad;Indefinite;25/02/2013;Agility,Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+606;Siryn;Female;blue;-;Strawberry Blond;168;Marvel Comics;-;bad;52;30/08/2013;Agility,Accelerated Healing,Dimensional Awareness,Durability,Stealth,Danger Sense,Marksmanship,Weapons Master,Longevity,Super Strength,Stamina,Super Speed,Weapon-based Powers
+607;Skaar;Male;green;-;Black;198;Marvel Comics;-;good;180;14/03/2010;Dimensional Awareness,Energy Blasts
+608;Snake-Eyes;Male;-;Animal;-;Indefinite;Marvel Comics;-;bad;Indefinite;03/03/1998;Durability,Flight
+609;Snowbird;Female;white;-;Blond;178;Marvel Comics;-;good;49;30/11/1999;Durability,Super Strength,Telepathy
+610;Sobek;Male;white;-;No Hair;Indefinite;DC Comics;-;good;Indefinite;03/02/2005;Stealth,Intelligence
+611;Solomon Grundy;Male;black;Zombie;White;279;DC Comics;-;bad;437;06/01/2001;Durability,Stealth,Energy Absorption,Flight,Marksmanship,Intelligence,Super Strength,Telepathy,Energy Blasts,Density Control,Stamina,Super Speed
+612;Songbird;Female;green;-;Red / White;165;Marvel Comics;-;good;65;25/06/1998;Agility,Accelerated Healing,Stealth,Flight,Danger Sense,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+613;Space Ghost;Male;-;Human;-;188;DC Comics;-;good;113;03/08/2009;Agility,Flight,Marksmanship,Super Strength,Super Speed,Animal Oriented Powers
+614;Spawn;Male;brown;Demon;Black;211;Image Comics;-;good;405;05/12/2010;Durability,Super Strength
+615;Spectre;Male;white;God / Eternal;No Hair;Indefinite;DC Comics;white;good;Indefinite;27/03/2000;Durability,Energy Absorption,Flight,Underwater breathing,Marksmanship,Super Strength,Energy Blasts,Super Speed,Weapon-based Powers
+616;Speedball;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;02/02/2002;Agility,Durability,Flight,Super Strength,Energy Blasts,Stamina,Super Speed
+617;Speedy;Male;-;Human;-;Indefinite;DC Comics;-;good;Indefinite;09/09/2007;Flight
+618;Speedy;Female;green;Human;Brown;Indefinite;DC Comics;-;good;Indefinite;12/01/1999;Agility,Cold Resistance,Durability,Super Strength,Stamina,Super Speed
+619;Spider-Carnage;Male;-;Symbiote;-;Indefinite;Marvel Comics;-;bad;Indefinite;19/12/2009;Agility,Stealth,Flight,Intelligence,Super Strength,Energy Blasts,Size Changing,Animal Oriented Powers,Weapon-based Powers
+620;Spider-Girl;Female;blue;Human;Brown;170;Marvel Comics;-;good;54;28/06/1999;Dimensional Awareness,Flight,Intelligence,Telepathy,Size Changing
+621;Spider-Gwen;Female;blue;Human;Blond;165;Marvel Comics;-;good;56;09/01/2001;Agility,Accelerated Healing,Super Strength,Energy Blasts,Super Speed,Weapon-based Powers
+622;Spider-Man;Male;hazel;Human;Brown;178;Marvel Comics;-;good;74;20/02/2003;Agility,Stealth,Weapons Master,Stamina
+623;Spider-Man;-;red;Human;Brown;178;Marvel Comics;-;good;77;12/03/2001;Energy Absorption,Flight,Super Strength,Energy Blasts,Size Changing
+624;Spider-Man;Male;brown;Human;Black;157;Marvel Comics;-;good;56;10/07/2006;Marksmanship,Longevity,Super Strength,Energy Blasts
+625;Spider-Woman;Female;green;Human;Black;178;Marvel Comics;-;good;59;21/07/1995;Animal Attributes,Super Strength,Super Speed
+626;Spider-Woman II;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;14/07/1997;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Longevity,Super Strength,Stamina,Animal Oriented Powers
+627;Spider-Woman III;Female;brown;-;Brown;173;Marvel Comics;-;good;55;05/01/2010;Agility,Durability,Flight,Longevity,Intelligence,Super Strength,Super Speed,Electrokinesis
+628;Spider-Woman IV;Female;red;-;White;178;Marvel Comics;-;bad;58;06/12/1996;Durability,Flight,Longevity,Super Strength,Energy Blasts,Size Changing,Stamina,Super Speed
+629;Spock;Male;brown;Human-Vulcan;Black;185;Star Trek;-;good;81;18/02/2011;Accelerated Healing,Durability,Flight,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Telepathy,Stamina,Super Speed,Animal Oriented Powers,Weapon-based Powers
+630;Spyke;Male;brown;Mutant;Blond;183;Marvel Comics;-;good;83;16/03/2006;Agility,Accelerated Healing,Durability,Stealth,Marksmanship,Longevity,Super Strength,Stamina
+631;Stacy X;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;09/06/2008;Flight,Telepathy,Astral Travel
+632;Star-Lord;Male;blue;Human-Spartoi;Blond;188;Marvel Comics;-;good;79;16/02/2014;Size Changing,Animal Oriented Powers
+633;Stardust;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/06/2000;Flight,Energy Blasts,Size Changing
+634;Starfire;Female;green;Tamaranean;Auburn;193;DC Comics;orange;good;71;07/05/2007;Cold Resistance,Durability,Longevity,Super Strength,Cryokinesis
+635;Stargirl;Female;blue;Human;Blond;165;DC Comics;-;good;62;14/09/1999;Agility,Stealth,Danger Sense,Marksmanship,Weapons Master,Longevity,Intelligence,Telepathy,Energy Blasts,Stamina,Super Speed
+636;Static;Male;brown;Mutant;Black;170;DC Comics;-;good;63;01/10/1998;Cryokinesis,Telepathy
+637;Steel;Male;brown;-;No Hair;201;DC Comics;-;good;131;05/09/2008;Super Speed
+638;Stephanie Powell;Female;-;-;Blond;Indefinite;ABC Studios;-;good;Indefinite;02/10/1998;Cold Resistance,Durability,Energy Absorption,Super Strength,Stamina
+639;Steppenwolf;Male;red;New God;Black;183;DC Comics;white;bad;91;24/07/1996;Agility,Durability,Flight,Super Strength,Stamina,Audio Control,Super Speed
+640;Storm;Female;blue;Mutant;White;180;Marvel Comics;-;good;57;12/10/2010;Agility,Flight,Weapons Master,Intelligence,Super Strength,Energy Blasts,Stamina
+641;Stormtrooper;Male;-;Human;-;183;George Lucas;-;bad;Indefinite;09/12/1998;Agility,Durability,Stealth,Flight,Weapons Master,Super Strength,Telepathy,Stamina,Super Speed
+642;Sunspot;Male;brown;Mutant;black;173;Marvel Comics;-;good;77;15/03/2003;Agility,Accelerated Healing,Dimensional Awareness,Stealth,Energy Absorption,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Duplication,Size Changing,Density Control,Stamina,Super Speed,Possession,Electrokinesis,Darkforce Manipulation
+643;Superboy;Male;blue;-;Black;170;DC Comics;-;good;68;03/01/1995;Energy Absorption,Energy Armor
+644;Superboy-Prime;Male;blue;Kryptonian;Black / Blue;180;DC Comics;-;bad;77;18/11/2006;Stealth,Marksmanship,Weapons Master,Stamina
+645;Supergirl;Female;blue;Kryptonian;Blond;165;DC Comics;-;good;54;26/08/2005;Agility,Accelerated Healing,Stealth,Danger Sense,Intelligence,Super Strength,Stamina,Dexterity,Super Speed
+646;Superman;Male;blue;Kryptonian;Black;191;DC Comics;-;good;101;17/10/2002;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+647;Swamp Thing;Male;red;God / Eternal;No Hair;Indefinite;DC Comics;green;bad;Indefinite;18/08/1996;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Marksmanship,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+648;Swarm;Male;yellow;Mutant;No Hair;196;Marvel Comics;yellow;bad;47;14/07/2005;Agility,Durability,Flight,Super Strength,Energy Blasts,Stamina,Super Speed
+649;Sylar;Male;-;-;-;Indefinite;NBC - Heroes;-;bad;Indefinite;25/02/2013;Agility,Flight,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+650;Synch;Male;brown;-;Black;180;Marvel Comics;-;good;74;30/01/1999;Agility,Flight,Super Strength,Telepathy,Energy Blasts,Super Speed
+651;T-1000;Male;-;Android;-;183;Dark Horse Comics;silver;bad;146;28/09/2004;Stealth,Longevity,Intelligence,Super Strength,Telepathy,Stamina
+652;T-800;Male;red;Cyborg;-;Indefinite;Dark Horse Comics;-;bad;176;26/08/2013;Accelerated Healing,Stamina
+653;T-850;Male;red;Cyborg;-;Indefinite;Dark Horse Comics;-;bad;198;11/10/2009;Agility,Durability,Marksmanship,Weapons Master,Longevity,Intelligence,Stamina
+654;T-X;Female;-;Cyborg;-;Indefinite;Dark Horse Comics;silver;bad;149;12/12/2010;Durability,Energy Absorption,Flight,Longevity,Super Strength,Energy Blasts,Stamina,Super Speed
+655;Taskmaster;Male;brown;Human;Brown;188;Marvel Comics;-;bad;99;19/09/2003;Durability,Energy Absorption,Flight,Super Strength,Energy Blasts
+656;Tempest;Female;brown;-;Black;163;Marvel Comics;-;good;54;23/02/2007;Agility,Durability,Energy Absorption,Super Strength,Energy Blasts,Stamina,Super Speed
+657;Thanos;Male;red;Eternal;No Hair;201;Marvel Comics;purple;bad;443;28/10/2004;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Marksmanship,Intelligence,Energy Blasts,Electrokinesis
+658;The Cape;Male;-;-;-;Indefinite;;-;good;Indefinite;08/04/2003;Durability,Flight,Super Strength,Weapon-based Powers
+659;The Comedian;Male;brown;Human;Black;188;DC Comics;-;neutral;101;24/12/2011;Accelerated Healing,Super Speed
+660;Thing;Male;blue;Human / Radiation;No Hair;183;Marvel Comics;-;good;225;19/05/2009;Agility,Accelerated Healing,Stealth,Weapons Master,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+661;Thor;Male;blue;Asgardian;Blond;198;Marvel Comics;-;good;288;07/09/2009;Cold Resistance,Flight,Intelligence
+662;Thor Girl;Female;blue;Asgardian;Blond;175;Marvel Comics;-;good;143;30/09/2006;Durability,Weapon-based Powers
+663;Thunderbird;Male;brown;-;Black;185;Marvel Comics;-;good;101;02/04/2008;Durability,Size Changing
+664;Thunderbird II;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;11/10/2010;Accelerated Healing,Flight,Super Strength,Energy Blasts,Stamina
+665;Thunderbird III;Male;brown;-;Black;175;Marvel Comics;-;good;74;07/01/2011;Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Super Speed
+666;Thunderstrike;Male;blue;-;Blond;198;Marvel Comics;-;good;288;21/07/1995;Accelerated Healing,Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+667;Thundra;Female;green;-;Red;218;Marvel Comics;-;good;158;15/09/2004;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Flight,Intelligence,Super Strength,Stamina,Super Speed
+668;Tiger Shark;Male;grey;Human;No Hair;185;Marvel Comics;grey;bad;203;19/04/2005;Agility,Accelerated Healing,Cold Resistance,Durability,Energy Absorption,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Stamina,Super Speed
+669;Tigra;Female;green;-;Auburn;178;Marvel Comics;-;good;81;11/08/2004;Stealth,Flight,Longevity,Intelligence,Super Strength,Duplication,Size Changing
+670;Tinkerer;Male;brown;-;White;163;Marvel Comics;-;bad;54;16/11/2003;Durability,Flight,Longevity,Intelligence,Super Strength,Size Changing,Animal Oriented Powers
+671;Titan;Male;-;-;-;Indefinite;HarperCollins;-;good;Indefinite;30/04/2011;Cryokinesis
+672;Toad;Male;black;Mutant;Brown;175;Marvel Comics;green;neutral;76;02/07/2010;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Size Changing,Stamina,Super Speed
+673;Toxin;Male;blue;Symbiote;Brown;188;Marvel Comics;-;good;97;28/03/1998;Cold Resistance,Durability,Stealth,Weapons Master,Longevity,Super Strength,Stamina
+674;Toxin;Male;black;Symbiote;Blond;191;Marvel Comics;-;good;117;24/11/2004;Accelerated Healing,Cold Resistance,Durability,Stealth,Weapons Master,Longevity,Super Strength,Stamina
+675;Tracy Strauss;Female;-;-;-;Indefinite;NBC - Heroes;-;good;Indefinite;17/12/2013;Agility,Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+676;Trickster;Male;blue;Human;Blond;183;DC Comics;-;-;81;20/04/2008;Agility,Stealth,Marksmanship,Weapons Master,Stamina,Super Speed,Weapon-based Powers
+677;Trigon;Male;yellow;God / Eternal;Black;Indefinite;DC Comics;red;bad;Indefinite;10/07/2002;Flight,Cryokinesis
+678;Triplicate Girl;Female;purple;-;Brown;168;DC Comics;-;good;59;17/11/1997;Agility,Accelerated Healing,Cold Resistance,Durability,Flight,Longevity,Intelligence,Super Strength,Telepathy,Energy Blasts,Stamina,Super Speed
+679;Triton;Male;green;Inhuman;No Hair;188;Marvel Comics;green;good;86;20/12/2013;Weapon-based Powers
+680;Two-Face;Male;-;-;-;183;DC Comics;-;bad;82;21/02/1996;Weapons Master
+681;Ultragirl;Female;blue;-;Blond;168;Marvel Comics;-;good;105;24/10/2006;Cold Resistance,Durability,Longevity,Super Strength,Stamina
+682;Ultron;Male;red;Android;-;206;Marvel Comics;silver;bad;331;27/02/2011;Agility,Accelerated Healing,Durability,Flight,Longevity,Super Strength,Stamina,Super Speed,Weapon-based Powers
+683;Utgard-Loki;Male;blue;Frost Giant;White;15,2;Marvel Comics;-;bad;58;26/04/2010;Durability,Super Strength,Stamina,Super Speed
+684;Vagabond;Female;blue;-;Strawberry Blond;168;Marvel Comics;-;good;54;04/02/2001;Durability,Super Strength,Stamina,Super Speed
+685;Valerie Hart;Female;hazel;-;Black;175;Team Epic TV;-;good;56;09/07/2013;Energy Absorption,Flight,Energy Blasts
+686;Valkyrie;Female;blue;-;Blond;191;Marvel Comics;-;good;214;05/01/2007;Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
+687;Vanisher;Male;green;-;No Hair;165;Marvel Comics;-;bad;79;31/01/2006;Agility,Super Strength,Stamina,Super Speed
+688;Vegeta;Male;-;Saiyan;Black;168;Shueisha;-;bad;73;22/09/1999;Agility,Accelerated Healing,Cold Resistance,Durability,Underwater breathing,Animal Attributes,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+689;Venom;Male;blue;Symbiote;Strawberry Blond;191;Marvel Comics;-;bad;117;01/03/2006;Agility,Super Strength,Stamina,Super Speed
+690;Venom II;Male;brown;-;Black;175;Marvel Comics;-;bad;50;10/10/2002;Intelligence
+691;Venom III;Male;brown;Symbiote;Brown;229;Marvel Comics;-;bad;334;16/01/2004;Flight,Super Strength,Super Speed
+692;Venompool;Male;-;Symbiote;-;226;Marvel Comics;-;-;Indefinite;20/01/2014;Agility,Accelerated Healing,Durability,Animal Attributes,Super Strength,Stamina,Animal Oriented Powers
+693;Vertigo II;Female;blue;-;Silver;168;Marvel Comics;-;good;52;22/02/2001;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Super Strength,Size Changing,Stamina,Super Speed,Weapon-based Powers
+694;Vibe;Male;brown;Human;Black;178;DC Comics;-;good;71;23/05/2011;Cold Resistance,Cryokinesis
+695;Vindicator;Female;green;Human;Red;165;Marvel Comics;-;good;54;21/05/2001;Flight
+696;Vindicator;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;21/08/2012;Accelerated Healing,Durability,Flight,Super Strength,Stamina
+697;Violator;Male;-;-;-;Indefinite;Image Comics;-;bad;Indefinite;04/10/2009;Flight,Duplication
+698;Violet Parr;Female;violet;Human;Black;137;Dark Horse Comics;-;good;41;17/02/2013;Agility,Cold Resistance,Durability,Underwater breathing,Super Strength,Stamina,Super Speed
+699;Vision;Male;gold;Android;No Hair;191;Marvel Comics;red;good;135;13/03/2008;Durability,Energy Absorption,Flight,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina
+700;Vision II;-;red;-;No Hair;191;Marvel Comics;-;good;135;21/10/2010;Durability,Flight,Super Strength,Stamina,Super Speed
+701;Vixen;Female;amber;Human;Black;175;DC Comics;-;good;63;20/09/1998;Agility,Durability,Stealth,Energy Absorption,Flight,Super Strength,Energy Armor,Energy Blasts,Stamina,Super Speed
+702;Vulcan;Male;black;-;Black;Indefinite;Marvel Comics;-;good;Indefinite;27/02/1999;Durability,Longevity,Super Strength,Stamina
+703;Vulture;Male;brown;Human;No Hair;180;Marvel Comics;-;bad;79;25/07/1997;Agility,Super Strength,Weapon-based Powers
+704;Walrus;Male;blue;Human;Black;183;Marvel Comics;-;bad;162;28/05/2001;Durability,Super Strength,Stamina
+705;War Machine;Male;brown;Human;Brown;185;Marvel Comics;-;good;95;04/05/2010;Agility,Accelerated Healing,Flight,Marksmanship,Longevity,Intelligence,Super Strength,Energy Blasts,Stamina,Super Speed
+706;Warbird;Female;blue;-;Blond;180;Marvel Comics;-;good;54;14/06/2008;Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina,Super Speed,Weapon-based Powers
+707;Warlock;Male;red;-;Blond;188;Marvel Comics;-;good;108;22/02/2005;Agility,Durability,Super Strength,Super Speed,Animal Oriented Powers
+708;Warp;Male;brown;-;Black;173;DC Comics;-;bad;67;25/09/2011;Agility,Accelerated Healing,Durability,Danger Sense,Super Strength,Stamina,Super Speed,Animal Oriented Powers
+709;Warpath;Male;brown;Mutant;Black;218;Marvel Comics;-;good;158;09/08/2007;Agility,Accelerated Healing,Dimensional Awareness,Durability,Stealth,Danger Sense,Marksmanship,Weapons Master,Longevity,Super Strength,Stamina,Super Speed,Weapon-based Powers
+710;Wasp;Female;blue;Human;Auburn;163;Marvel Comics;-;good;50;19/11/2013;Intelligence
+711;Watcher;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;01/08/2013;Agility,Accelerated Healing,Durability,Stealth,Flight,Marksmanship,Weapons Master,Intelligence,Super Strength,Energy Blasts,Stamina
+712;Weapon XI;Male;-;-;-;Indefinite;Marvel Comics;-;bad;Indefinite;02/11/2000;Durability,Flight,Intelligence,Super Strength,Stamina,Super Speed
+713;White Canary;Female;brown;Human;Black;Indefinite;DC Comics;-;bad;Indefinite;08/03/1996;Super Strength,Super Speed
+714;White Queen;Female;blue;-;Blond;178;Marvel Comics;-;good;65;29/03/1995;Agility,Stealth,Intelligence,Stamina
+715;Wildfire;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;29/09/2007;Flight,Super Strength
+716;Winter Soldier;Male;brown;Human;Brown;175;Marvel Comics;-;good;117;05/10/2008;Energy Blasts
+717;Wiz Kid;-;brown;-;Black;140;Marvel Comics;-;good;39;24/12/2011;Intelligence
+718;Wolfsbane;Female;green;-;Auburn;366;Marvel Comics;-;good;473;12/01/1999;Marksmanship
+719;Wolverine;Male;blue;Mutant;Black;160;Marvel Comics;-;good;135;13/10/1996;Agility,Energy Absorption,Telepathy
+720;Wonder Girl;Female;blue;Demi-God;Blond;165;DC Comics;-;good;51;12/05/2008;Durability,Stealth,Super Strength
+721;Wonder Man;Male;red;-;Black;188;Marvel Comics;-;good;171;14/10/2001;Agility,Accelerated Healing,Durability,Stealth,Super Strength,Size Changing,Density Control
+722;Wonder Woman;Female;blue;Amazon;Black;183;DC Comics;-;good;74;19/04/1999;Energy Blasts
+723;Wondra;Female;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;14/11/2009;Agility,Accelerated Healing,Marksmanship,Super Strength
+724;Wyatt Wingfoot;Male;brown;-;Black;196;Marvel Comics;-;good;117;05/11/1996;Energy Absorption,Flight,Intelligence
+725;X-23;Female;green;Mutant / Clone;Black;155;Marvel Comics;-;good;50;17/11/2003;Agility,Accelerated Healing,Durability,Energy Absorption,Flight,Intelligence,Super Strength,Stamina,Super Speed
+726;X-Man;Male;blue;-;Brown;175;Marvel Comics;-;good;61;24/03/2010;Accelerated Healing,Cold Resistance,Durability,Stealth,Marksmanship,Weapons Master,Longevity,Intelligence,Super Strength,Stamina
+727;Yellow Claw;Male;blue;-;No Hair;188;Marvel Comics;-;bad;95;30/05/2009;Intelligence,Telepathy,Possession
+728;Yellowjacket;Male;blue;Human;Blond;183;Marvel Comics;-;good;83;11/08/2011;Stamina,Super Speed
+729;Yellowjacket II;Female;blue;Human;Strawberry Blond;165;Marvel Comics;-;good;52;15/10/1995;Agility,Durability,Super Strength
+730;Ymir;Male;white;Frost Giant;No Hair;304,8;Marvel Comics;white;good;Indefinite;06/11/1999;Agility,Stealth,Super Strength,Telepathy,Super Speed
+731;Yoda;Male;brown;Yoda's species;White;66;George Lucas;green;good;17;06/02/2013;Agility,Durability,Stealth,Marksmanship,Weapons Master,Stamina,Weapon-based Powers
+732;Zatanna;Female;blue;Human;Black;170;DC Comics;-;good;57;13/10/2007;Accelerated Healing,Telepathy
+733;Zoom;Male;red;-;Brown;185;DC Comics;-;bad;81;10/10/2004;Dimensional Awareness,Stealth,Intelligence
