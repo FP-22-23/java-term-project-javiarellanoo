@@ -56,6 +56,7 @@ public class TestHero {
 		// We now test for equality and Natural Order
 		Hero h3 = h1;
 		System.out.println("Are h1 and h3 equals?" + h1.equals(h3));
+		System.out.println("Are h2 and h3 equals?" + h2.equals(h3));
 		System.out.println(h1.compareTo(h2));
 		
 
