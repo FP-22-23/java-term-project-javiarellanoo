@@ -16,8 +16,6 @@ The original dataset can be obtained from the following URL [https://www.kaggle.
 
 Now, all columns are detailed:
 
-Note: The first column of the data set contains integer numbers in order, from 0 to 667, indicating the number given to the hero alphabetically, but it will be no relevant for the project by the moment.
-
 * **name**: of type string, indicates the hero identity of the character.
 * **gender**: of type enum, can take the values Male, Female or Not Defined.
 * **Eye Colour. Race, Hair Colour, Skin Colour**: of type string each, that will form the Complexion auxiliary type.
@@ -27,7 +25,7 @@ Note: The first column of the data set contains integer numbers in order, from 0
 * **Weight**: of type integer, the weight of the character in kg.(Some of them have the string Indefinite, that will be considered as 0)
 * **Birth Date**: of type date, randomly generated, it indicates the date of birth of each character.
 * **Powers**: of type string, separated by commas to generate a list later on. This column was obtained through modifying the second csv file that you can find in the url. It contained a huge list of boolean values, with the columns indicating the possesion of that certain power. It has been modified to have a format like:
-"Super Speed, Super Strength...". It has not yet been fully implemented since I am working on it manually and it is not required for this submission's coding.
+"Super Speed, Super Strength...". This column has been created by me, making use of previous knowledge on Python and the creation of two functions that took the information from the other file, as intended.
 
 ## Implemented Types
 
