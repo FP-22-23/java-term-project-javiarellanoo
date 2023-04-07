@@ -17,7 +17,7 @@ public class Hero implements Comparable<Hero> {
 	private Complexion complexion;
 	private List<String> powers;
 	private LocalDate birth;
-	public Hero(String n, Gender g, Integer h, Integer w, boolean a, Complexion c, LocalDate birth, Publisher p) {
+	public Hero(String n, Gender g, Integer h, Integer w, boolean a, Complexion c, LocalDate birth, Publisher p, List<String> powers) {
 		Checkers.check("The hero must have a name", !n.isBlank());
 		Checkers.check("Weight and height must be positive", h>=0 && w>=0);
 		this.name = n;
@@ -28,7 +28,7 @@ public class Hero implements Comparable<Hero> {
 		this.complexion = c;
 		this.birth = birth;
 		this.publisher = p;
-		this.powers = new ArrayList<>();
+		this.powers = new ArrayList<>(powers);
 	}
 	
 	public Hero(String n, Gender g,boolean a, Complexion c) {

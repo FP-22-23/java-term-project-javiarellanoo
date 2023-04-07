@@ -11,7 +11,7 @@ public class TestHero {
 		//We will first try to test the Hero Class, by doing so, we will be checking our auxiliary type as well.
 		//First we will check the constructor for Complexion and Hero
 		Complexion c = new Complexion("Human", "Redhead", "fair skin", "green");
-		Hero h1 = new Hero("Scarlet Witch", Gender.FEMALE, 165, 65, true, c, LocalDate.of(1989, 2, 25), Publisher.MARVEL);
+		Hero h1 = new Hero("Scarlet Witch", Gender.FEMALE, 165, 65, true, c, LocalDate.of(1989, 2, 25), Publisher.MARVEL, null);
 		
 		//We now check the second Constructor
 		Complexion c2 = new Complexion("Human", "Black Hair", "fair skin", "brown");
