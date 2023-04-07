@@ -120,7 +120,7 @@ Blizzard II;Male;brown;-;Brown;175;Marvel Comics;-;bad;77;01/06/2003;Electrokine
 Blob;Male;brown;-;Brown;178;Marvel Comics;-;bad;230;12/07/1999;Durability,Flight,Longevity,Intelligence,Super Strength,Telepathy,Super Speed
 Bloodaxe;Female;blue;Human;Brown;218;Marvel Comics;-;bad;495;16/12/1999;Intelligence
 Bloodhawk;Male;black;Mutant;No Hair;Indefinite;Marvel Comics;-;good;Indefinite;13/11/1997;Agility,Stealth,Super Strength,Stamina
-Bloodwraith;Male;white;-;No Hair;30,5;Marvel Comics;-;bad;Indefinite;13/06/2003;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Super Strength,Stamina,Super Speed
+Bloodwraith;Male;white;-;No Hair;305;Marvel Comics;-;bad;Indefinite;13/06/2003;Agility,Accelerated Healing,Durability,Stealth,Danger Sense,Super Strength,Stamina,Super Speed
 Blue Beetle;Male;blue;-;Brown;Indefinite;DC Comics;-;good;Indefinite;16/08/1999;Durability,Marksmanship,Weapons Master
 Blue Beetle;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;20/05/2010;Stealth,Flight,Intelligence,Super Strength,Energy Blasts,Size Changing,Stamina,Electrokinesis
 Blue Beetle II;Male;blue;-;Brown;183;DC Comics;-;good;86;18/12/1997;Flight,Telepathy
@@ -282,7 +282,7 @@ Ghost Rider;Male;red;Demon;No Hair;188;Marvel Comics;-;good;99;18/07/2006;Accele
 Ghost Rider II;-;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;30/01/2004;Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
 Giant-Man;Male;-;Human;-;Indefinite;Marvel Comics;-;good;Indefinite;06/10/2008;Agility,Stealth,Intelligence,Stamina,Weapon-based Powers
 Giant-Man II;Male;-;-;-;Indefinite;Marvel Comics;-;good;Indefinite;22/11/2013;Super Strength,Stamina,Super Speed
-Giganta;Female;green;-;Red;62,5;DC Comics;-;bad;630;24/05/2004;Durability
+Giganta;Female;green;-;Red;625;DC Comics;-;bad;630;24/05/2004;Durability
 Gladiator;Male;blue;Strontian;Blue;198;Marvel Comics;purple;neutral;268;12/03/2010;Energy Absorption,Telepathy,Energy Blasts
 Goblin Queen;Female;green;-;Red;168;Marvel Comics;-;bad;50;15/12/1995;Agility,Accelerated Healing,Cold Resistance,Durability,Longevity,Super Strength,Stamina,Super Speed
 Godzilla;-;-;Kaiju;-;108;;grey;bad;0;26/08/2005;Agility,Energy Absorption,Flight,Marksmanship,Energy Blasts,Super Speed
@@ -388,7 +388,7 @@ Kid Flash II;Male;-;-;-;Indefinite;DC Comics;-;good;Indefinite;05/07/1998;Accele
 Killer Croc;Male;red;Metahuman;No Hair;244;DC Comics;green;bad;356;15/12/2001;Agility,Accelerated Healing,Durability,Marksmanship,Longevity,Stamina,Super Speed,Weapon-based Powers
 Killer Frost;Female;blue;Human;Blond;Indefinite;DC Comics;blue;bad;Indefinite;20/07/1997;Accelerated Healing,Durability,Energy Absorption,Flight,Super Strength,Energy Blasts,Super Speed
 Kilowog;Male;red;Bolovaxian;No Hair;234;DC Comics;pink;good;324;10/06/2009;Telepathy
-King Kong;Male;yellow;Animal;Black;30,5;;-;good;0;23/06/2001;Electrokinesis
+King Kong;Male;yellow;Animal;Black;305;;-;good;0;23/06/2001;Electrokinesis
 King Shark;Male;black;Animal;No Hair;Indefinite;DC Comics;-;bad;Indefinite;27/10/2007;Durability,Flight,Super Strength,Stamina,Super Speed
 Kingpin;Male;blue;Human;No Hair;201;Marvel Comics;-;bad;203;14/11/2010; None
 Klaw;Male;red;Human;No Hair;188;Marvel Comics;red;bad;97;16/10/1999;Durability,Super Strength,Stamina,Super Speed
@@ -682,7 +682,7 @@ Triton;Male;green;Inhuman;No Hair;188;Marvel Comics;green;good;86;20/12/2013;Wea
 Two-Face;Male;-;-;-;183;DC Comics;-;bad;82;21/02/1996;Weapons Master
 Ultragirl;Female;blue;-;Blond;168;Marvel Comics;-;good;105;24/10/2006;Cold Resistance,Durability,Longevity,Super Strength,Stamina
 Ultron;Male;red;Android;-;206;Marvel Comics;silver;bad;331;27/02/2011;Agility,Accelerated Healing,Durability,Flight,Longevity,Super Strength,Stamina,Super Speed,Weapon-based Powers
-Utgard-Loki;Male;blue;Frost Giant;White;15,2;Marvel Comics;-;bad;58;26/04/2010;Durability,Super Strength,Stamina,Super Speed
+Utgard-Loki;Male;blue;Frost Giant;White;152;Marvel Comics;-;bad;58;26/04/2010;Durability,Super Strength,Stamina,Super Speed
 Vagabond;Female;blue;-;Strawberry Blond;168;Marvel Comics;-;good;54;04/02/2001;Durability,Super Strength,Stamina,Super Speed
 Valerie Hart;Female;hazel;-;Black;175;Team Epic TV;-;good;56;09/07/2013;Energy Absorption,Flight,Energy Blasts
 Valkyrie;Female;blue;-;Blond;191;Marvel Comics;-;good;214;05/01/2007;Accelerated Healing,Durability,Longevity,Super Strength,Stamina,Super Speed
@@ -729,7 +729,7 @@ X-Man;Male;blue;-;Brown;175;Marvel Comics;-;good;61;24/03/2010;Accelerated Heali
 Yellow Claw;Male;blue;-;No Hair;188;Marvel Comics;-;bad;95;30/05/2009;Intelligence,Telepathy,Possession
 Yellowjacket;Male;blue;Human;Blond;183;Marvel Comics;-;good;83;11/08/2011;Stamina,Super Speed
 Yellowjacket II;Female;blue;Human;Strawberry Blond;165;Marvel Comics;-;good;52;15/10/1995;Agility,Durability,Super Strength
-Ymir;Male;white;Frost Giant;No Hair;304,8;Marvel Comics;white;good;Indefinite;06/11/1999;Agility,Stealth,Super Strength,Telepathy,Super Speed
+Ymir;Male;white;Frost Giant;No Hair;304;Marvel Comics;white;good;Indefinite;06/11/1999;Agility,Stealth,Super Strength,Telepathy,Super Speed
 Yoda;Male;brown;Yoda's species;White;66;George Lucas;green;good;17;06/02/2013;Agility,Durability,Stealth,Marksmanship,Weapons Master,Stamina,Weapon-based Powers
 Zatanna;Female;blue;Human;Black;170;DC Comics;-;good;57;13/10/2007;Accelerated Healing,Telepathy
 Zoom;Male;red;-;Brown;185;DC Comics;-;bad;81;10/10/2004;Dimensional Awareness,Stealth,Intelligence

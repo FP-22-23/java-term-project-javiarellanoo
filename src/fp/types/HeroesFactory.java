@@ -15,7 +15,6 @@ public class HeroesFactory {
 	
 	public static HeroesImpl readHeroes(String fileName) {
 		HeroesImpl heroes = null;
-		
 		try {
 			Stream<Hero> h = Files.lines(Paths.get(fileName)).skip(1).map(HeroesFactory::parseLine);
 			heroes = new HeroesImpl(h);		
@@ -30,13 +29,13 @@ public class HeroesFactory {
 	    String[] values = line.split(";");
 		Checkers.check("Format line error", values .length==12);
 		String name = values[0].trim();
-		Gender gender = parseGender(values[1].trim());
+		Gender gender = parseGender(values[1].trim().toUpperCase());
 		Integer height = parseWH(values[5].trim());
 		Complexion c = new Complexion(values[3].trim(), values[4].trim(), values[7].trim(), values[2].trim());
 		Publisher p = parsePublisher(values[6].trim());
 		Boolean affiliation = parseAff(values[8].trim());
 		Integer weight = parseWH(values[9].trim());
-		LocalDate birthdate = LocalDate.parse(values[10].trim(), DateTimeFormatter.ofPattern("dd/MM/YYYY"));
+		LocalDate birthdate = LocalDate.parse(values[10].trim(), DateTimeFormatter.ofPattern("dd/MM/yyyy"));
 		List<String> powers = parsePowers(values[11]);
 		
 		return new Hero(name, gender, height, weight, affiliation, c, birthdate, p, powers);
@@ -90,7 +89,7 @@ public class HeroesFactory {
 			gen = Gender.NOT_AVAILABLE;
 		}
 		else {
-			gen = Gender.valueOf(g.trim());}
+			gen = Gender.valueOf(g);}
 		return gen;
 	}
 }

@@ -27,7 +27,27 @@ public class HeroesImpl {
 	public Integer getNumberHeroes() {
 		return heroes.size();
 	}
+
+	public List<Hero> getHeroes() {
+		return heroes;
+	}
+
+	@Override
+	public String toString() {
+		return "HeroesImpl [heroes=" + heroes + "]";
+	}
 	
+	public void addHero(Hero h) {
+		heroes.add(h);
+	}
+	
+	public void addHeroes(Collection<Hero> ch) {
+		heroes.addAll(ch);
+	}
+	
+	public void removeHero(Hero h) {
+		heroes.remove(h);
+	}
 	
 
 }
