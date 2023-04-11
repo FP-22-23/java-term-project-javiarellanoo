@@ -76,7 +76,7 @@ public class HeroesFactory {
 	public static Integer parseWH(String wh) {
 		Integer res = null;
 		if(wh.equals("Indefinite")) {
-			res = 999999;
+			res = 0;
 		}
 		else {
 			res = Integer.valueOf(wh);
