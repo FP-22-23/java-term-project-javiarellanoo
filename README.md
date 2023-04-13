@@ -72,3 +72,22 @@ Represents a comic hero
 - Publisher, enumerated. Can take the values MARVEL, DC, DARK_HORSE, OTHER.
 - Gender, enumerated. Can take the vales MALE, FEMALE, NOT_AVAILABLE.
 - Complexion, record. Contains the skin colour, race, eye colour and hair colour of the character.
+ 
+### Factory - HeroesFactory
+ Factory- type class to create objects of type Heroes:
+ - _Heroes readHeroes(String fileName)_:Creates an object of type Heroes from the information file, whose route is passed as a parameter.
+ 
+ -_ Hero parseLine(String line)_: Creates an object of type Hero from each line of the information file.
+ 
+ -_ Publisher parsePublisher(String p)_: Parses the string received to one of the possible values of the enum. Publisher.
+ 
+ -_ Boolean parseAff(String a)_: Parses the string received to a boolean value depending on whether it takes good or bad as value.
+ 
+ -_List<String> parsePowers(String power)_: Parses a string by splitting it by commas and adding each value to a List.
+ 
+ -_Integer parseWH(String wh)_: Parses a string into an Integer using the method valueOf, however it takes into account the "Indefinite" string contained in the file by making it 0.
+ 
+ -_Gender parseGender(String g): Parses the string received to one of the possible values of the enum. Gender.
+ 
+ ### Container Type- Heroes
+ 
