@@ -77,11 +77,11 @@ Represents a comic hero
  Factory- type class to create objects of type Heroes:
  - _Heroes readHeroes(String fileName)_:Creates an object of type Heroes from the information file, whose route is passed as a parameter.
  
- -_ Hero parseLine(String line)_: Creates an object of type Hero from each line of the information file.
+ -_Hero parseLine(String line)_: Creates an object of type Hero from each line of the information file.
  
- -_ Publisher parsePublisher(String p)_: Parses the string received to one of the possible values of the enum. Publisher.
+ -_Publisher parsePublisher(String p)_: Parses the string received to one of the possible values of the enum. Publisher.
  
- -_ Boolean parseAff(String a)_: Parses the string received to a boolean value depending on whether it takes good or bad as value.
+ -_Boolean parseAff(String a)_: Parses the string received to a boolean value depending on whether it takes good or bad as value.
  
  -_List<String> parsePowers(String power)_: Parses a string by splitting it by commas and adding each value to a List.
  
