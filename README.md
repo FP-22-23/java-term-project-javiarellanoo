@@ -87,7 +87,7 @@ Represents a comic hero
  
  -_Integer parseWH(String wh)_: Parses a string into an Integer using the method valueOf, however it takes into account the "Indefinite" string contained in the file by making it 0.
  
- -_Gender parseGender(String g): Parses the string received to one of the possible values of the enum. Gender.
+ -_Gender parseGender(String g)_: Parses the string received to one of the possible values of the enum. Gender.
  
  ### Container Type- Heroes
  
