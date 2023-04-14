@@ -4,7 +4,7 @@ import fp.types.*;
 
 public class TestHeroes {
 	
-	private static HeroesImpl heroes = HeroesFactory.readHeroes("./data/heroes_information.csv");
+	private static Heroes heroes = HeroesFactory.readHeroes("./data/heroes_information.csv");
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

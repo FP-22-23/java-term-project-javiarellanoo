@@ -13,11 +13,11 @@ import fp.utils.Checkers;
 
 public class HeroesFactory {
 	
-	public static HeroesImpl readHeroes(String fileName) {
-		HeroesImpl heroes = null;
+	public static Heroes readHeroes(String fileName) {
+		Heroes heroes = null;
 		try {
 			Stream<Hero> h = Files.lines(Paths.get(fileName)).skip(1).map(HeroesFactory::parseLine);
-			heroes = new HeroesImpl(h);		
+			heroes = new Heroes(h);		
 			}catch(IOException e){
 				System.out.println("Error with the file" + fileName);
 				e.printStackTrace();

@@ -5,24 +5,42 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class HeroesImpl {
+public class Heroes {
+	@Override
+	public int hashCode() {
+		return Objects.hash(heroes);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Heroes other = (Heroes) obj;
+		return Objects.equals(heroes, other.heroes);
+	}
+
 	private List<Hero> heroes;
 	
 	//Creates an empty collection of heroes
-	public HeroesImpl() {
+	public Heroes() {
 		heroes = new ArrayList<Hero>();
 	}
 	
 	//Creates a type HeroesImpl from a collection of heroes (using collections)
-	public HeroesImpl(Collection<Hero> cheroes) {
+	public Heroes(Collection<Hero> cheroes) {
 		heroes = new ArrayList<Hero>(cheroes);
 	}
 	
 	//Creates a type HeroesImpl from a collection of heroes using stream.
-	public HeroesImpl(Stream<Hero> sheroes) {
+	public Heroes(Stream<Hero> sheroes) {
 		heroes = sheroes.collect(Collectors.toList());
 	}
 	
