@@ -127,7 +127,8 @@ Two Heroes objects are equal if they contain the same heroes.
 - _Map<String, Long> getNumberHeroesByRaceS()_: Returns a map where the keys are the races that the heroes belong to and the keys are the number of heroes belonging to that race
 - _Map<Publisher, Hero> getHeroesMostPowers()_: Method that groups the heroes with the greatest number of powers by Publisher
 - _Map<Publisher, String> getHeaviestHerobyPublisher()_:  Map in which the keys are the properties of the object Hero and each key is the hero with the minimum value of said property.
-- _
+- _SortedMap<String, List<String>> getNTallestHeroesbyRace(Long n)_: SortedMap in which the keys are the races of the heroes and the values are ordered lists with the N tallest characters.
+- _Map.Entry<Publisher, Hero> getPairSmallestNumberOfPowers()_: Returns the entry of the dictionary where the keys are the publisher and the valueis the hero with the least amount of powers among them all.
 
 
  
