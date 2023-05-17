@@ -115,4 +115,23 @@ Two Heroes objects are equal if they contain the same heroes.
 - _List<String> getHeroesWithCertainPower(String power)_: Filters the heroes by checking whether they posess a certain power.
 - _Map<String, List<String>> getHeroesbyHairColor()_: Returns a map where the keys are the hair color and the keys are a list of heroes with that hair color.
 - _Map<String, Integer> getNumberHeroesByRace()_: Returns a map where the keys are the races that the heroes belong to and the keys are the number of heroes belonging to that race
+- _Boolean isThereAHeroS(String power)_: Acts as the isThereAHeroWithPower but using streams.
+- _Boolean areAllHeroesOlderThanS(Integer age)_: Implements the areAllHeroesOlderThan function using streams.
+- _Integer howManyHeroesHaveEyesS(String color)_: Counts how many Heroes have eyes of a certain color using streams.
+- _Long allGoodHeroesWeightS()_: Sums the weight of all heroes that satisfy that their affiliation parameter is set to true, using streams.
+- _List<String> getHeroesWithCertainPowerS(String power)_ : Using streams, this function filter super-heroes based on whether they have a power p
+- _Hero maximumNumberOfPowersHero (String p)_: We obtain the maximum of  a list of heroes that have one power.
+- _Hero minimumAgeHero (String r)_:  We obtain the hero with the minimum age that belongs to a certain race.
+- _List<Hero> List<Hero> HeroesByPublisherandAge(Publisher p): Selection with filtering and ordering; We obtain all the heroes from a publisher, sorted by their age.
+- _Map<String, List<String>> getHeroesByHairColorS()_: Returns a map where the keys are the hair color and the keys are a list of heroes with that hair color.
+- _Map<String, Long> getNumberHeroesByRaceS()_: Returns a map where the keys are the races that the heroes belong to and the keys are the number of heroes belonging to that race
+- _Map<Publisher, Hero> getHeroesMostPowers()_: Method that groups the heroes with the greatest number of powers by Publisher
+- _Map<Publisher, String> getHeaviestHerobyPublisher()_:  Map in which the keys are the properties of the object Hero and each key is the hero with the minimum value of said property.
+- _
+
+
+ 
+ 
+ 
+ 
 
